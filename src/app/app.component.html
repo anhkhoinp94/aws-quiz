@@ -3,17 +3,17 @@
     <div class="card-body">
       <div class="row mb-3">
         <div class="col">
-          <h1 class="card-title" style="font-size: 23px;">Question {{ id }}</h1>
+          <h1 class="card-title" style="font-size: 22px;">Question {{ id }}</h1>
           <p class="card-title">{{ numLeft }} questions left</p>
         </div>
         <div class="col-auto">
-          <button *ngIf="show" class="btn btn-primary ms-2 me-2" style="width: 40px" (click)="handleClick(1)">
-            **
+          <button *ngIf="show" class="btn btn-primary me-2" style="width: 40px" (click)="handleClick(1)">
+            *
           </button>
-          <button *ngIf="show" class="btn btn-primary ms-2" style="width: 90px" (click)="handleClick(2)">
+          <button *ngIf="show" class="btn btn-primary ms-2" style="width: 85px" (click)="handleClick(2)">
             Next
           </button>
-          <button *ngIf="!show" class="btn btn-success ms-2" style="width: 90px" (click)="handleClick(3)">
+          <button *ngIf="!show" class="btn btn-success ms-2" style="width: 85px" (click)="handleClick(3)">
             Show
           </button>
         </div>
