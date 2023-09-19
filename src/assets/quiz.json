@@ -3007,7 +3007,7 @@
     "a3": "C. AWS Budgets",
     "a4": "D. Amazon Forecast",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 302,
@@ -3017,7 +3017,7 @@
     "a3": "C. Agility",
     "a4": "D. Colocation",
     "a5": "E. Capital expenses",
-    "as": "z"
+    "as": "BC"
   },
   {
     "id": 303,
@@ -3027,7 +3027,7 @@
     "a3": "C. Reserved Instances",
     "a4": "D. On-Demand Instances",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 304,
@@ -3037,7 +3037,7 @@
     "a3": "C. Amazon Cognito",
     "a4": "D. AWS CodeCommit",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 305,
@@ -3047,7 +3047,7 @@
     "a3": "C. AWS Support",
     "a4": "D. AWS Config",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 306,
@@ -3057,7 +3057,7 @@
     "a3": "C. Performance efficiency",
     "a4": "D. Cost optimization",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 307,
@@ -3067,7 +3067,7 @@
     "a3": "C. Implement monolithic design.",
     "a4": "D. Implement vertical scaling.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 308,
@@ -3077,7 +3077,7 @@
     "a3": "C. economies of scale",
     "a4": "D. reserved storage pricing",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 309,
@@ -3087,7 +3087,7 @@
     "a3": "C. The ability to support innovation through a reduction in the time that is required to make IT resources available to developers",
     "a4": "D. The ability to deploy an application in multiple AWS Regions around the world in minutes",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 310,
@@ -3097,7 +3097,7 @@
     "a3": "C. Traffic Mirroring",
     "a4": "D. Internet gateway",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 311,
@@ -3107,7 +3107,7 @@
     "a3": "C. Amazon WorkSpaces",
     "a4": "D. AWS Site-to-Site VPN",
     "a5": "E. Amazon Elastic Container Service (Amazon ECS)",
-    "as": "z"
+    "as": "BC"
   },
   {
     "id": 312,
@@ -3117,7 +3117,7 @@
     "a3": "C. Firewall configuration",
     "a4": "D. Maintaining physical hardware",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 313,
@@ -3127,7 +3127,7 @@
     "a3": "C. Amazon Elastic File System (Amazon EFS)",
     "a4": "D. Amazon Simple Storage Service (Amazon S3)",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 314,
@@ -3137,7 +3137,7 @@
     "a3": "C. AWS Batch",
     "a4": "D. Amazon Simple Email Service (Amazon SES)",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 315,
@@ -3147,7 +3147,7 @@
     "a3": "C. Amazon S3",
     "a4": "D. Amazon CloudFront",
     "a5": "E. Amazon DynamoDB",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 316,
@@ -3157,7 +3157,7 @@
     "a3": "C. Focusing on decoupling components by isolating them and ensuring individual components can function when other components fail.",
     "a4": "D. Doubling EC2 computing resources to increase system fault tolerance.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 317,
@@ -3167,7 +3167,7 @@
     "a3": "C. Amazon GuardDuty",
     "a4": "D. AWS Secrets Manager",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 318,
@@ -3177,7 +3177,7 @@
     "a3": "C. Create an IAM user and use its access key and secret access key to create a CLI profile in the EC2 instance",
     "a4": "D. Create an IAM role with the required permissions. Attach the role to the administrative IAM user.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 319,
@@ -3187,7 +3187,7 @@
     "a3": "C. Security",
     "a4": "D. Well-Architected Framework",
     "a5": "E. Rightsizing",
-    "as": "z"
+    "as": "BC"
   },
   {
     "id": 320,
@@ -3197,7 +3197,7 @@
     "a3": "C. Backup and restore",
     "a4": "D. Pilot light",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 321,
@@ -3207,7 +3207,7 @@
     "a3": "C. Amazon Elastic File System (Amazon EFS)",
     "a4": "D. Amazon S3",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 322,
@@ -3217,7 +3217,7 @@
     "a3": "C. Amazon FSx for Windows File Server",
     "a4": "D. Amazon Elastic Block Store (Amazon EBS)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 323,
@@ -3227,7 +3227,7 @@
     "a3": "C. Amazon Lightsail",
     "a4": "D. AWS Organizations",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 324,
@@ -3237,7 +3237,7 @@
     "a3": "C. To impose bandwidth constraints on internet traffic",
     "a4": "D. To load balance traffic from the internet across Amazon EC2 instances",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 325,
@@ -3247,7 +3247,7 @@
     "a3": "C. AWS Artifact",
     "a4": "D. AWS Shield",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 326,
@@ -3257,7 +3257,7 @@
     "a3": "C. AWS Cost and Usage Report",
     "a4": "D. AWS Pricing Calculator",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 327,
@@ -3267,7 +3267,7 @@
     "a3": "C. They enable the application's static content to reside closer to end users.",
     "a4": "D. They are able to distribute incoming requests across a tier of web server instances.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 328,
@@ -3277,7 +3277,7 @@
     "a3": "C. Reserved Instances",
     "a4": "D. Dedicated Instances",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 329,
@@ -3287,7 +3287,7 @@
     "a3": "C. Running application code with AWS Cloud9",
     "a4": "D. Enabling multi-factor authentication (MFA) with Amazon Cognito",
     "a5": "E. Using AWS Trusted Advisor security checks",
-    "as": "z"
+    "as": "DE"
   },
   {
     "id": 330,
@@ -3297,7 +3297,7 @@
     "a3": "C. Cost Explorer",
     "a4": "D. AWS Budgets",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 331,
@@ -3307,7 +3307,7 @@
     "a3": "C. AWS Systems Manager",
     "a4": "D. AWS Config",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 332,
@@ -3317,7 +3317,7 @@
     "a3": "C. Making any AWS service available for use by paying on demand",
     "a4": "D. Deploying in any part of the world using AWS Regions",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 333,
@@ -3327,7 +3327,7 @@
     "a3": "C. Access policies; buckets",
     "a4": "D. Groups; roles",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 334,
@@ -3337,7 +3337,7 @@
     "a3": "C. Elasticity",
     "a4": "D. Pay-as-you-go pricing",
     "a5": "E. Reliability",
-    "as": "z"
+    "as": "CD"
   },
   {
     "id": 335,
@@ -3347,7 +3347,7 @@
     "a3": "C. AWS Storage Gateway",
     "a4": "D. Amazon S3 Transfer Acceleration",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 336,
@@ -3357,7 +3357,7 @@
     "a3": "C. AWS CodeDeploy",
     "a4": "D. AWS Management Console",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 337,
@@ -3367,7 +3367,7 @@
     "a3": "C. AWS Outposts",
     "a4": "D. AWS Wavelength Zones",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 338,
@@ -3377,7 +3377,7 @@
     "a3": "C. Use Amazon QuickSight to analyze current on-premises spending.",
     "a4": "D. Use Amazon AppStream 2.0 for real-time pricing analytics.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 339,
@@ -3387,7 +3387,7 @@
     "a3": "C. EC2 Reserved Instances",
     "a4": "D. EC2 On-Demand Instances",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 340,
@@ -3397,7 +3397,7 @@
     "a3": "C. Implement a VPN across multiple AWS Regions.",
     "a4": "D. Deliver the content through AWS PrivateLink.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 341,
@@ -3407,7 +3407,7 @@
     "a3": "C. Amazon Pinpoint",
     "a4": "D. Amazon Connect",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 342,
@@ -3417,7 +3417,7 @@
     "a3": "C. Amazon CloudFront",
     "a4": "D. AWS Storage Gateway",
     "a5": "E. Amazon Connect",
-    "as": "z"
+    "as": "BD"
   },
   {
     "id": 343,
@@ -3427,7 +3427,7 @@
     "a3": "C. AWS X-Ray",
     "a4": "D. AWS CloudTrail",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 344,
@@ -3437,7 +3437,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. Amazon GuardDuty",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 345,
@@ -3447,7 +3447,7 @@
     "a3": "C. AWS CodePipeline",
     "a4": "D. AWS DataSyne",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 346,
@@ -3457,7 +3457,7 @@
     "a3": "C. NAT instances",
     "a4": "D. Amazon RDS",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 347,
@@ -3467,7 +3467,7 @@
     "a3": "C. AWS Backup",
     "a4": "D. Amazon Elastic File System (Amazon EFS)",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 348,
@@ -3477,7 +3477,7 @@
     "a3": "C. Amazon Comprehend",
     "a4": "D. Amazon Rekognition",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 349,
@@ -3487,7 +3487,7 @@
     "a3": "C. 51B",
     "a4": "D. Unlimited",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 350,
@@ -3497,7 +3497,7 @@
     "a3": "C. AWS Concierge Support team",
     "a4": "D. Amazon Connect",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 351,
@@ -3507,7 +3507,7 @@
     "a3": "C. AWS Security Bulletins",
     "a4": "D. Amazon Inspector",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 352,
@@ -3517,7 +3517,7 @@
     "a3": "C. AWS Direct Connect",
     "a4": "D. AWS Global Accelerator",
     "a5": "E. Amazon S3 Glacier",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 353,
@@ -3527,7 +3527,7 @@
     "a3": "C. Amazon Redshift",
     "a4": "D. Amazon Neptune",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 354,
@@ -3537,7 +3537,7 @@
     "a3": "C. Use Reserved Instances whenever possible.",
     "a4": "D. Use tags to associate each instance with a particular department.",
     "a5": "E. Pay bills using purchase orders.",
-    "as": "z"
+    "as": "BD"
   },
   {
     "id": 355,
@@ -3547,7 +3547,7 @@
     "a3": "C. AWS Batch",
     "a4": "D. AWS OpsWorks",
     "a5": "E. Amazon QuickSight",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 356,
@@ -3557,7 +3557,7 @@
     "a3": "C. AWS Cost and Usage Report",
     "a4": "D. AWS Budgets",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 357,
@@ -3567,7 +3567,7 @@
     "a3": "C. AWS Snowball",
     "a4": "D. AWS Direct Connect",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 358,
@@ -3577,7 +3577,7 @@
     "a3": "C. Key-value",
     "a4": "D. Graph",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 359,
@@ -3587,7 +3587,7 @@
     "a3": "C. Network ACLs",
     "a4": "D. AWS Shield",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 360,
@@ -3597,7 +3597,7 @@
     "a3": "C. Amazon Cognito",
     "a4": "D. AWS Direct Connect",
     "a5": "E. AWS Managed Services",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 361,
@@ -3607,7 +3607,7 @@
     "a3": "C. On-Demand Instances",
     "a4": "D. Reserved Instances",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 362,
@@ -3617,7 +3617,7 @@
     "a3": "C. AWS Trusted Advisor",
     "a4": "D. Cost Explorer",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 363,
@@ -3627,7 +3627,7 @@
     "a3": "C. Use Amazon Cognito to manage access",
     "a4": "D. Configure a strong password policy",
     "a5": "E. Enable AWS Organizations",
-    "as": "z"
+    "as": "BD"
   },
   {
     "id": 364,
@@ -3637,7 +3637,7 @@
     "a3": "C. Transitioning objects from Amazon S3 to Amazon S3 Glacier in separate AWS accounts will be less expensive.",
     "a4": "D. Having multiple accounts reduces the risks associated with malicious activity targeted at a single account.",
     "a5": "E. Amazon QuickSight offers access to a cost tool that provides application-specific recommendations for environments running in multiple accounts.",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 365,
@@ -3647,7 +3647,7 @@
     "a3": "C. AWS Budgets",
     "a4": "D. AWS Trusted Advisor",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 366,
@@ -3657,7 +3657,7 @@
     "a3": "C. AWS Transfer Family",
     "a4": "D. AWS Site-to-Site VPN",
     "a5": "E, Amazon API Gateway",
-    "as": "z"
+    "as": "BE"
   },
   {
     "id": 367,
@@ -3667,7 +3667,7 @@
     "a3": "C. Operational excellence",
     "a4": "D. Reliability",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 368,
@@ -3677,7 +3677,7 @@
     "a3": "C. Create an On-Demand Capacity Reservation",
     "a4": "D. Purchase Dedicated Reserved Instances.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 369,
@@ -3687,7 +3687,7 @@
     "a3": "C. Amazon Elastic Container Service (Amazon ECS)",
     "a4": "D. Amazon S3",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 370,
@@ -3697,7 +3697,7 @@
     "a3": "C. Distribution of all operational controls to AWS",
     "a4": "D. Elimination of operational expenses",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 371,
@@ -3707,7 +3707,7 @@
     "a3": "C. Amazon Elastic Block Store (Amazon EBS)",
     "a4": "D. Amazon SageMaker",
     "a5": "E. AWS Storage Gateway",
-    "as": "z"
+    "as": "AC"
   },
   {
     "id": 372,
@@ -3717,7 +3717,7 @@
     "a3": "C. AWS Direct Connect",
     "a4": "D. Amazon Connect",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 373,
@@ -3727,7 +3727,7 @@
     "a3": "C. Elasticity",
     "a4": "D. Global reach",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 374,
@@ -3737,7 +3737,7 @@
     "a3": "C. AWS Organizations",
     "a4": "D. AWS Pricing Calculator",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 375,
@@ -3747,7 +3747,7 @@
     "a3": "C. Password policies",
     "a4": "D. Access keys",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 376,
@@ -3757,7 +3757,7 @@
     "a3": "C. Amazon CloudFront",
     "a4": "D. AWS Outposts",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 377,
@@ -3767,7 +3767,7 @@
     "a3": "C. AWS Batch",
     "a4": "D. Amazon Simple Email Service (Amazon SES)",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 378,
@@ -3777,7 +3777,7 @@
     "a3": "C. Hybrid architecture",
     "a4": "D. Infrastructure as a service",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 379,
@@ -3787,7 +3787,7 @@
     "a3": "C. Ensure performance efficiency.",
     "a4": "D. Optimize costs.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 380,
@@ -3797,7 +3797,7 @@
     "a3": "C. AWS Directory Service for Microsoft Active Directory",
     "a4": "D. Amazon RDS for Microsoft SQL Server",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 381,
@@ -3807,7 +3807,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. AWS CloudTrail",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 382,
@@ -3817,7 +3817,7 @@
     "a3": "C. Amazon Redshift",
     "a4": "D. Amazon S3 Glacier",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 383,
@@ -3827,7 +3827,7 @@
     "a3": "C. AWell-Architected review is an audit mechanism that is a part of requirements for service level agreements.",
     "a4": "D. A Well-Architected review eliminates the need for ongoing auditing and compliance tests.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 384,
@@ -3837,7 +3837,7 @@
     "a3": "C. Operational excellence",
     "a4": "D. Reliability",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 385,
@@ -3847,7 +3847,7 @@
     "a3": "C. Updating the firmware on the underlying EC2 hosts.",
     "a4": "D. Updating the security group rules to block traffic to the vulnerable ports.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 386,
@@ -3857,7 +3857,7 @@
     "a3": "C. set up data lakes.",
     "a4": "D. create reports for billing.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 387,
@@ -3867,7 +3867,7 @@
     "a3": "C. Scalability",
     "a4": "D. High availability",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 388,
@@ -3877,7 +3877,7 @@
     "a3": "C. Scaling Lambda resources according to demand",
     "a4": "D. Updating the Lambda runtime environment",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 389,
@@ -3887,7 +3887,7 @@
     "a3": "C. AWS Budgets reports",
     "a4": "D. AWS Cost and Usage Reports",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 390,
@@ -3897,7 +3897,7 @@
     "a3": "C. Create an IAM role and provide AWS Management Console access only.",
     "a4": "D. Create an IAM policy with administrator access and attach it to the IAM user.",
     "a5": "E. Create an IAM policy with Amazon RDS access and attach it to the IAM user.",
-    "as": "z"
+    "as": "BE"
   },
   {
     "id": 391,
@@ -3907,7 +3907,7 @@
     "a3": "C. Design for automated recovery from failure.",
     "a4": "D. Use tightly coupled components.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 392,
@@ -3917,7 +3917,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. AWS X-Ray",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 393,
@@ -3927,7 +3927,7 @@
     "a3": "C. Amazon Redshift",
     "a4": "D. Amazon ElastiCache",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 394,
@@ -3937,7 +3937,7 @@
     "a3": "C. User control of infrastructure.",
     "a4": "D. Increased agility.",
     "a5": "E. AWS holds responsibility for security in the cloud.",
-    "as": "z"
+    "as": "BD"
   },
   {
     "id": 395,
@@ -3947,7 +3947,7 @@
     "a3": "C. reduced operational expenditure (opex).",
     "a4": "D. deferred payment plans for startups.",
     "a5": "E. business credit lines for startups.",
-    "as": "z"
+    "as": "AC"
   },
   {
     "id": 396,
@@ -3957,7 +3957,7 @@
     "a3": "C. Elastic Load Balancers",
     "a4": "D. AWS WAF",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 397,
@@ -3967,7 +3967,7 @@
     "a3": "C. Use access keys to log in to the AWS Management Console",
     "a4": "D. Rotate access keys on a regular basis",
     "a5": "E. Avoid using IAM roles to delegate permissions",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 398,
@@ -3977,7 +3977,7 @@
     "a3": "C. AWS CloudFormation",
     "a4": "D. AWS OpsWorks",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 399,
@@ -3987,7 +3987,7 @@
     "a3": "C. By having no operational expenditures",
     "a4": "D. By having AWS manage applications",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 400,
@@ -3997,7 +3997,7 @@
     "a3": "C. Elastic Load Balancing",
     "a4": "D. AWS Lambda",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 401,
@@ -4007,7 +4007,7 @@
     "a3": "C. Spot Instances",
     "a4": "D. Dedicated Hosts",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 402,
@@ -4017,7 +4017,7 @@
     "a3": "C. Move resources to a different AWS Region",
     "a4": "D. Delete AWS CloudTrail resources.",
     "a5": "E. Contact AWS Support.",
-    "as": "z"
+    "as": "BE"
   },
   {
     "id": 403,
@@ -4027,7 +4027,7 @@
     "a3": "C. Updating the database engine",
     "a4": "D. Updating the user data",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 404,
@@ -4037,7 +4037,7 @@
     "a3": "C. It automates customer relationship management.",
     "a4": "D. It implements a fixed monthly computing budget.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 405,
@@ -4047,7 +4047,7 @@
     "a3": "C. Amazon S3",
     "a4": "D. Amazon EBS",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 406,
@@ -4057,7 +4057,7 @@
     "a3": "C. AWS CodePipeline",
     "a4": "D. AWS CodeStar",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 407,
@@ -4067,7 +4067,7 @@
     "a3": "C. Billing Dashboard",
     "a4": "D. AWS Config",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 408,
@@ -4077,7 +4077,7 @@
     "a3": "C. Configure the architecture across multiple AWS Regions.",
     "a4": "D. Configure the architecture among many edge locations.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 409,
@@ -4087,7 +4087,7 @@
     "a3": "C. Delete the root user access keys.",
     "a4": "D. Use the root user for daily tasks.",
     "a5": "E. Assign a read-only access policy to the root user.",
-    "as": "z"
+    "as": "AC"
   },
   {
     "id": 410,
@@ -4097,7 +4097,7 @@
     "a3": "C. AWS Developer Support",
     "a4": "D. AWS Basic Support",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 411,
@@ -4107,7 +4107,7 @@
     "a3": "C. Agility",
     "a4": "D. Reliability",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 412,
@@ -4117,7 +4117,7 @@
     "a3": "C. Move each user's working environment to Amazon WorkSpaces. Set up an Amazon WorkDoes account for each user.",
     "a4": "D. Deploy an Amazon EC2 instance and attach an Amazon Elastic Block Store (Amazon EBS) Provisioned IOPS volume. Share the EBS volume directly with the users.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 413,
@@ -4127,7 +4127,7 @@
     "a3": "C. All Upfront Reserved Instances",
     "a4": "D. AWS Cost Explorer",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 414,
@@ -4137,7 +4137,7 @@
     "a3": "C. a managed policy.",
     "a4": "D. an API key.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 415,
@@ -4147,7 +4147,7 @@
     "a3": "C. Users retain full administrative access to their compute instances.",
     "a4": "D. Users can optimize costs by permanently running enough instances at peak load.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 416,
@@ -4157,7 +4157,7 @@
     "a3": "C. Amazon Cognito",
     "a4": "D. AWS Certificate Manager (ACM)",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 417,
@@ -4167,7 +4167,7 @@
     "a3": "C. AWS Outposts",
     "a4": "D. AWS Fargate",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 418,
@@ -4177,7 +4177,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. AWS X-Ray",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 419,
@@ -4187,7 +4187,7 @@
     "a3": "C. AWS Trusted Advisor",
     "a4": "D. AWS Organizations",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 420,
@@ -4197,7 +4197,7 @@
     "a3": "C. On-site support from AWS engineers",
     "a4": "D. AWS managed compliance as code with AWS Config",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 421,
@@ -4207,7 +4207,7 @@
     "a3": "C. Encrypt user network traffic.",
     "a4": "D. Create TLS certificates for users' websites.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 422,
@@ -4217,7 +4217,7 @@
     "a3": "C. Amazon Elastic Block Store (Amazon EBS)",
     "a4": "D. Amazon Cognito",
     "a5": "E. AWS Lambda",
-    "as": "z"
+    "as": "AE"
   },
   {
     "id": 423,
@@ -4227,7 +4227,7 @@
     "a3": "C. AWS Blog",
     "a4": "D. AWS Forums",
     "a5": "E. AWS Classroom Training",
-    "as": "z"
+    "as": "BE"
   },
   {
     "id": 424,
@@ -4237,7 +4237,7 @@
     "a3": "C. across multiple Availability Zones in one AWS Region",
     "a4": "D. across multiple Availability Zones in two AWS Regions",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 425,
@@ -4247,7 +4247,7 @@
     "a3": "C. AWS Cost and Usage report",
     "a4": "D. Cost allocation report",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 426,
@@ -4257,7 +4257,7 @@
     "a3": "C. Cost Explorer",
     "a4": "D. AWS Budgets",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 427,
@@ -4267,7 +4267,7 @@
     "a3": "C. There will be better coverage as Availability Zones are geographically distant and can serve a wider area.",
     "a4": "D. There will be decreased application latency that will improve the user experience.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 428,
@@ -4277,7 +4277,7 @@
     "a3": "C. Adding a secondary payment method",
     "a4": "D. Running all operations on a single AWS account",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 429,
@@ -4287,7 +4287,7 @@
     "a3": "C. Amazon Route 53 global DNS",
     "a4": "D. Amazon Simple Storage Service (Amazon S3) transfer acceleration",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 430,
@@ -4297,7 +4297,7 @@
     "a3": "C. Reserved Instances",
     "a4": "D. Dedicated Hosts",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 431,
@@ -4307,7 +4307,7 @@
     "a3": "C. Amazon S3.",
     "a4": "D. Amazon Simple Queue Service (Amazon SQS)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 432,
@@ -4317,7 +4317,7 @@
     "a3": "C. Amazon CloudFront",
     "a4": "D. AWS Shield",
     "a5": "E. AWS Identity and Access Management (IAM)",
-    "as": "z"
+    "as": "CD"
   },
   {
     "id": 433,
@@ -4327,7 +4327,7 @@
     "a3": "C. Elastic Load Balancer",
     "a4": "D. Amazon Route 53",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 434,
@@ -4337,7 +4337,7 @@
     "a3": "C. Create a placement group to host the resources.",
     "a4": "D. Create an AWS Direct Connect connection between the company and AWS.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 435,
@@ -4347,7 +4347,7 @@
     "a3": "C. The cost of administering the infrastructure, including operating system and software installations, patches, backups, and recovering from failures.",
     "a4": "D. The costs of third-party penetration testing.",
     "a5": "E. The advertising costs associated with an ongoing enterprise-wide campaign.",
-    "as": "z"
+    "as": "BC"
   },
   {
     "id": 436,
@@ -4357,7 +4357,7 @@
     "a3": "C. AWS Elastic Beanstalk",
     "a4": "D. Amazon Redshift",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 437,
@@ -4367,7 +4367,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. AWS Support",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 438,
@@ -4377,7 +4377,7 @@
     "a3": "C. AWS CloudTrail",
     "a4": "D. Amazon Macie",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 439,
@@ -4387,7 +4387,7 @@
     "a3": "C. Amazon Route 53",
     "a4": "D. Amazon Connect",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 440,
@@ -4397,7 +4397,7 @@
     "a3": "C. AWS Config rules",
     "a4": "D. VPC Flow Logs",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 441,
@@ -4407,7 +4407,7 @@
     "a3": "C. AWS Total Cost of Ownership (TCO) Calculator",
     "a4": "D. AWS Well-Architected Tool",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 442,
@@ -4417,7 +4417,7 @@
     "a3": "C. VPC peering",
     "a4": "D. AWS Direct Connect",
     "a5": "E. AWS Transit Gateway",
-    "as": "z"
+    "as": "CE"
   },
   {
     "id": 443,
@@ -4427,7 +4427,7 @@
     "a3": "C. Start with a minimum set of permissions and grant additional permissions as necessary.",
     "a4": "D. Attach policies directly to each user individually.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 444,
@@ -4437,7 +4437,7 @@
     "a3": "C. It provides a simplified billing invoice that the company can process more quickly than a standard invoice.",
     "a4": "D. It gives AWS resellers the ability to bill their customers for usage.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 445,
@@ -4447,7 +4447,7 @@
     "a3": "C. Create an access key for the root user.",
     "a4": "D. Keep the root user password consistent for compliance purposes.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 446,
@@ -4457,7 +4457,7 @@
     "a3": "C. is relevant only for Amazon EC2, Amazon S3, and Amazon RDS.",
     "a4": "D. reduces operational expenditures.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 447,
@@ -4467,7 +4467,7 @@
     "a3": "C. Security",
     "a4": "D. Scalability",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 448,
@@ -4477,7 +4477,7 @@
     "a3": "C. AWS Identity and Access Management (IAM)",
     "a4": "D. Network ACLs",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 449,
@@ -4487,7 +4487,7 @@
     "a3": "C. Partial upfront payment",
     "a4": "D. All upfront payment",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 450,
@@ -4497,7 +4497,7 @@
     "a3": "C. Elasticity",
     "a4": "D. High availability",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 451,
@@ -4507,7 +4507,7 @@
     "a3": "C. Implement a highly available architecture.",
     "a4": "D. Use managed services.",
     "a5": "E. Improve application security.",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 452,
@@ -4517,7 +4517,7 @@
     "a3": "C. Resource",
     "a4": "D. Statement",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 453,
@@ -4527,7 +4527,7 @@
     "a3": "C. Dedicated Instances",
     "a4": "D. Spot Instances",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 454,
@@ -4537,7 +4537,7 @@
     "a3": "C. AWS allows users to choose AWS Regions and data centers so that users can select the closest data centers in different Regions.",
     "a4": "D. The AWS infrastructure consists of isolated AWS Regions with independent Availability Zones that are connected with low-latency networking and redundant power supplies.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 455,
@@ -4547,7 +4547,7 @@
     "a3": "C. Notify AWS support, and then conduct testing immediately.",
     "a4": "D. Request and wait for approval from AWS support, and then conduct testing.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 456,
@@ -4557,7 +4557,7 @@
     "a3": "C. AWS Directory Service",
     "a4": "D. Amazon API Gateway",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 457,
@@ -4567,7 +4567,7 @@
     "a3": "C. Edge locations",
     "a4": "D. Availability Zones",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 458,
@@ -4577,7 +4577,7 @@
     "a3": "C. Amazon Elastic File System (EFS)",
     "a4": "D. Amazon Glacier",
     "a5": "E. Amazon CloudFront",
-    "as": "z"
+    "as": "BE"
   },
   {
     "id": 459,
@@ -4587,7 +4587,7 @@
     "a3": "C. On-Demand Instances",
     "a4": "D. Reserved Instances",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 460,
@@ -4597,7 +4597,7 @@
     "a3": "C. Amazon QuickSight.",
     "a4": "D. AWS Organizations.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 461,
@@ -4607,7 +4607,7 @@
     "a3": "C. Application security",
     "a4": "D. Physical security of hardware",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 462,
@@ -4617,7 +4617,7 @@
     "a3": "C. AWS Trusted Advisor",
     "a4": "D. Amazon Inspector",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 463,
@@ -4627,7 +4627,7 @@
     "a3": "C. Amazon Forecast",
     "a4": "D. AWS Config",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 464,
@@ -4637,7 +4637,7 @@
     "a3": "C. Manually provisioning cloud resources",
     "a4": "D. Purchasing for the maximum possible load",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 465,
@@ -4647,7 +4647,7 @@
     "a3": "C. Maintaining Amazon S3 infrastructure",
     "a4": "D. Updating the guest operating system on Amazon EC2 instances",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 466,
@@ -4657,7 +4657,7 @@
     "a3": "C. Testing recovery procedures",
     "a4": "D. Changing infrastructure manually",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 467,
@@ -4667,7 +4667,7 @@
     "a3": "C. Enabling caching in the AWS Region that is being used",
     "a4": "D. Using edge locations to put content closer to all users",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 468,
@@ -4677,7 +4677,7 @@
     "a3": "C. Architecture optimization",
     "a4": "D. Tagging enforcement",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 469,
@@ -4687,7 +4687,7 @@
     "a3": "C. Global reach",
     "a4": "D. Economies of scale",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 470,
@@ -4697,7 +4697,7 @@
     "a3": "C. Contact the AWS Abuse team.",
     "a4": "D. Contact the AWS Support team.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 471,
@@ -4707,7 +4707,7 @@
     "a3": "C. AWS Artifact",
     "a4": "D. AWS Service Catalog",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 472,
@@ -4717,7 +4717,7 @@
     "a3": "C. Elasticity of the AWS Cloud",
     "a4": "D. Lower variable costs due to massive economies of scale",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 473,
@@ -4727,7 +4727,7 @@
     "a3": "C. Amazon Aurora",
     "a4": "D. Amazon Redshift",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 474,
@@ -4737,7 +4737,7 @@
     "a3": "C. Ensure that the application is designed to accommodate failure of any single component.",
     "a4": "D. Use a monolithic application that handles all operations.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 475,
@@ -4747,7 +4747,7 @@
     "a3": "C. Installing the database engine",
     "a4": "D. Dropping the database records",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 476,
@@ -4757,7 +4757,7 @@
     "a3": "C. Labor costs to replace old servers",
     "a4": "D. Application developer time",
     "a5": "E. Database engine capacity",
-    "as": "z"
+    "as": "BC"
   },
   {
     "id": 477,
@@ -4767,7 +4767,7 @@
     "a3": "C. Microsoft SQL Server on Amazon EC2",
     "a4": "D. Amazon RDS for SQL Server",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 478,
@@ -4777,7 +4777,7 @@
     "a3": "C. Amazon CloudFront",
     "a4": "D. AWS Cloud Map",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 479,
@@ -4787,7 +4787,7 @@
     "a3": "C. Using Consolidated Billing to produce one bill",
     "a4": "D. Decreased acquisition time for new compute resources",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 480,
@@ -4797,7 +4797,7 @@
     "a3": "C. It prevents cascading failures between different components.",
     "a4": "D. It allows companies to focus on their physical data center operations.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 481,
@@ -4807,7 +4807,7 @@
     "a3": "C. AWS Trusted Advisor",
     "a4": "D. Amazon Inspector",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 482,
@@ -4817,7 +4817,7 @@
     "a3": "C. Built-in AWS CloudTrail audit capabilities",
     "a4": "D. Auto Scaling policies",
     "a5": "E. Centralized logging",
-    "as": "z"
+    "as": "BD"
   },
   {
     "id": 483,
@@ -4827,7 +4827,7 @@
     "a3": "C. Amazon DirectConnect",
     "a4": "D. AWS Trusted Advisor",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 484,
@@ -4837,7 +4837,7 @@
     "a3": "C. Amazon Kinesis Data Analytics",
     "a4": "D. AWS Data Pipeline",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 485,
@@ -4847,7 +4847,7 @@
     "a3": "C. Backing up databases",
     "a4": "D. Creating database schema",
     "a5": "E. Running penetration tests",
-    "as": "z"
+    "as": "AC"
   },
   {
     "id": 486,
@@ -4857,7 +4857,7 @@
     "a3": "C. Amazon CloudFront",
     "a4": "D. Amazon Simple Queue Service (Amazon SQS)",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 487,
@@ -4867,7 +4867,7 @@
     "a3": "C. Deploy the application to a compute-optimized Amazon EC2 instance ina single Availability Zone.",
     "a4": "D. Deploy the application in one Amazon EC2 instance in an Auto Scaling group.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 488,
@@ -4877,7 +4877,7 @@
     "a3": "C. AWS Shield",
     "a4": "D. AWS WAF",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 489,
@@ -4887,7 +4887,7 @@
     "a3": "C. AWS Organizations",
     "a4": "D. Consolidated billing",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 490,
@@ -4897,7 +4897,7 @@
     "a3": "C. Add the developer to the administrator's group in AWS IAM.",
     "a4": "D. Configure a password policy that ensures the developer's password cannot be changed.",
     "a5": "E, Ensure the account password policy requires a minimum length.",
-    "as": "z"
+    "as": "AE"
   },
   {
     "id": 491,
@@ -4907,7 +4907,7 @@
     "a3": "C. AWS VPN",
     "a4": "D. Amazon S3",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 492,
@@ -4917,7 +4917,7 @@
     "a3": "C. High availability",
     "a4": "D. Overprovisioning of resources",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 493,
@@ -4927,7 +4927,7 @@
     "a3": "C. Spot Instances",
     "a4": "D. Reserved Instances",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 494,
@@ -4937,7 +4937,7 @@
     "a3": "C. On-Demand Instance",
     "a4": "D. Spot Instance",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 495,
@@ -4947,7 +4947,7 @@
     "a3": "C. AWS Global Accelerator",
     "a4": "D. AWS Direct Connect gateway",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 496,
@@ -4957,7 +4957,7 @@
     "a3": "C. Amazon Kinesis Data Streams",
     "a4": "D. Amazon Simple Queue Service (Amazon SQS)",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 497,
@@ -4967,7 +4967,7 @@
     "a3": "C. Business",
     "a4": "D. Enterprise",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 498,
@@ -4977,7 +4977,7 @@
     "a3": "C. Protecting communications and maintaining zone security",
     "a4": "D. Patching specific applications",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 499,
@@ -4987,7 +4987,7 @@
     "a3": "C. To impose bandwidth constraints on internet traffic",
     "a4": "D. To load balance traffic from the Internet across Amazon EC2 instances",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 500,
@@ -4997,7 +4997,7 @@
     "a3": "C. User names/Passwords",
     "a4": "D. SSH keys",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 501,
@@ -5007,7 +5007,7 @@
     "a3": "C. 1AM group",
     "a4": "D. IAM multi-factor authentication (MFA)",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 502,
@@ -5017,7 +5017,7 @@
     "a3": "C. AWS Direct Connect",
     "a4": "D. Amazon VPC",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 503,
@@ -5027,7 +5027,7 @@
     "a3": "C. S3 Intelligent-Tiering",
     "a4": "D. S3 One Zone-Infrequent Access (S3 One Zone-IA)",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 504,
@@ -5037,7 +5037,7 @@
     "a3": "C. Developer",
     "a4": "D. Enterprise",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 505,
@@ -5047,7 +5047,7 @@
     "a3": "C. The root user is the first sign-in identity that is available when an AWS account is created.",
     "a4": "D. The root user has a password that cannot be changed.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 506,
@@ -5057,7 +5057,7 @@
     "a3": "C. require each IAM user who has different permissions to have multiple passwords.",
     "a4": "D. apply an IAM policy only to IAM users who require it.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 507,
@@ -5067,7 +5067,7 @@
     "a3": "C. AWS CloudTrail",
     "a4": "D. AWS Trusted Advisor",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 508,
@@ -5077,7 +5077,7 @@
     "a3": "C. Amazon CloudFront",
     "a4": "D. Amazon Pinpoint",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 509,
@@ -5087,7 +5087,7 @@
     "a3": "C. AWS Business Support",
     "a4": "D. AWS Enterprise Support",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 510,
@@ -5097,7 +5097,7 @@
     "a3": "C. Amazon CloudFront",
     "a4": "D. AWS Direct Connect",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 511,
@@ -5107,7 +5107,7 @@
     "a3": "C. AWS Trusted Advisor",
     "a4": "D. AWS Service Catalog",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 512,
@@ -5117,7 +5117,7 @@
     "a3": "C. Pay-as-you-go pricing",
     "a4": "D. Global reach",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 513,
@@ -5127,7 +5127,7 @@
     "a3": "C. Amazon API Gateway",
     "a4": "D. Amazon Connect",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 514,
@@ -5137,7 +5137,7 @@
     "a3": "C. Round robin",
     "a4": "D. Auto Scaling",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 515,
@@ -5147,7 +5147,7 @@
     "a3": "C. AWS Cloud Map",
     "a4": "D. AWS X-Ray",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 516,
@@ -5157,7 +5157,7 @@
     "a3": "C. AWS Outposts",
     "a4": "D. AWS Ground Station",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 517,
@@ -5167,7 +5167,7 @@
     "a3": "C. Amazon Elastic File System (Amazon EFS)",
     "a4": "D. Amazon Elastic Block Store (Amazon EBS)",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 518,
@@ -5177,7 +5177,7 @@
     "a3": "C. Recommend that the same password be used on AWS and other sites",
     "a4": "D. Require IAM users to store their passwords in raw text",
     "a5": "E. Disable multi-factor authentication (MFA) for IAM users",
-    "as": "z"
+    "as": "DE"
   },
   {
     "id": 519,
@@ -5187,7 +5187,7 @@
     "a3": "C. Amazon GuardDuty",
     "a4": "D. Amazon CloudWatch",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 520,
@@ -5197,7 +5197,7 @@
     "a3": "C. AWS Trusted Advisor",
     "a4": "D. AWS Discussion Forums",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 521,
@@ -5207,7 +5207,7 @@
     "a3": "C. Amazon GuardDuty",
     "a4": "D. Amazon Inspector",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 522,
@@ -5217,7 +5217,7 @@
     "a3": "C. AWS Health",
     "a4": "D. Amazon CloudWatch",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 523,
@@ -5227,7 +5227,7 @@
     "a3": "C. Amazon Connect",
     "a4": "D. AWS Outposts",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 524,
@@ -5237,7 +5237,7 @@
     "a3": "C. Amazon EC2 Systems Manager",
     "a4": "D. Amazon AppStream 2.0",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 525,
@@ -5247,7 +5247,7 @@
     "a3": "C. Amazon Elastic Container Registry (Amazon ECR)",
     "a4": "D. Amazon Elastic File System (Amazon EFS)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 526,
@@ -5257,7 +5257,7 @@
     "a3": "C. VPC NAT gateway",
     "a4": "D. VPC internet gateway",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 527,
@@ -5267,7 +5267,7 @@
     "a3": "C. AWS Security Hub",
     "a4": "D. AWS Well-Architected Tool",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 528,
@@ -5277,7 +5277,7 @@
     "a3": "C. Amazon Macie",
     "a4": "D. Amazon Inspector",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 529,
@@ -5287,7 +5287,7 @@
     "a3": "C. Developer",
     "a4": "D. Basic",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 530,
@@ -5297,7 +5297,7 @@
     "a3": "C. AWS Direct Connect",
     "a4": "D. AWS Storage Gateway",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 531,
@@ -5307,7 +5307,7 @@
     "a3": "C. AWS Trusted Advisor report",
     "a4": "D. IAM credential report",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 532,
@@ -5317,7 +5317,7 @@
     "a3": "C. AWS Transit Gateway",
     "a4": "D. VPC peering",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 533,
@@ -5327,7 +5327,7 @@
     "a3": "C. Use Amazon DynamoDB global tables",
     "a4": "D. Use AWS Database Migration Service (AWS DMS)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 534,
@@ -5337,7 +5337,7 @@
     "a3": "C. paying only for time used.",
     "a4": "D. pre-paying for instances and paying a lower hourly rate.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 535,
@@ -5347,7 +5347,7 @@
     "a3": "C. Management of the host operating systems and virtualization",
     "a4": "D. Maintenance of the software that powers Availability Zones",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 536,
@@ -5357,7 +5357,7 @@
     "a3": "C. Amazon Redshift",
     "a4": "D. Amazon Athena",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 537,
@@ -5367,7 +5367,7 @@
     "a3": "C. Agility",
     "a4": "D. High availability",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 538,
@@ -5377,7 +5377,7 @@
     "a3": "C. NAT gateways",
     "a4": "D. Route tables",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 539,
@@ -5387,7 +5387,7 @@
     "a3": "C. Reliability",
     "a4": "D. Security",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 540,
@@ -5397,7 +5397,7 @@
     "a3": "C. AWS Basic Support",
     "a4": "D. AWS Business Support",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 541,
@@ -5407,7 +5407,7 @@
     "a3": "C. AWS Personal Health Dashboard",
     "a4": "D. AWS Cost and Usage report",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 542,
@@ -5417,7 +5417,7 @@
     "a3": "C. AWS Direct Connect",
     "a4": "D. Internet gateway",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 543,
@@ -5427,7 +5427,7 @@
     "a3": "C. Amazon CloudWatch",
     "a4": "D. AWS CloudTrail",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 544,
@@ -5437,7 +5437,7 @@
     "a3": "C. Implement loose coupling.",
     "a4": "D. Rely on individual components.",
     "a5": "E. Design for scalability.",
-    "as": "z"
+    "as": "CE"
   },
   {
     "id": 545,
@@ -5447,7 +5447,7 @@
     "a3": "C. Dark fiber network links",
     "a4": "D. Edge locations",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 546,
@@ -5457,7 +5457,7 @@
     "a3": "C. AWS Cloud Trail",
     "a4": "D. AWS IAM",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 547,
@@ -5467,7 +5467,7 @@
     "a3": "C. Amazon CloudWatch",
     "a4": "D. AWS Cost Anomaly Detection",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 548,
@@ -5477,7 +5477,7 @@
     "a3": "C. Pay-as-you-go pricing",
     "a4": "D. High availability",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 549,
@@ -5487,7 +5487,7 @@
     "a3": "C. The company cannot operate in a second Region until it updates its AWS contract.",
     "a4": "D. The company has not configured AWS Budgets to monitor the budget for the EC2 instances.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 550,
@@ -5497,7 +5497,7 @@
     "a3": "C. Manage changes via documented processes",
     "a4": "D. Test for moderate demand to ensure reliability",
     "a5": "E. Backup recovery to an on-premises environment",
-    "as": "z"
+    "as": "AB"
   },
   {
     "id": 551,
@@ -5507,7 +5507,7 @@
     "a3": "C. AWS Management Console",
     "a4": "D. AWS Marketplace",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 552,
@@ -5517,7 +5517,7 @@
     "a3": "C. Security updates to software running on the instance",
     "a4": "D. Policies controlling instance access",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 553,
@@ -5527,7 +5527,7 @@
     "a3": "C. It collects metrics on connected Amazon EC2 instances.",
     "a4": "D. It automatically adjusts the number of Amazon EC2 instances to support incoming traffic.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 554,
@@ -5537,7 +5537,7 @@
     "a3": "C. Reliability",
     "a4": "D. Durability",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 555,
@@ -5547,7 +5547,7 @@
     "a3": "C. Amazon S3",
     "a4": "D. AWS Snowball Edge",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 556,
@@ -5557,7 +5557,7 @@
     "a3": "C. Amazon Neptune",
     "a4": "D. Amazon DocumentDB (with MongoDB compatibility)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 557,
@@ -5567,7 +5567,7 @@
     "a3": "C. Protect the AWS environment using multi-factor authentication (MFA).",
     "a4": "D. Grant users access to AWS data centers.",
     "a5": "E. Provide firewall protection for applications from common web attacks.",
-    "as": "z"
+    "as": "AC"
   },
   {
     "id": 558,
@@ -5577,7 +5577,7 @@
     "a3": "C. Amazon Connect",
     "a4": "D. AWS Direct Connect",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 559,
@@ -5587,7 +5587,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. AWS Config",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 560,
@@ -5597,7 +5597,7 @@
     "a3": "C. Control over cloud network hardware.",
     "a4": "D. Choice of specific cloud hardware vendors.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 561,
@@ -5607,7 +5607,7 @@
     "a3": "C. Employee awareness and training",
     "a4": "D. Physical and environmental security",
     "a5": "E. Replacement and disposal of disk drives",
-    "as": "z"
+    "as": "AC"
   },
   {
     "id": 562,
@@ -5617,7 +5617,7 @@
     "a3": "C. AWS Personal Health Dashboard",
     "a4": "D. AWS Trusted Advisor",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 563,
@@ -5627,7 +5627,7 @@
     "a3": "C. AWS Cost Explorer",
     "a4": "D. AWS Budgets",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 564,
@@ -5637,7 +5637,7 @@
     "a3": "C. All resources run in the AWS Cloud.",
     "a4": "D. Some resources run on-premises and some run in the AWS Cloud.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 565,
@@ -5647,7 +5647,7 @@
     "a3": "C. AWS Developer Support",
     "a4": "D. AWS Basic Support",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 566,
@@ -5657,7 +5657,7 @@
     "a3": "C. AWS OpsWorks",
     "a4": "D. AWS CloudFormation",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 567,
@@ -5667,7 +5667,7 @@
     "a3": "C. Amazon CloudFront",
     "a4": "D. Amazon API Gateway",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 568,
@@ -5677,7 +5677,7 @@
     "a3": "C. AWS Direct Connect",
     "a4": "D. AWS Organizations",
     "a5": "E. Network ACLs",
-    "as": "z"
+    "as": "AE"
   },
   {
     "id": 569,
@@ -5687,7 +5687,7 @@
     "a3": "C. Customer gateway",
     "a4": "D. Transit gateway",
     "a5": "E. Virtual private gateway",
-    "as": "z"
+    "as": "CD"
   },
   {
     "id": 570,
@@ -5697,7 +5697,7 @@
     "a3": "C. AWS Database Migration Service (AWS DMS)",
     "a4": "D. AWS Schema Conversion Tool (AWS SCT)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 571,
@@ -5707,7 +5707,7 @@
     "a3": "C. Automatic security configuration of all applications that are migrated to the cloud",
     "a4": "D. Elimination of the need for disaster recovery planning",
     "a5": "E. Faster deployment of new features and applications",
-    "as": "z"
+    "as": "AE"
   },
   {
     "id": 572,
@@ -5717,7 +5717,7 @@
     "a3": "C. AWS WAF",
     "a4": "D. Amazon GuardDuty",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 573,
@@ -5727,7 +5727,7 @@
     "a3": "C. Decreased costs",
     "a4": "D. Fewer components to manage",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 574,
@@ -5737,7 +5737,7 @@
     "a3": "C. Amazon Connect",
     "a4": "D. AWS Data Pipeline",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 575,
@@ -5747,7 +5747,7 @@
     "a3": "C. Protect the security of the AWS global infrastructure.",
     "a4": "D. Patch Amazon RDS software.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 576,
@@ -5757,7 +5757,7 @@
     "a3": "C. AWS Storage Gateway",
     "a4": "D. Amazon Elastic File System (Amazon EFS)",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 577,
@@ -5767,7 +5767,7 @@
     "a3": "C. Amazon GuardDuty",
     "a4": "D. Client-side encryption",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 578,
@@ -5777,7 +5777,7 @@
     "a3": "C. Consolidated billing",
     "a4": "D. AWS Identity and Access Management (IAM)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 579,
@@ -5787,7 +5787,7 @@
     "a3": "C. The ability to deploy to AWS on a global scale",
     "a4": "D. Compliance audits for user IT environments",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 580,
@@ -5797,7 +5797,7 @@
     "a3": "C. Data encryption",
     "a4": "D. Automated penetration testing",
     "a5": "E. Amazon S3 copyrighted content detection",
-    "as": "z"
+    "as": "BC"
   },
   {
     "id": 581,
@@ -5807,7 +5807,7 @@
     "a3": "C. Network, compute, storage, security, and developer operations",
     "a4": "D. Operational excellence, reliability, performance efficiency, security, and cost optimization",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 582,
@@ -5817,7 +5817,7 @@
     "a3": "C. Amazon Transcribe",
     "a4": "D. Amazon Comprehend",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 583,
@@ -5827,7 +5827,7 @@
     "a3": "C. Amazon Aurora",
     "a4": "D. Amazon QuickSight",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 584,
@@ -5837,7 +5837,7 @@
     "a3": "C. AWS CodeCommit",
     "a4": "D. AWS CodeDeploy",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 585,
@@ -5847,7 +5847,7 @@
     "a3": "C. AWS CloudTrail",
     "a4": "D. AWS Support",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 586,
@@ -5857,7 +5857,7 @@
     "a3": "C. AWS CloudFormation",
     "a4": "D. Amazon Elastic File System (Amazon EFS)",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 587,
@@ -5867,7 +5867,7 @@
     "a3": "C. Amazon GuardDuty",
     "a4": "D. Amazon Detective",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 588,
@@ -5877,7 +5877,7 @@
     "a3": "",
     "a4": "D. AWS Directory Service",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 589,
@@ -5887,7 +5887,7 @@
     "a3": "C. Use an AWS CloudFormation template to deploy MySQL database servers on Amazon EC2 instances.",
     "a4": "D. Migrate all the MySQL database data to Amazon S3.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 590,
@@ -5897,7 +5897,7 @@
     "a3": "C. Automatic monitoring for threats to AWS workloads",
     "a4": "D. Automatic provisioning of AWS resources",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 591,
@@ -5907,7 +5907,7 @@
     "a3": "C. Amazon GuardDuty",
     "a4": "D. Amazon Macie",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 592,
@@ -5917,7 +5917,7 @@
     "a3": "C. AWS Pricing Calculator",
     "a4": "D. Cost Explorer",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 593,
@@ -5927,7 +5927,7 @@
     "a3": "C. Amazon EMR",
     "a4": "D. Amazon S3",
     "a5": "E. Amazon EC2",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 594,
@@ -5937,7 +5937,7 @@
     "a3": "C. Perform automated backups of Amazon RDS instances.",
     "a4": "D. Optimize the costs of running AWS services.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 595,
@@ -5947,7 +5947,7 @@
     "a3": "C. Amazon RDS with multiple Availability Zones",
     "a4": "D. AWS Database Migration Service (AWS DMS)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 596,
@@ -5957,7 +5957,7 @@
     "a3": "C. Amazon Lex",
     "a4": "D. Amazon Rekognition",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 597,
@@ -5967,7 +5967,7 @@
     "a3": "C. AWS CodeDeploy",
     "a4": "D. AWS CodeCommit",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 598,
@@ -5977,7 +5977,7 @@
     "a3": "C. AWS Config",
     "a4": "D. Amazon CloudWatch",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 599,
@@ -5987,7 +5987,7 @@
     "a3": "C. Use AWS Organizations.",
     "a4": "D. Use the AWS Cost Management coverage report.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 600,
@@ -5997,7 +5997,7 @@
     "a3": "C. Amazon FSx for Windows File Server",
     "a4": "D. Amazon WorkSpaces",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 601,
@@ -6007,7 +6007,7 @@
     "a3": "C. AWS Management Console",
     "a4": "D. AWS Resource Access Manager (AWS RAM)",
     "a5": "E. AWS Secrets Manager",
-    "as": "z"
+    "as": "AC"
   },
   {
     "id": 602,
@@ -6017,7 +6017,7 @@
     "a3": "C. Dedicated Hosts",
     "a4": "D. Reserved Instances",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 603,
@@ -6027,7 +6027,7 @@
     "a3": "C. Amazon CloudWatch",
     "a4": "D. AWS Cost Categories",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 604,
@@ -6037,7 +6037,7 @@
     "a3": "C. Filter traffic to or from an Amazon EC2 instance.",
     "a4": "D. Grant permissions to applications that run on Amazon EC2 instances.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 605,
@@ -6047,7 +6047,7 @@
     "a3": "C. Amazon DynamoDB",
     "a4": "D. Amazon Redshift",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 606,
@@ -6057,7 +6057,7 @@
     "a3": "C. Performance efficiency",
     "a4": "D. Reliability",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 607,
@@ -6067,7 +6067,7 @@
     "a3": "C. An extension of an AWS Region to more granular locations",
     "a4": "D. One or more data centers with redundant power and networking",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 608,
@@ -6077,7 +6077,7 @@
     "a3": "C. Cost of marketing campaigns",
     "a4": "D. Cost of physical server hardware",
     "a5": "E. Cost of network management",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 609,
@@ -6087,7 +6087,7 @@
     "a3": "C. Increased business agility",
     "a4": "D. Increased backup capabilities",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 610,
@@ -6097,7 +6097,7 @@
     "a3": "C. The application has built-in fault tolerance.",
     "a4": "D. Users can run Amazon EC2 Spot Instances.",
     "a5": "E. The application can scale based on demand.",
-    "as": "z"
+    "as": "CE"
   },
   {
     "id": 611,
@@ -6107,7 +6107,7 @@
     "a3": "C. Create an On-Demand Capacity Reservation.",
     "a4": "D. Purchase Dedicated Reserved Instances.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 612,
@@ -6117,7 +6117,7 @@
     "a3": "C. Users maintain control of underlying IT infrastructure hardware.",
     "a4": "D. Users maintain control of operating systems for managed services.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 613,
@@ -6127,7 +6127,7 @@
     "a3": "C. AWS Transfer Family",
     "a4": "D. AWS Site-to-Site VPN",
     "a5": "E. Amazon API Gateway",
-    "as": "z"
+    "as": "BE"
   },
   {
     "id": 614,
@@ -6137,7 +6137,7 @@
     "a3": "C. Configuration management",
     "a4": "D. Physical and environmental controls",
     "a5": "E. Service and communications protection or security",
-    "as": "z"
+    "as": "AC"
   },
   {
     "id": 615,
@@ -6147,7 +6147,7 @@
     "a3": "C. Amazon S3 Transfer Acceleration",
     "a4": "D. Amazon API Gateway",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 616,
@@ -6157,7 +6157,7 @@
     "a3": "C. AWS CloudFormation",
     "a4": "D. AWS Batch",
     "a5": "E. Amazon Inspector",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 617,
@@ -6167,7 +6167,7 @@
     "a3": "C. AWS Trusted Advisor",
     "a4": "D. AWS CloudTrail logs",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 618,
@@ -6177,7 +6177,7 @@
     "a3": "C. AWS Abuse team",
     "a4": "D. AWS Support",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 619,
@@ -6187,7 +6187,7 @@
     "a3": "C. Amazon DynamoDB",
     "a4": "D. Amazon Redshift",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 620,
@@ -6197,7 +6197,7 @@
     "a3": "C. Amazon DynamoDB",
     "a4": "D. Amazon Redshift",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 621,
@@ -6207,7 +6207,7 @@
     "a3": "C. AWS CodeCommit",
     "a4": "D. AWS CodeDeploy",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 622,
@@ -6217,7 +6217,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. AWS X-Ray",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 623,
@@ -6227,7 +6227,7 @@
     "a3": "C. Amazon API Gateway",
     "a4": "D. Amazon Connect",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 624,
@@ -6237,7 +6237,7 @@
     "a3": "C. AWS Batch",
     "a4": "D. Amazon EC2 Auto Scaling",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 625,
@@ -6247,7 +6247,7 @@
     "a3": "C. Creating an AWS Support ticket",
     "a4": "D. Evaluating AWS CloudTrail logs",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 626,
@@ -6257,7 +6257,7 @@
     "a3": "C. Reserved Instances",
     "a4": "D. Dedicated Instances",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 627,
@@ -6267,7 +6267,7 @@
     "a3": "C. Complete control over the physical security of the infrastructure",
     "a4": "D. Flexibility to scale up in minutes as the application becomes popular",
     "a5": "E. Ability to pick the specific data centers that will host the application servers",
-    "as": "z"
+    "as": "BD"
   },
   {
     "id": 628,
@@ -6277,7 +6277,7 @@
     "a3": "C. AWS CodeCommit",
     "a4": "D. AWS CodePipeline",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 629,
@@ -6287,7 +6287,7 @@
     "a3": "C. One or more discrete data centers with redundant power, networking, and connectivity",
     "a4": "D. A service that developers use to build applications that deliver latencies of single-digit milliseconds to users",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 630,
@@ -6297,7 +6297,7 @@
     "a3": "C. Elasticity",
     "a4": "D. Global reach",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 631,
@@ -6307,7 +6307,7 @@
     "a3": "C. Use Amazon Elastic Container Service (Amazon ECS) on Amazon EC2 instances.",
     "a4": "D. Overprovision compute capacity for seasonal events and traffic spikes to prevent downtime.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 632,
@@ -6317,7 +6317,7 @@
     "a3": "C. Monitoring and logging are not needed.",
     "a4": "D. Management of infrastructure is offloaded to AWS.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 633,
@@ -6327,7 +6327,7 @@
     "a3": "C. AWS Trusted Advisor",
     "a4": "D. AWS Pricing Calculator",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 634,
@@ -6337,7 +6337,7 @@
     "a3": "C. Monitor application-specific information with AWS X-Ray.",
     "a4": "D. Encrypt data by using AWS Key Management Service (AWS KMS).",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 635,
@@ -6347,7 +6347,7 @@
     "a3": "C. Network access control list (ACL)",
     "a4": "D. Security group",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 636,
@@ -6357,7 +6357,7 @@
     "a3": "C. Network connectivity of the host server",
     "a4": "D. Uptime service level agreement (SLA) for the EC2 instances",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 637,
@@ -6367,7 +6367,7 @@
     "a3": "C. Amazon Elastic Kubernetes Service (Amazon EKS)",
     "a4": "D. AWS Fargate",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 638,
@@ -6377,7 +6377,7 @@
     "a3": "C. Grouping resources in AWS Systems Manager",
     "a4": "D. Running applications in Amazon Elastic Kubernetes Service (Amazon EKS)",
     "a5": "E. Closing an AWS account",
-    "as": "z"
+    "as": "AE"
   },
   {
     "id": 639,
@@ -6387,7 +6387,7 @@
     "a3": "C. Amazon S3",
     "a4": "D. Amazon Simple Email Service (Amazon SES)",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 640,
@@ -6397,7 +6397,7 @@
     "a3": "C. It provides a simplified billing invoice that the company can process more quickly than a standard invoice.",
     "a4": "D. It gives AWS resellers the ability to bill their customers for usage.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 641,
@@ -6407,7 +6407,7 @@
     "a3": "C. Amazon VPC",
     "a4": "D. AWS Certificate Manager (ACM)",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 642,
@@ -6417,7 +6417,7 @@
     "a3": "C. Users experience increased speed and agility.",
     "a4": "D. Users benefit from massive economies of scale.",
     "a5": "E. Users can move hardware from their data center to the AWS Cloud.",
-    "as": "z"
+    "as": "CD"
   },
   {
     "id": 643,
@@ -6427,7 +6427,7 @@
     "a3": "C. Use an IAM role with the necessary permissions.",
     "a4": "D. Activate multi-factor authentication (MFA) and versioning on the S3 bucket.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 644,
@@ -6437,7 +6437,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. Amazon GuardDuty",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 645,
@@ -6447,7 +6447,7 @@
     "a3": "C. Amazon Kinesis Data Analytics",
     "a4": "D. AWS Data Pipeline",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 646,
@@ -6457,7 +6457,7 @@
     "a3": "C. IAM users within a designated group",
     "a4": "D. An IAM user that has the required role",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 647,
@@ -6467,7 +6467,7 @@
     "a3": "C. Amazon Route 53",
     "a4": "D. AWS Trusted Advisor",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 648,
@@ -6477,7 +6477,7 @@
     "a3": "C. Installing the latest security patches on the RDS instance",
     "a4": "D. Encrypting communication between the EC2 instances and the Elastic Load Balancer",
     "a5": "E. Configuring a security group and a network access control list (NACL) for EC2 instances.",
-    "as": "z"
+    "as": "BC"
   },
   {
     "id": 649,
@@ -6487,7 +6487,7 @@
     "a3": "C. Implement a strong foundation of identity and access management.",
     "a4": "D. Stop spending money on hardware infrastructure for data center operations.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 650,
@@ -6497,7 +6497,7 @@
     "a3": "C. AWS CodeCommit",
     "a4": "D. AWS CodeDeploy",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 651,
@@ -6507,7 +6507,7 @@
     "a3": "C. Begin to deploy resources in the second Region.",
     "a4": "D. Download the AWS Management Console for the second Region.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 652,
@@ -6517,7 +6517,7 @@
     "a3": "C. AWS Database Migration Service (AWS DMS)",
     "a4": "D. AWS Snowball Edge",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 653,
@@ -6527,7 +6527,7 @@
     "a3": "C. Amazon EC2",
     "a4": "D. Amazon Personalize",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 654,
@@ -6537,7 +6537,7 @@
     "a3": "C. Scale the size of EC2 instances up or down automatically, based on demand.",
     "a4": "D. Transfer unused CPU resources between EC2 instances.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 655,
@@ -6547,7 +6547,7 @@
     "a3": "C. AWS Abuse team",
     "a4": "D. AWS Technical Support team",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 656,
@@ -6557,7 +6557,7 @@
     "a3": "C. AWS is responsible for protecting the physical cloud infrastructure.",
     "a4": "D. AWS is responsible for training the customer's employees on AWS products and services.",
     "a5": "E. For Amazon EC2, AWS is responsible for maintaining the guest operating system.",
-    "as": "z"
+    "as": "BC"
   },
   {
     "id": 657,
@@ -6567,7 +6567,7 @@
     "a3": "C. AWS Management Console",
     "a4": "D. AWS Systems Manager",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 658,
@@ -6577,7 +6577,7 @@
     "a3": "C. Resource groups",
     "a4": "D. AWS Security Hub",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 659,
@@ -6587,7 +6587,7 @@
     "a3": "C. AWS Config",
     "a4": "D. AWS CloudTrail",
     "a5": "E. AWS Identity and Access Management (IAM)",
-    "as": "z"
+    "as": "CD"
   },
   {
     "id": 660,
@@ -6597,7 +6597,7 @@
     "a3": "C. AWS Fargate",
     "a4": "D. AWS CodeDeploy",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 661,
@@ -6607,7 +6607,7 @@
     "a3": "C. Analyze the AWS Well-Architected Framework.",
     "a4": "D. Use Migration Evaluator.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 662,
@@ -6617,7 +6617,7 @@
     "a3": "C. AWS Lambda",
     "a4": "D. Amazon CloudWatch",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 663,
@@ -6627,7 +6627,7 @@
     "a3": "C. AWS Server Migration Service (AWS SMS)",
     "a4": "D. Amazon Route 53",
     "a5": "E. AWS Organizations",
-    "as": "z"
+    "as": "BC"
   },
   {
     "id": 664,
@@ -6637,7 +6637,7 @@
     "a3": "C. AWS Elastic Beanstalk",
     "a4": "D. Amazon CloudFront",
     "a5": "E. AWS Fargate",
-    "as": "z"
+    "as": "CE"
   },
   {
     "id": 665,
@@ -6647,7 +6647,7 @@
     "a3": "C. Amazon Elastic File System (Amazon EFS)",
     "a4": "D. Amazon S3",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 666,
@@ -6657,7 +6657,7 @@
     "a3": "C. Security",
     "a4": "D. Agility",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 667,
@@ -6667,7 +6667,7 @@
     "a3": "C. Elastic Load Balancing (ELB)",
     "a4": "D. Amazon EC2 Auto Scaling",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 668,
@@ -6677,7 +6677,7 @@
     "a3": "C. Network access control list (ACL)",
     "a4": "D. AWS WAF",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 669,
@@ -6687,7 +6687,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. Amazon CloudWatch",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 670,
@@ -6697,7 +6697,7 @@
     "a3": "C. Amazon FSx for Windows File Server",
     "a4": "D. Amazon Elastic Block Store (Amazon EBS)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 671,
@@ -6707,7 +6707,7 @@
     "a3": "C. VPC",
     "a4": "D. paired region",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 672,
@@ -6717,7 +6717,7 @@
     "a3": "C. virtual gateway",
     "a4": "D. NAT Gateway",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 673,
@@ -6727,7 +6727,7 @@
     "a3": "C. AWS Direct Connect",
     "a4": "D. AWS Transit Gateway",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 674,
@@ -6737,7 +6737,7 @@
     "a3": "C. create and manage scalable blockchain networks",
     "a4": "D. monitor and control microservices",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 675,
@@ -6747,7 +6747,7 @@
     "a3": "C. VPC Peering Connections",
     "a4": "D. Transit Gateway",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 676,
@@ -6757,7 +6757,7 @@
     "a3": "C. VPC Peering",
     "a4": "D. AWS Site-to-Site VPN",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 677,
@@ -6767,7 +6767,7 @@
     "a3": "C. Traffic from an edge location to an end user",
     "a4": "D. Traffic from the end user to the application",
     "a5": "",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 678,
@@ -6777,7 +6777,7 @@
     "a3": "C. A development front-end to Amazon Web Services",
     "a4": "D. An encrypted endpoint to upload files to the cloud",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 679,
@@ -6787,7 +6787,7 @@
     "a3": "C. They have both an internal and a public IP address.",
     "a4": "D. They have routeless access to an Internet gateway.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 680,
@@ -6797,7 +6797,7 @@
     "a3": "C. Peering connections establish a one-to-one connection only.",
     "a4": "D. Peering connections are not possible between VPCs with an IP address overlap.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 681,
@@ -6807,7 +6807,7 @@
     "a3": "C. web application firewall (WAF)",
     "a4": "D. security group",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 682,
@@ -6817,7 +6817,7 @@
     "a3": "C. A route to a NAT instance indicates VPN communication with on-premises servers.",
     "a4": "D. No route to an internet gateway or virtual private gateway indicates a private subnet.",
     "a5": "",
-    "as": "z"
+    "as": "AD"
   },
   {
     "id": 683,
@@ -6827,7 +6827,7 @@
     "a3": "C. switch",
     "a4": "D. gateway table",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 684,
@@ -6837,7 +6837,7 @@
     "a3": "C. It enables communication between a VPC and external public IP addresses.",
     "a4": "D. It enables an administrator to SSH directly into any VPC resource.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 685,
@@ -6847,7 +6847,7 @@
     "a3": "C. Allow or restrict external traffic from entering the subnet based on a series of rules",
     "a4": "D. Serve as an anchor on the customer side of a VPN connection to a VPC",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 686,
@@ -6857,7 +6857,7 @@
     "a3": "C. From a /20 netmask to a /28 netmask",
     "a4": "D. From a /16 netmask to a /24 netmask",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 687,
@@ -6867,7 +6867,7 @@
     "a3": "C. VPC Peering",
     "a4": "D. AWS Transit Gateway",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 688,
@@ -6877,7 +6877,7 @@
     "a3": "C. Security groups",
     "a4": "D. Network access control lists (NACL)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 689,
@@ -6887,7 +6887,7 @@
     "a3": "C. An AWS user's connection between two remote networks via private AWS infrastructure",
     "a4": "D. an isolated segment of an AWS network that cannot receive inbound traffic from the internet",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 690,
@@ -6897,7 +6897,7 @@
     "a3": "C. jump box",
     "a4": "D. AWS Direct Connect resource",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 691,
@@ -6907,7 +6907,7 @@
     "a3": "C. improving read access performance",
     "a4": "D. caches using secure, network-attached RAM",
     "a5": "",
-    "as": "z"
+    "as": "BCD"
   },
   {
     "id": 692,
@@ -6917,7 +6917,7 @@
     "a3": "C. ledger",
     "a4": "D. graph",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 693,
@@ -6927,7 +6927,7 @@
     "a3": "C. to prevent users from outside your VPC security group from accessing your database",
     "a4": "D. to enable automatic backups",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 694,
@@ -6937,7 +6937,7 @@
     "a3": "C. Amazon DocumentDB",
     "a4": "D. Amazon Keyspaces",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 695,
@@ -6947,7 +6947,7 @@
     "a3": "C. Amazon Elasticache",
     "a4": "D. Amazon RDS",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 696,
@@ -6957,7 +6957,7 @@
     "a3": "C. Amazon OpenSearch Service",
     "a4": "D. AWS Glue",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 697,
@@ -6967,7 +6967,7 @@
     "a3": "C. Generally, a data lake is a subset of the data from a data warehouse with a specialized purpose.",
     "a4": "D. A data lake is an optimized database dealing with normalized, transformed, and cleaned-up versions of the data from a data warehouse.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 698,
@@ -6977,7 +6977,7 @@
     "a3": "C. Amazon QLDB",
     "a4": "D. DynamoDB",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 699,
@@ -6987,7 +6987,7 @@
     "a3": "C. Firebase",
     "a4": "D. Apache Cassandra",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 700,
@@ -6997,7 +6997,7 @@
     "a3": "C. Aurora",
     "a4": "D. Redshift",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 701,
@@ -7007,7 +7007,7 @@
     "a3": "C. Oracle",
     "a4": "D. Aurora",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 702,
@@ -7017,7 +7017,7 @@
     "a3": "C. It offers a managed data warehouse service.",
     "a4": "D. It offers a managed non-relational database service.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 703,
@@ -7027,7 +7027,7 @@
     "a3": "C. Persistent and In-memory",
     "a4": "D. Stateful and Stateless",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 704,
@@ -7037,7 +7037,7 @@
     "a3": "C. Amazon Aurora",
     "a4": "D. Amazon DynamoDB",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 705,
@@ -7047,7 +7047,7 @@
     "a3": "C. Persistent and in-memory",
     "a4": "D. Managed and unmanaged",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 706,
@@ -7057,7 +7057,7 @@
     "a3": "C. Managed hardware lifecycle",
     "a4": "D. Automated DB backup",
     "a5": "",
-    "as": "z"
+    "as": "ABD"
   },
   {
     "id": 707,
@@ -7067,7 +7067,7 @@
     "a3": "C. relational databases",
     "a4": "D. in-memory data stores",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 708,
@@ -7077,7 +7077,7 @@
     "a3": "C. Amazon RDS",
     "a4": "D. Amazon DynamoDB",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 709,
@@ -7087,7 +7087,7 @@
     "a3": "C. terabyte",
     "a4": "D. petabyte",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 710,
@@ -7097,7 +7097,7 @@
     "a3": "C. object",
     "a4": "D. graph",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 711,
@@ -7107,7 +7107,7 @@
     "a3": "C. In an archive",
     "a4": "D. In a volume",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 712,
@@ -7117,7 +7117,7 @@
     "a3": "C. 100 MB to 5 GB",
     "a4": "D. 1 byte to 5 TB",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 713,
@@ -7127,7 +7127,7 @@
     "a3": "C. S3 Standard",
     "a4": "D. S3 Intelligent - Tiering",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 714,
@@ -7137,7 +7137,7 @@
     "a3": "C. Amazon Elastic File System (EFS)",
     "a4": "D. Amazon Blob Storage (BS)",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 715,
@@ -7147,7 +7147,7 @@
     "a3": "C. Cloud-backed storage volumes that you can mount as Internet Small Computer System Interface (iSCSI) devices from your on-premises application servers.",
     "a4": "D. A group of computing devices that process cryptographic operations and provides secure storage for cryptographic keys.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 716,
@@ -7157,7 +7157,7 @@
     "a3": "C. It provides high IOPs",
     "a4": "D. It is highly persistent",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 717,
@@ -7167,7 +7167,7 @@
     "a3": "C. Amazon Elastic File Storage (EFS)",
     "a4": "D. Amazon FSx",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 718,
@@ -7177,7 +7177,7 @@
     "a3": "C. Amazon EBS",
     "a4": "D. Amazon EFS",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 719,
@@ -7187,7 +7187,7 @@
     "a3": "C. storage",
     "a4": "D. tier",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 720,
@@ -7197,7 +7197,7 @@
     "a3": "C. high-performance storage of user files",
     "a4": "D. non-persistent data",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 721,
@@ -7207,7 +7207,7 @@
     "a3": "C. Amazon S3",
     "a4": "D. Amazon ECS",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 722,
@@ -7217,7 +7217,7 @@
     "a3": "C. Snowmobile, Snowball, Snowcone",
     "a4": "D. Snowball, Snowmobile, Snowcone",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 723,
@@ -7227,7 +7227,7 @@
     "a3": "C. Sharing storage for applications across multiple instances.",
     "a4": "D. Storing information in a table that can be queried.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 724,
@@ -7237,7 +7237,7 @@
     "a3": "C. A cache",
     "a4": "D. A file system",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 725,
@@ -7247,7 +7247,7 @@
     "a3": "C. The instance reboots",
     "a4": "D. Network failure",
     "a5": "",
-    "as": "z"
+    "as": "AB"
   },
   {
     "id": 726,
@@ -7257,7 +7257,7 @@
     "a3": "C. Versioning",
     "a4": "D. Bucket Policies",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 727,
@@ -7267,7 +7267,7 @@
     "a3": "C. You want to incur zero cost for data transfer services.",
     "a4": "D. Data transfer must occur within one hour.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 728,
@@ -7277,7 +7277,7 @@
     "a3": "C. The instance store volumes reside on the same hardware as host instance.",
     "a4": "D. They are available for all instance types.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 729,
@@ -7287,7 +7287,7 @@
     "a3": "C. Virtual servers",
     "a4": "D. managed relational databases",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 730,
@@ -7297,7 +7297,7 @@
     "a3": "C. Elastic File Storage Infrequent Access charges for each read and write operation.",
     "a4": "D. The more data you store using EFS Standard, the greater the savings compared to EFS Infrequent Access.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 731,
@@ -7307,7 +7307,7 @@
     "a3": "C. ECR is a central data storage service for stateless ECS clusters.",
     "a4": "D. ECR manages EC2 instances and Docker containers deployed by ECS.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 732,
@@ -7317,7 +7317,7 @@
     "a3": "C. When an application requires the use of a third-party virtual appliance",
     "a4": "D. Application Load Balancers are not recommended because the related network is being retired",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 733,
@@ -7327,7 +7327,7 @@
     "a3": "C. It applies a stream processing model to batch computing.",
     "a4": "D. It combines the processing power of all EC2 instances deployed in an existing VPC network.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 734,
@@ -7337,7 +7337,7 @@
     "a3": "C. clusters",
     "a4": "D. microservices",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 735,
@@ -7347,7 +7347,7 @@
     "a3": "C. It manages the software patching of EC2 instances",
     "a4": "D. It manages the rightsizing of EC2 instances",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 736,
@@ -7357,7 +7357,7 @@
     "a3": "C. Improve system fault tolerance by distributing traffic across multiple AWS resources",
     "a4": "D. Connect external clients to the correct resource based upon the assigned domain or subdomain",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 737,
@@ -7367,7 +7367,7 @@
     "a3": "C. Amazon Elastic Container Service (ECS)",
     "a4": "D. AWS ParallelCluster",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 738,
@@ -7377,7 +7377,7 @@
     "a3": "C. log",
     "a4": "D. stream",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 739,
@@ -7387,7 +7387,7 @@
     "a3": "C. To deploy applications without managing, load balancing, or scaling the infrastructure",
     "a4": "D. To host AWS-managed hardware in an on-premises environment",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 740,
@@ -7397,7 +7397,7 @@
     "a3": "C. EKS provides infrastructure-as-a-service on AWS-hosted virtual servers",
     "a4": "D. EKS is a managed service that runs Kubernetes in the AWS cloud",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 741,
@@ -7407,7 +7407,7 @@
     "a3": "C. to process large compute jobs with minimal administrative requirements",
     "a4": "D. to manage scaling of Amazon EC2 instances",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 742,
@@ -7417,7 +7417,7 @@
     "a3": "C. AWS OpsWorks Chef",
     "a4": "D. AWS Systems Manager",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 743,
@@ -7427,7 +7427,7 @@
     "a3": "C. When an application requires the use of a third-party virtual appliance",
     "a4": "D. Network Load Balancers are not recommended because AWS retired the related network",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 744,
@@ -7437,7 +7437,7 @@
     "a3": "C. A preconfigured template for your EC2 instances",
     "a4": "D. A VMware configuration file for any network deployment",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 745,
@@ -7447,7 +7447,7 @@
     "a3": "C. It stores Docker container data",
     "a4": "D. It manages encryption keys for Docker application data",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 746,
@@ -7457,7 +7457,7 @@
     "a3": "C. Elastic Load Balancer",
     "a4": "D. AWS Elastic Beanstalk",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 747,
@@ -7467,7 +7467,7 @@
     "a3": "C. Amazon ECS",
     "a4": "D. Amazon Lightsail",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 748,
@@ -7477,7 +7477,7 @@
     "a3": "C. Metrics",
     "a4": "D. Dimensions",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 749,
@@ -7487,7 +7487,7 @@
     "a3": "C. It enables you to receive SES notifications of API activity captured by CloudTrail.",
     "a4": "D. It enables you to receive SQS notifications of API activity captured by CloudTrail.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 750,
@@ -7497,7 +7497,7 @@
     "a3": "C. a call made using the AWS command-line interface",
     "a4": "D. requests to delete objects",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 751,
@@ -7507,7 +7507,7 @@
     "a3": "C. AWS Config can only be used in one region at a time.",
     "a4": "D. AWS Config is not enabled at a regional level.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 752,
@@ -7517,7 +7517,7 @@
     "a3": "C. Amazon EventBridge",
     "a4": "D. CloudWatch Logs",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 753,
@@ -7527,7 +7527,7 @@
     "a3": "C. Amazon EventBridge",
     "a4": "D. CloudWatch Logs",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 754,
@@ -7537,7 +7537,7 @@
     "a3": "C. Automatically delete non-compliant resources",
     "a4": "D. Log all API calls to your resources",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 755,
@@ -7547,7 +7547,7 @@
     "a3": "C. In a CloudTrail log",
     "a4": "D. In a Conformance Pack",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 756,
@@ -7557,7 +7557,7 @@
     "a3": "C. CloudWatch EventBridge",
     "a4": "D. CloudWatch Anomaly Detection",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 757,
@@ -7567,7 +7567,7 @@
     "a3": "C. alarms",
     "a4": "D. events",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 758,
@@ -7577,7 +7577,7 @@
     "a3": "C. Configuration streams",
     "a4": "D. Configuration recorder",
     "a5": "",
-    "as": "z"
+    "as": "ABC"
   },
   {
     "id": 759,
@@ -7587,7 +7587,7 @@
     "a3": "C. ten minutes",
     "a4": "D. sixty minutes",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 760,
@@ -7597,7 +7597,7 @@
     "a3": "C. CloudWatch EventBridge",
     "a4": "D. CloudWatch Alarms",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 761,
@@ -7607,7 +7607,7 @@
     "a3": "C. To track and record API requests made in AWS",
     "a4": "D. To provide feedback on your AWS cloud environment's configuration based on best practices",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 762,
@@ -7617,7 +7617,7 @@
     "a3": "C. To monitor resource performance against specific service thresholds",
     "a4": "D. To provide feedback on your AWS cloud environment's configuration based on best practices",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 763,
@@ -7627,7 +7627,7 @@
     "a3": "C. On-demand resourcing",
     "a4": "D. Economy of scale",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 764,
@@ -7637,7 +7637,7 @@
     "a3": "C. Software-as-a-Service (SaaS)",
     "a4": "D. Traditional on-premise",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 765,
@@ -7647,7 +7647,7 @@
     "a3": "C. Potential increased risk of cyberattack",
     "a4": "D. Restoring service in the event of a server failure",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 766,
@@ -7657,7 +7657,7 @@
     "a3": "C. High availability",
     "a4": "D. Utility-based metering",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 767,
@@ -7667,7 +7667,7 @@
     "a3": "C. Growth",
     "a4": "D. Utility-based metering",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 768,
@@ -7677,7 +7677,7 @@
     "a3": "C. Using both private and public cloud will increase a business' capital expenditures to acquire hardware hosting the cloud.",
     "a4": "D. Both private and public cloud models use virtualization to differentiate themselves from traditional on-premise servers.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 769,
@@ -7687,7 +7687,7 @@
     "a3": "C. Platform as a Service (PaaS)",
     "a4": "D. 'Anything' as a Service (XaaS)",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 770,
@@ -7697,7 +7697,7 @@
     "a3": "C. Software-as-a-Service",
     "a4": "D. Traditional on-premise",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 771,
@@ -7707,7 +7707,7 @@
     "a3": "C. What technologies will my business utilize in the cloud?",
     "a4": "D. How will migration to the cloud provide benefits to my customers?",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 772,
@@ -7717,7 +7717,7 @@
     "a3": "C. Network",
     "a4": "D. Database",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 773,
@@ -7727,7 +7727,7 @@
     "a3": "C. Reduced network latency",
     "a4": "D. Reduced capital expenditure",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 774,
@@ -7737,7 +7737,7 @@
     "a3": "C. Implement a public cloud-computing environment.",
     "a4": "D. Implement a matrixed cloud-computing environment.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 775,
@@ -7747,7 +7747,7 @@
     "a3": "C. Software-as-a-Service",
     "a4": "D. Traditional on-premise",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 776,
@@ -7757,7 +7757,7 @@
     "a3": "C. economy of scale",
     "a4": "D. scalability",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 777,
@@ -7767,7 +7767,7 @@
     "a3": "C. Servers",
     "a4": "D. Network",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 778,
@@ -7777,7 +7777,7 @@
     "a3": "C. On-demand resourcing",
     "a4": "D. Consumption-based metering",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 779,
@@ -7787,7 +7787,7 @@
     "a3": "C. Network",
     "a4": "D. Database",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 780,
@@ -7797,7 +7797,7 @@
     "a3": "C. Availability of a cloud storage service",
     "a4": "D. Creating authentication and authorization mechanisms for a cloud storage service",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 781,
@@ -7807,7 +7807,7 @@
     "a3": "C. Simplify experimentation with new technology",
     "a4": "D. Compatibility with any application",
     "a5": "",
-    "as": "z"
+    "as": "ABC"
   },
   {
     "id": 782,
@@ -7817,7 +7817,7 @@
     "a3": "C. hybrid",
     "a4": "D. community",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 783,
@@ -7827,7 +7827,7 @@
     "a3": "C. MFAs",
     "a4": "D. access keys",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 784,
@@ -7837,7 +7837,7 @@
     "a3": "C. AWS Organizations",
     "a4": "D. Amazon Inspector",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 785,
@@ -7847,7 +7847,7 @@
     "a3": "C. It simplifies compliance.",
     "a4": "D. It automates responses to security attacks.",
     "a5": "",
-    "as": "z"
+    "as": "AC"
   },
   {
     "id": 786,
@@ -7857,7 +7857,7 @@
     "a3": "C. users",
     "a4": "D. groups",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 787,
@@ -7867,7 +7867,7 @@
     "a3": "C. Installation of EC2 security patches",
     "a4": "D. EC2 instance security",
     "a5": "",
-    "as": "z"
+    "as": "BCD"
   },
   {
     "id": 788,
@@ -7877,7 +7877,7 @@
     "a3": "C. to provide identity management for your apps",
     "a4": "D. to help you simplify the management of security protection to a range of different resources, between multiple AWS accounts",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 789,
@@ -7887,7 +7887,7 @@
     "a3": "C. role",
     "a4": "D. permission",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 790,
@@ -7897,7 +7897,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. Amazon GuardDuty",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 791,
@@ -7907,7 +7907,7 @@
     "a3": "C. Inspector",
     "a4": "D. GuardDuty",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 792,
@@ -7917,7 +7917,7 @@
     "a3": "C. A method of controlling which AWS services are accessible for specific AWS accounts within your AWS account structure",
     "a4": "D. A container at the top of a company�s AWS accounts structure",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 793,
@@ -7927,7 +7927,7 @@
     "a3": "C. groups",
     "a4": "D. roles",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 794,
@@ -7937,7 +7937,7 @@
     "a3": "C. STS",
     "a4": "D. Federated Access",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 795,
@@ -7947,7 +7947,7 @@
     "a3": "C. a service that makes it easier to manage your software licenses from vendors such as Microsoft, SAP, Oracle, and IBM across AWS and on-premises environments",
     "a4": "D. a service that enables you to launch and manage virtual private servers",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 796,
@@ -7957,7 +7957,7 @@
     "a3": "C. A method used to encrypt data keys used by AWS services to protect data when you don't specify",
     "a4": "D. A delegation mechanism that you can use to provide other AWS principals long-term permissions to use master keys",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 797,
@@ -7967,7 +7967,7 @@
     "a3": "C. By default, all access to a resource is denied.",
     "a4": "D. Access to a resource is only allowed if an allow has been specified within a policy associated with the principal.",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 798,
@@ -7977,7 +7977,7 @@
     "a3": "C. Roles",
     "a4": "D. User groups",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 799,
@@ -7987,7 +7987,7 @@
     "a3": "C. Customer-owned KMS key",
     "a4": "D. AWS-owned KMS key",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 800,
@@ -7997,7 +7997,7 @@
     "a3": "C. effect",
     "a4": "D. action",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 801,
@@ -8007,7 +8007,7 @@
     "a3": "C. inline",
     "a4": "D. group",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 802,
@@ -8017,7 +8017,7 @@
     "a3": "C. a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account",
     "a4": "D. a service that helps to prevent web sites and web applications from being maliciously attacked by common web attack patterns",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 803,
@@ -8027,7 +8027,7 @@
     "a3": "C. IAM policy",
     "a4": "D. key policy",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 804,
@@ -8037,7 +8037,7 @@
     "a3": "C. Amazon Inspector",
     "a4": "D. Amazon GuardDuty",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 805,
@@ -8047,7 +8047,7 @@
     "a3": "C. Security of scripts used in any application code",
     "a4": "D. Secure storage of your AWS account credentials",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 806,
@@ -8057,7 +8057,7 @@
     "a3": "C. IAM groups are used for authentication",
     "a4": "D. IAM groups are shared by an unlimited number of users by default",
     "a5": "",
-    "as": "z"
+    "as": "AB"
   },
   {
     "id": 807,
@@ -8067,7 +8067,7 @@
     "a3": "C. STS",
     "a4": "D. Federated Access",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 808,
@@ -8077,7 +8077,7 @@
     "a3": "C. once per week",
     "a4": "D. three times per day",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 809,
@@ -8087,7 +8087,7 @@
     "a3": "C. scalability",
     "a4": "D. security",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 810,
@@ -8097,7 +8097,7 @@
     "a3": "C. Service/Workload",
     "a4": "D. Resource Owner",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 811,
@@ -8107,7 +8107,7 @@
     "a3": "C. optimize storage",
     "a4": "D. right-sizing",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 812,
@@ -8117,7 +8117,7 @@
     "a3": "C. spot",
     "a4": "D. untagged",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 813,
@@ -8127,7 +8127,7 @@
     "a3": "C. Billing Report (BR)",
     "a4": "D. Cost and Usage Reports (CUR)",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 814,
@@ -8137,7 +8137,7 @@
     "a3": "C. Compute savings plans can apply to resources in different regions.",
     "a4": "D. Compute savings plan discounts apply across instance families.",
     "a5": "",
-    "as": "z"
+    "as": "ACD"
   },
   {
     "id": 815,
@@ -8147,7 +8147,7 @@
     "a3": "C. Summative cost",
     "a4": "D. Weighted cost allocation",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 816,
@@ -8157,7 +8157,7 @@
     "a3": "C. A large data cache in a highly populated area that delivers CDN content",
     "a4": "D. A large, defined geographic area that contains multiple availability zones.",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 817,
@@ -8167,7 +8167,7 @@
     "a3": "C. A set of reports that provide detailed historic cost and usage data for your account.",
     "a4": "D. A service that allows you to set specific spending and usage limits for AWS services",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 818,
@@ -8177,7 +8177,7 @@
     "a3": "C. Snapshots",
     "a4": "D. Roles",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 819,
@@ -8187,7 +8187,7 @@
     "a3": "C. Establishing correct data storage lifecycles",
     "a4": "D. Using elastic IP addresses to increase high availability",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 820,
@@ -8197,7 +8197,7 @@
     "a3": "C. Efficiently allocating and right-sizing computing resources by the system requirements",
     "a4": "D. Understanding and controlling expenses, avoiding unnecessary costs, and analyzing spend in detail",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 821,
@@ -8207,7 +8207,7 @@
     "a3": "C. spot",
     "a4": "D. untagged",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 822,
@@ -8217,7 +8217,7 @@
     "a3": "C. A single AWS-managed server that customers host on-premises",
     "a4": "D. A large cache located in highly populated areas to deliver CDN content",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 823,
@@ -8227,7 +8227,7 @@
     "a3": "C. algorithms",
     "a4": "D. key-value pairs",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 824,
@@ -8237,7 +8237,7 @@
     "a3": "C. Environment",
     "a4": "D. Cost visualization",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 825,
@@ -8247,7 +8247,7 @@
     "a3": "C. Decrease elasticity.",
     "a4": "D. Leverage the right pricing model.",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 826,
@@ -8257,7 +8257,7 @@
     "a3": "C. Consolidated Billing",
     "a4": "D. AWS Budgets",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 827,
@@ -8267,7 +8267,7 @@
     "a3": "C. thresholds",
     "a4": "D. alarms",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 828,
@@ -8277,7 +8277,7 @@
     "a3": "C. sequence",
     "a4": "D. record",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 829,
@@ -8287,7 +8287,7 @@
     "a3": "C. Amazon Simple Email Service (SES)",
     "a4": "D. AWS Lambda",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 830,
@@ -8297,7 +8297,7 @@
     "a3": "C. Amazon Aurora",
     "a4": "D. Amazon RDS Proxy",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 831,
@@ -8307,7 +8307,7 @@
     "a3": "C. AWS AppSync",
     "a4": "D. AWS Lambda",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 832,
@@ -8317,7 +8317,7 @@
     "a3": "C. Amazon Kinesis Video Streams",
     "a4": "D. Amazon Kinesis Elasticsearch",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 833,
@@ -8327,7 +8327,7 @@
     "a3": "C. brokers; recipients",
     "a4": "D. clients; services",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 834,
@@ -8337,7 +8337,7 @@
     "a3": "C. Video Streams",
     "a4": "D. Data Streams",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 835,
@@ -8347,7 +8347,7 @@
     "a3": "C. Monolithic architecture",
     "a4": "D. Microservice architecture",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 836,
@@ -8357,7 +8357,7 @@
     "a3": "C. The SQS servers",
     "a4": "D. The dead-letter queues",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 837,
@@ -8367,7 +8367,7 @@
     "a3": "C. Migrated",
     "a4": "D. Scalable",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 838,
@@ -8377,7 +8377,7 @@
     "a3": "C. a producer that pushes data to an Amazon Kinesis firehose",
     "a4": "D. an ordered sequence of data records meant to be written to and read from in real-time",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 839,
@@ -8387,7 +8387,7 @@
     "a3": "C. consumer",
     "a4": "D. publisher",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 840,
@@ -8397,7 +8397,7 @@
     "a3": "C. Amazon Kinesis Analytics",
     "a4": "D. Amazon Kinesis OpenSearch",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 841,
@@ -8407,7 +8407,7 @@
     "a3": "C. a producer that pushes data to an Amazon Kinesis firehose",
     "a4": "D. an ordered sequence of data records meant to be written to and read from in real-time",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 842,
@@ -8417,7 +8417,7 @@
     "a3": "C. Amazon SNS",
     "a4": "D. Amazon API Gateway",
     "a5": "",
-    "as": "z"
+    "as": "C"
   },
   {
     "id": 843,
@@ -8427,7 +8427,7 @@
     "a3": "C. destinations",
     "a4": "D. endpoints",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 844,
@@ -8437,7 +8437,7 @@
     "a3": "C. An AWS-created S3 bucket",
     "a4": "D. They are not stored anywhere. The messages are deleted.",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 845,
@@ -8447,7 +8447,7 @@
     "a3": "C. SQS servers",
     "a4": "D. Dead-Letter Queues",
     "a5": "",
-    "as": "z"
+    "as": "B"
   },
   {
     "id": 846,
@@ -8457,7 +8457,7 @@
     "a3": "C. pub-sub",
     "a4": "D. state machine",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 847,
@@ -8467,7 +8467,7 @@
     "a3": "C. Amazon SNS",
     "a4": "D. Amazon API Gateway",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 848,
@@ -8477,7 +8477,7 @@
     "a3": "C. Amazon Aurora",
     "a4": "D. Amazon DynamoDB",
     "a5": "",
-    "as": "z"
+    "as": "D"
   },
   {
     "id": 849,
@@ -8487,7 +8487,7 @@
     "a3": "C. the dead-letter queue",
     "a4": "D. the SQS server",
     "a5": "",
-    "as": "z"
+    "as": "A"
   },
   {
     "id": 850,
@@ -8497,6 +8497,6 @@
     "a3": "C. AWS Fargate",
     "a4": "D. AWS Lambda",
     "a5": "",
-    "as": "z"
+    "as": "C"
   }
 ]
