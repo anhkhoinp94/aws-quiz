@@ -79,7 +79,7 @@ export class AppComponent {
   }
 
   getRandomArbitrary(min: number, max: number) {
-    max = 100
+    max = 300
     return Math.floor(Math.random() * (max - min) + min);
   }
 }
