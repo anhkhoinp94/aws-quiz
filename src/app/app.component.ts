@@ -90,4 +90,25 @@ export class AppComponent {
   copyToClipboard() {
     this.clipboardService.copyFromContent(this.question);
   }
+
+  copyToASClipboard(num: number) {
+    switch (num) {
+      case 1:
+        this.clipboardService.copyFromContent(this.aw1.slice(2));
+        break;
+      case 2:
+        this.clipboardService.copyFromContent(this.aw2.slice(2));
+        break;
+      case 3:
+        this.clipboardService.copyFromContent(this.aw3.slice(2));
+        break;
+      case 4:
+        this.clipboardService.copyFromContent(this.aw4.slice(2));
+        break;
+      case 5:
+        this.clipboardService.copyFromContent(this.aw5.slice(2));
+        break;
+      default:
+    }
+  }
 }

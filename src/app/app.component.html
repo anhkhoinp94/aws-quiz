@@ -18,38 +18,38 @@
       </div>
 
       <div class="btn-group d-grid gap-2" role="group">
-        <button *ngIf="!show || (show && !aw1c)" class="btn btn-muted text-start">
+        <button *ngIf="!show || (show && !aw1c)" class="btn btn-muted text-start" (click)="copyToASClipboard(1)">
           {{ aw1 }}
         </button>
-        <button *ngIf="aw1c && show" class="btn btn-primary text-start">
+        <button *ngIf="aw1c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(1)">
           {{ aw1 }}
         </button>
 
-        <button *ngIf="!show || (show && !aw2c)" class="btn btn-muted text-start">
+        <button *ngIf="!show || (show && !aw2c)" class="btn btn-muted text-start" (click)="copyToASClipboard(2)">
           {{ aw2 }}
         </button>
-        <button *ngIf="aw2c && show" class="btn btn-primary text-start">
+        <button *ngIf="aw2c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(2)">
           {{ aw2 }}
         </button>
 
-        <button *ngIf="!show || (show && !aw3c)" class="btn btn-muted text-start">
+        <button *ngIf="!show || (show && !aw3c)" class="btn btn-muted text-start" (click)="copyToASClipboard(3)">
           {{ aw3 }}
         </button>
-        <button *ngIf="aw3c && show" class="btn btn-primary text-start">
+        <button *ngIf="aw3c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(3)">
           {{ aw3 }}
         </button>
 
-        <button *ngIf="!show || (show && !aw4c)" class="btn btn-muted text-start">
+        <button *ngIf="!show || (show && !aw4c)" class="btn btn-muted text-start" (click)="copyToASClipboard(4)">
           {{ aw4 }}
         </button>
-        <button *ngIf="aw4c && show" class="btn btn-primary text-start">
+        <button *ngIf="aw4c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(4)">
           {{ aw4 }}
         </button>
 
-        <button *ngIf="aw5 != '' && (!show || (show && !aw5c))" class="btn btn-muted text-start">
+        <button *ngIf="aw5 != '' && (!show || (show && !aw5c))" class="btn btn-muted text-start" (click)="copyToASClipboard(5)">
           {{ aw5 }}
         </button>
-        <button *ngIf="aw5 != '' && aw5c && show" class="btn btn-primary text-start">
+        <button *ngIf="aw5 != '' && aw5c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(5)">
           {{ aw5 }}
         </button>
       </div>
