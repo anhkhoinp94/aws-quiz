@@ -25,6 +25,16 @@ export class AppComponent {
   res: string = '';
   show: boolean = false;
   numLeft: number = 0;
+  selectQ: Question = {
+    id: 0,
+    q: '',
+    a1: '',
+    a2: '',
+    a3: '',
+    a4: '',
+    a5: '',
+    as: '',
+  };
 
   constructor(
     private myDataService: MyDataService,
@@ -35,48 +45,52 @@ export class AppComponent {
     this.myDataService.getJsonData().subscribe((data: Question[]) => {
       this.jsonData = data;
       let num = this.getRandomArbitrary(1, this.jsonData.length);
-      let selectQ = this.jsonData[num];
-      if (selectQ) {
-        this.id = selectQ.id;
-        this.question = selectQ.q;
-        this.res = selectQ.as;
-        this.aw1 = selectQ.a1;
-        this.aw1c = this.res.includes(selectQ.a1[0]);
-        this.aw2 = selectQ.a2;
-        this.aw2c = this.res.includes(selectQ.a2[0]);
-        this.aw3 = selectQ.a3;
-        this.aw3c = this.res.includes(selectQ.a3[0]);
-        this.aw4 = selectQ.a4;
-        this.aw4c = this.res.includes(selectQ.a4[0]);
-        this.aw5 = selectQ.a5;
-        this.aw5c = this.res.includes(selectQ.a5[0]);
+      this.selectQ = this.jsonData[num];
+      if (this.selectQ) {
+        this.id = this.selectQ.id;
+        this.question = this.selectQ.q;
+        this.res = this.selectQ.as;
+        this.aw1 = this.selectQ.a1;
+        this.aw1c = this.res.includes(this.selectQ.a1[0]);
+        this.aw2 = this.selectQ.a2;
+        this.aw2c = this.res.includes(this.selectQ.a2[0]);
+        this.aw3 = this.selectQ.a3;
+        this.aw3c = this.res.includes(this.selectQ.a3[0]);
+        this.aw4 = this.selectQ.a4;
+        this.aw4c = this.res.includes(this.selectQ.a4[0]);
+        this.aw5 = this.selectQ.a5;
+        this.aw5c = this.res.includes(this.selectQ.a5[0]);
         this.jsonData.splice(this.id - 1, 1);
         this.numLeft = this.jsonData.length;
       }
     });
   }
 
-  handleClick(): void {
+  handleClick(num: number): void {
+    if (num == 1) {
+      this.jsonData[this.jsonData.length] = this.selectQ;
+    }
     if (this.show) {
       this.show = false;
       let num = this.getRandomArbitrary(1, this.jsonData.length);
-      let selectQ = this.jsonData[num];
-      if (selectQ) {
-        this.id = selectQ.id;
-        this.question = selectQ.q;
-        this.res = selectQ.as;
-        this.aw1 = selectQ.a1;
-        this.aw1c = this.res.includes(selectQ.a1[0]);
-        this.aw2 = selectQ.a2;
-        this.aw2c = this.res.includes(selectQ.a2[0]);
-        this.aw3 = selectQ.a3;
-        this.aw3c = this.res.includes(selectQ.a3[0]);
-        this.aw4 = selectQ.a4;
-        this.aw4c = this.res.includes(selectQ.a4[0]);
-        this.aw5 = selectQ.a5;
-        this.aw5c = this.res.includes(selectQ.a5[0]);
+      this.selectQ = this.jsonData[num];
+      if (this.selectQ) {
+        this.id = this.selectQ.id;
+        this.question = this.selectQ.q;
+        this.res = this.selectQ.as;
+        this.aw1 = this.selectQ.a1;
+        this.aw1c = this.res.includes(this.selectQ.a1[0]);
+        this.aw2 = this.selectQ.a2;
+        this.aw2c = this.res.includes(this.selectQ.a2[0]);
+        this.aw3 = this.selectQ.a3;
+        this.aw3c = this.res.includes(this.selectQ.a3[0]);
+        this.aw4 = this.selectQ.a4;
+        this.aw4c = this.res.includes(this.selectQ.a4[0]);
+        this.aw5 = this.selectQ.a5;
+        this.aw5c = this.res.includes(this.selectQ.a5[0]);
         this.jsonData.splice(this.id - 2, 1);
         this.numLeft = this.jsonData.length;
+        console.log(this.jsonData)
       }
     } else {
       this.show = true;
