@@ -2791,7 +2791,7 @@
   },
   {
     "id": 280,
-    "q": "280 ) Which situations should the AWS Abuse team be notified about?",
+    "q": "280) Which situations should the AWS Abuse team be notified about?",
     "a1": "A. In Availability Zone has a service disruption",
     "a2": "B. An intrusion attempt is made from an AWS IP address",
     "a3": "C. A user has trouble accessing an Amazon S3 bucket from an AWS IP address",
