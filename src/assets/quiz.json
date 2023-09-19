@@ -917,7 +917,7 @@
     "a3": "C. Use AWS CloudTrail to record AWS API calls into an auditable log file",
     "a4": "D. Use AWS Certificate Manager to whitelist approved AWS resources and services",
     "a5": "E. Use Amazon GuardDuty to validate configuration changes made to AWS resources",
-    "as": "A"
+    "as": "AC"
   },
   {
     "id": 93,
