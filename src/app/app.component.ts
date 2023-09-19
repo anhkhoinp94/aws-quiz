@@ -24,6 +24,7 @@ export class AppComponent {
   aw5c: boolean = false;
   res: string = '';
   show: boolean = false;
+  numLeft: number = 0;
 
   constructor(
     private myDataService: MyDataService,
@@ -33,12 +34,10 @@ export class AppComponent {
   ngOnInit(): void {
     this.myDataService.getJsonData().subscribe((data: Question[]) => {
       this.jsonData = data;
-      this.id = this.getRandomArbitrary(1, this.jsonData.length);
-
-      let selectQ = this.jsonData.find((q) => {
-        return q.id === this.id;
-      });
+      let num = this.getRandomArbitrary(1, this.jsonData.length);
+      let selectQ = this.jsonData[num];
       if (selectQ) {
+        this.id = selectQ.id;
         this.question = selectQ.q;
         this.res = selectQ.as;
         this.aw1 = selectQ.a1;
@@ -51,6 +50,8 @@ export class AppComponent {
         this.aw4c = this.res.includes(selectQ.a4[0]);
         this.aw5 = selectQ.a5;
         this.aw5c = this.res.includes(selectQ.a5[0]);
+        this.jsonData.splice(this.id - 1, 1);
+        this.numLeft = this.jsonData.length;
       }
     });
   }
@@ -58,12 +59,10 @@ export class AppComponent {
   handleClick(): void {
     if (this.show) {
       this.show = false;
-      this.id = this.getRandomArbitrary(1, this.jsonData.length);
-
-      let selectQ = this.jsonData.find((q) => {
-        return q.id === this.id;
-      });
+      let num = this.getRandomArbitrary(1, this.jsonData.length);
+      let selectQ = this.jsonData[num];
       if (selectQ) {
+        this.id = selectQ.id;
         this.question = selectQ.q;
         this.res = selectQ.as;
         this.aw1 = selectQ.a1;
@@ -76,6 +75,8 @@ export class AppComponent {
         this.aw4c = this.res.includes(selectQ.a4[0]);
         this.aw5 = selectQ.a5;
         this.aw5c = this.res.includes(selectQ.a5[0]);
+        this.jsonData.splice(this.id - 2, 1);
+        this.numLeft = this.jsonData.length;
       }
     } else {
       this.show = true;
@@ -83,7 +84,6 @@ export class AppComponent {
   }
 
   getRandomArbitrary(min: number, max: number) {
-    max = 850;
     return Math.floor(Math.random() * (max - min) + min);
   }
 

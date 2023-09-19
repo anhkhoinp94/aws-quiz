@@ -3,11 +3,16 @@
     <div class="card-body">
       <div class="row mb-4">
         <div class="col">
-          <h1 class="card-title">Question {{ id }}:</h1>
+          <h1 class="card-title">Question {{ id }}</h1>
+          <p class="card-title">{{ numLeft }} questions left</p>
         </div>
         <div class="col-auto">
-          <button *ngIf="show" class="btn btn-primary ms-2" style="width: 100px;" (click)="handleClick()">Next</button>
-          <button *ngIf="!show" class="btn btn-success ms-2" style="width: 100px;" (click)="handleClick()">Show</button>
+          <button *ngIf="show" class="btn btn-primary ms-2" style="width: 100px" (click)="handleClick()">
+            Next
+          </button>
+          <button *ngIf="!show" class="btn btn-success ms-2" style="width: 100px" (click)="handleClick()">
+            Show
+          </button>
         </div>
       </div>
 
