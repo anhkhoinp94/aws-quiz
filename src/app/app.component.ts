@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { MyDataService } from './read';
 import { Question } from './Question';
+import { ClipboardService } from 'ngx-clipboard';
 
 @Component({
   selector: 'app-root',
@@ -24,7 +25,10 @@ export class AppComponent {
   res: string = '';
   show: boolean = false;
 
-  constructor(private myDataService: MyDataService) {}
+  constructor(
+    private myDataService: MyDataService,
+    private clipboardService: ClipboardService
+  ) {}
 
   ngOnInit(): void {
     this.myDataService.getJsonData().subscribe((data: Question[]) => {
@@ -73,13 +77,17 @@ export class AppComponent {
         this.aw5 = selectQ.a5;
         this.aw5c = this.res.includes(selectQ.a5[0]);
       }
-    }else{
+    } else {
       this.show = true;
     }
   }
 
   getRandomArbitrary(min: number, max: number) {
-    max = 300
+    max = 300;
     return Math.floor(Math.random() * (max - min) + min);
+  }
+
+  copyToClipboard() {
+    this.clipboardService.copyFromContent(this.question);
   }
 }
