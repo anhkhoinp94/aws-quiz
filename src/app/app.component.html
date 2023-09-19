@@ -6,14 +6,16 @@
           <h1 class="card-title">Question {{ id }}:</h1>
         </div>
         <div class="col-auto">
-          <button class="btn btn-primary" (click)="copyToClipboard()">Copy</button>
-          <button class="btn btn-success ms-2" (click)="handleClick()">Next</button>
+          <button *ngIf="show" class="btn btn-primary ms-2" style="width: 100px;" (click)="handleClick()">Next</button>
+          <button *ngIf="!show" class="btn btn-success ms-2" style="width: 100px;" (click)="handleClick()">Show</button>
         </div>
       </div>
 
-      <div class="row mb-4">
+      <div class="row mb-3">
         <div class="col">
-          <p class="card-text" style="font-weight: bold">{{ question }}</p>
+          <button class="btn btn-muted text-start" (click)="copyToClipboard()">
+            <p class="card-text" style="font-weight: bold">{{ question }}</p>
+          </button>
         </div>
       </div>
 
@@ -46,7 +48,8 @@
           {{ aw4 }}
         </button>
 
-        <button *ngIf="aw5 != '' && (!show || (show && !aw5c))" class="btn btn-muted text-start" (click)="copyToASClipboard(5)">
+        <button *ngIf="aw5 != '' && (!show || (show && !aw5c))" class="btn btn-muted text-start"
+          (click)="copyToASClipboard(5)">
           {{ aw5 }}
         </button>
         <button *ngIf="aw5 != '' && aw5c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(5)">
