@@ -31,41 +31,51 @@
       </div>
 
       <div class="btn-group d-grid gap-2" role="group">
-        <button *ngIf="!show || (show && !aw1c)" class="btn btn-muted text-start" (click)="copyToASClipboard(1)">
+        <div *ngIf="!show || (show && !aw1c)" class="p-3 mb-2 bg-light text-dart">{{ aw1 }}</div>
+        <div *ngIf="aw1c && show" class="p-3 mb-2 bg-primary text-dart">{{ aw1 }}</div>
+        <!-- <button *ngIf="!show || (show && !aw1c)" class="btn btn-muted text-start" (click)="copyToASClipboard(1)">
           {{ aw1 }}
         </button>
         <button *ngIf="aw1c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(1)">
           {{ aw1 }}
-        </button>
+        </button> -->
 
-        <button *ngIf="!show || (show && !aw2c)" class="btn btn-muted text-start" (click)="copyToASClipboard(2)">
+        <div *ngIf="!show || (show && !aw2c)" class="p-3 mb-2 bg-light text-dart">{{ aw2 }}</div>
+        <div *ngIf="aw2c && show" class="p-3 mb-2 bg-primary text-dart">{{ aw2 }}</div>
+        <!-- <button *ngIf="!show || (show && !aw2c)" class="btn btn-muted text-start" (click)="copyToASClipboard(2)">
           {{ aw2 }}
         </button>
         <button *ngIf="aw2c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(2)">
           {{ aw2 }}
-        </button>
+        </button> -->
 
-        <button *ngIf="!show || (show && !aw3c)" class="btn btn-muted text-start" (click)="copyToASClipboard(3)">
+        <div *ngIf="!show || (show && !aw3c)" class="p-3 mb-2 bg-light text-dart">{{ aw3 }}</div>
+        <div *ngIf="aw3c && show" class="p-3 mb-2 bg-primary text-dart">{{ aw3 }}</div>
+        <!-- <button *ngIf="!show || (show && !aw3c)" class="btn btn-muted text-start" (click)="copyToASClipboard(3)">
           {{ aw3 }}
         </button>
         <button *ngIf="aw3c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(3)">
           {{ aw3 }}
-        </button>
+        </button> -->
 
-        <button *ngIf="!show || (show && !aw4c)" class="btn btn-muted text-start" (click)="copyToASClipboard(4)">
+        <div *ngIf="!show || (show && !aw4c)" class="p-3 mb-2 bg-light text-dart">{{ aw4 }}</div>
+        <div *ngIf="aw4c && show" class="p-3 mb-2 bg-primary text-dart">{{ aw4 }}</div>
+        <!-- <button *ngIf="!show || (show && !aw4c)" class="btn btn-muted text-start" (click)="copyToASClipboard(4)">
           {{ aw4 }}
         </button>
         <button *ngIf="aw4c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(4)">
           {{ aw4 }}
-        </button>
+        </button> -->
 
-        <button *ngIf="aw5 != '' && (!show || (show && !aw5c))" class="btn btn-muted text-start"
+        <div *ngIf="aw5 != '' && (!show || (show && !aw5c))" class="p-3 mb-2 bg-light text-dart">{{ aw5 }}</div>
+        <div *ngIf="aw5 != '' && aw5c && show" class="p-3 mb-2 bg-primary text-dart">{{ aw5 }}</div>
+        <!-- <button *ngIf="aw5 != '' && (!show || (show && !aw5c))" class="btn btn-muted text-start"
           (click)="copyToASClipboard(5)">
           {{ aw5 }}
         </button>
         <button *ngIf="aw5 != '' && aw5c && show" class="btn btn-primary text-start" (click)="copyToASClipboard(5)">
           {{ aw5 }}
-        </button>
+        </button> -->
       </div>
     </div>
   </div>
