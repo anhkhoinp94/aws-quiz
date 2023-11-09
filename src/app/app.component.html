@@ -3,7 +3,7 @@
     <div class="card-body">
       <div class="row mb-3">
         <div class="col">
-          <h1 class="card-title" style="font-size: 22px;">Question {{ id }}</h1>
+          <h1 class="card-title" style="font-size: 22px">Question {{ id }}</h1>
           <p class="card-title">{{ numLeft }} questions left</p>
         </div>
         <div class="col-auto">
@@ -16,14 +16,17 @@
           <button *ngIf="!show" class="btn btn-success ms-2" style="width: 85px" (click)="handleClick(3)">
             Show
           </button>
+          <button class="btn btn-success ms-2" style="width: 85px" (click)="copyToClipboard()">
+            Copy Question
+          </button>
         </div>
       </div>
 
       <div class="row mb-3">
         <div class="col">
-          <button class="btn btn-muted text-start" (click)="copyToClipboard()">
-            <p class="card-text" style="font-weight: bold">{{ question }}</p>
-          </button>
+          <p class="card-text text-start" style="font-weight: bold">
+            {{ question }}
+          </p>
         </div>
       </div>
 
