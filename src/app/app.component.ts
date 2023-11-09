@@ -44,7 +44,7 @@ export class AppComponent {
   ngOnInit(): void {
     this.myDataService.getJsonData().subscribe((data: Question[]) => {
       this.jsonData = data;
-      let num = this.getRandomArbitrary(1, this.jsonData.length);
+      let num = this.getRandomArbitrary(0, this.jsonData.length);
       this.selectQ = this.jsonData[num];
       if (this.selectQ) {
         this.id = this.selectQ.id;
@@ -72,7 +72,7 @@ export class AppComponent {
     }
     if (this.show) {
       this.show = false;
-      let num = this.getRandomArbitrary(1, this.jsonData.length);
+      let num = this.getRandomArbitrary(0, this.jsonData.length);
       this.selectQ = this.jsonData[num];
       if (this.selectQ) {
         this.id = this.selectQ.id;
