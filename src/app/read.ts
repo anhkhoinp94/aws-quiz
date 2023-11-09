@@ -10,6 +10,6 @@ export class MyDataService {
   constructor(private http: HttpClient) {}
 
   getJsonData(): Observable<Question[]> {
-    return this.http.get<Question[]>('assets/quiz.json');
+    return this.http.get<Question[]>('assets/quiz2.json');
   }
 }
