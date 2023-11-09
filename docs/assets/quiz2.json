@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "q": "A company plans to use an Amazon Snowball Edge device to transfer files to the AWS Cloud. Which activities related to a Snowball Edge device are available to the company at no cost?",
     "a1": "A. Use of the Snowball Edge appliance for a 10-day period",
     "a2": "B. The transfer of data out of Amazon S3 and to the Snowball Edge appliance",
@@ -10,7 +10,7 @@
     "as": "C"
   },
   {
-    "id": 2,
+    "id": 1,
     "q": "A company has deployed applications on Amazon EC2 instances. The company needs to assess application vulnerabilities and must identify infrastructure deployments that do not meet best practices. Which AWS service can the company use to meet these requirements?",
     "a1": "A. AWS Trusted Advisor",
     "a2": "B. Amazon Inspector",
@@ -20,7 +20,7 @@
     "as": "B"
   },
   {
-    "id": 3,
+    "id": 2,
     "q": "A company has a centralized group of users with large file storage requirements that have exceeded the space available on premises. The company wants to extend its file storage capabilities for this group while retaining the performance benefit of sharing content locally. What is the MOST operationally efficient AWS solution for this scenario?",
     "a1": "A. Create an Amazon S3 bucket for each user. Mount each bucket by using an S3 file system mounting utility.",
     "a2": "B. Configure and deploy an AWS Storage Gateway file gateway. Connect each user’s workstation to the file gateway.",
@@ -28,5 +28,55 @@
     "a4": "D. Deploy an Amazon EC2 instance and attach an Amazon Elastic Block Store (Amazon EBS) Provisioned IOPS volume. Share the EBS volume directly with the users.",
     "a5": "",
     "as": "B"
+  },
+  {
+    "id": 3,
+    "q": "According to security best practices, how should an Amazon EC2 instance be given access to an Amazon S3 bucket?",
+    "a1": "A. Hard code an IAM user’s secret key and access key directly in the application, and upload the file.",
+    "a2": "B. Store the IAM user’s secret key and access key in a text file on the EC2 instance, read the keys, then upload the file.",
+    "a3": "C. Have the EC2 instance assume a role to obtain the privileges to upload the file.",
+    "a4": "D. Modify the S3 bucket policy so that any service can upload to it at any time.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 4,
+    "q": "Which option is a customer responsibility when using Amazon DynamoDB under the AWS Shared Responsibility Model?",
+    "a1": "A. Physical security of DynamoDB",
+    "a2": "B. Patching of DynamoDB",
+    "a3": "C. Access to DynamoDB tables",
+    "a4": "D. Encryption of data at rest in DynamoDB",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 5,
+    "q": "Which option is a perspective that includes foundational capabilities of the AWS Cloud Adoption Framework (AWS CAF)?",
+    "a1": "A. Sustainability",
+    "a2": "B. Performance efficiency",
+    "a3": "C. Governance",
+    "a4": "D. Reliability",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 6,
+    "q": "A company is running and managing its own Docker environment on Amazon EC2 instances. The company wants an alternative to help manage cluster size, scheduling, and environment maintenance. Which AWS service meets these requirements?",
+    "a1": "A. AWS Lambda",
+    "a2": "B. Amazon RDS",
+    "a3": "C. AWS Fargate",
+    "a4": "D. Amazon Athena",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 7,
+    "q": "A company wants to run a NoSQL database on Amazon EC2 instances. Which task is the responsibility of AWS in this scenario?",
+    "a1": "A. Update the guest operating system of the EC2 instances.",
+    "a2": "B. Maintain high availability at the database layer.",
+    "a3": "C. Patch the physical infrastructure that hosts the EC2 instances.",
+    "a4": "D. Configure the security group firewall.",
+    "a5": "",
+    "as": "C"
   }
 ]

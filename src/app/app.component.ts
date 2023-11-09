@@ -44,8 +44,8 @@ export class AppComponent {
   ngOnInit(): void {
     this.myDataService.getJsonData().subscribe((data: Question[]) => {
       this.jsonData = data;
-      let num = this.getRandomArbitrary(0, this.jsonData.length);
-      this.selectQ = this.jsonData[num];
+      let idx = this.getRandomArbitrary(0, this.jsonData.length - 1);
+      this.selectQ = this.jsonData[idx];
       if (this.selectQ) {
         this.id = this.selectQ.id;
         this.question = this.selectQ.q;
@@ -60,9 +60,10 @@ export class AppComponent {
         this.aw4c = this.res.includes(this.selectQ.a4[0]);
         this.aw5 = this.selectQ.a5;
         this.aw5c = this.res.includes(this.selectQ.a5[0]);
-        this.jsonData.splice(this.id - 1, 1);
+        this.jsonData.splice(idx, 1);
         this.numLeft = this.jsonData.length;
       }
+      console.log(this.jsonData);
     });
   }
 
@@ -72,8 +73,8 @@ export class AppComponent {
     }
     if (this.show) {
       this.show = false;
-      let num = this.getRandomArbitrary(0, this.jsonData.length);
-      this.selectQ = this.jsonData[num];
+      let idx = this.getRandomArbitrary(0, this.jsonData.length - 1);
+      this.selectQ = this.jsonData[idx];
       if (this.selectQ) {
         this.id = this.selectQ.id;
         this.question = this.selectQ.q;
@@ -88,10 +89,10 @@ export class AppComponent {
         this.aw4c = this.res.includes(this.selectQ.a4[0]);
         this.aw5 = this.selectQ.a5;
         this.aw5c = this.res.includes(this.selectQ.a5[0]);
-        this.jsonData.splice(this.id - 2, 1);
+        this.jsonData.splice(idx, 1);
         this.numLeft = this.jsonData.length;
-        console.log(this.jsonData)
       }
+      console.log(this.jsonData);
     } else {
       this.show = true;
     }
