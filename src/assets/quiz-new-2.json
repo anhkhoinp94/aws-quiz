@@ -1,0 +1,202 @@
+[
+  {
+    "id": 0,
+    "q": "Which AWS service or feature allows a user to establish a dedicated network connection between a company’s on-premises data center and the AWS Cloud?",
+    "a1": "A. AWS Direct Connect",
+    "a2": "B. VPC peering",
+    "a3": "C. AWS VPN",
+    "a4": "D. Amazon Route 53",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 1,
+    "q": "Which option is a physical location of the AWS global infrastructure?",
+    "a1": "A. AWS DataSync",
+    "a2": "B. AWS Region",
+    "a3": "C. Amazon Connect",
+    "a4": "D. AWS Organizations",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 2,
+    "q": "A company wants to protect its AWS Cloud information, systems, and assets while performing risk assessment and mitigation tasks. Which pillar of the AWS Well-Architected Framework is supported by these goals?",
+    "a1": "A. Reliability",
+    "a2": "B. Security",
+    "a3": "C. Operational excellence",
+    "a4": "D. Performance efficiency",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 3,
+    "q": "What is the purpose of having an internet gateway within a VPC?",
+    "a1": "A. To create a VPN connection to the VPC",
+    "a2": "B. To allow communication between the VPC and the internet",
+    "a3": "C. To impose bandwidth constraints on internet traffic",
+    "a4": "D. To load balance traffic from the internet across Amazon EC2 instances",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 4,
+    "q": "A company is running a monolithic on-premises application that does not scale and is difficult to maintain. The company has a plan to migrate the application to AWS and divide the application into microservices. Which best practice of the AWS Well-Architected Framework is the company following with this plan?",
+    "a1": "A. Integrate functional testing as part of AWS deployment.",
+    "a2": "B. Use automation to deploy changes.",
+    "a3": "C. Deploy the application to multiple locations.",
+    "a4": "D. Implement loosely coupled dependencies.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 5,
+    "q": "A company has an AWS account. The company wants to audit its password and access key rotation details for compliance purposes. Which AWS service or tool will meet this requirement?",
+    "a1": "A. IAM Access Analyzer",
+    "a2": "B. AWS Artifact",
+    "a3": "C. IAM credential report",
+    "a4": "D. AWS Audit Manager",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 6,
+    "q": "A company wants to receive a notification when a specific AWS cost threshold is reached. Which AWS services or tools can the company use to meet this requirement? (Choose two.)",
+    "a1": "A. Amazon Simple Queue Service (Amazon SQS)",
+    "a2": "B. AWS Budgets",
+    "a3": "C. Cost Explorer",
+    "a4": "D. Amazon CloudWatch",
+    "a5": "E. AWS Cost and Usage Report",
+    "as": "BD"
+  },
+  {
+    "id": 7,
+    "q": "Which AWS service or resource provides answers to the most frequently asked security-related questions that AWS receives from its users?",
+    "a1": "A. AWS Artifact",
+    "a2": "B. Amazon Connect",
+    "a3": "C. AWS Chatbot",
+    "a4": "D. AWS Knowledge Center",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 8,
+    "q": "Which tasks are customer responsibilities, according to the AWS shared responsibility model? (Choose two.)",
+    "a1": "A. Configure the AWS provided security group firewall.",
+    "a2": "B. Classify company assets in the AWS Cloud.",
+    "a3": "C. Determine which Availability Zones to use for Amazon S3 buckets.",
+    "a4": "D. Patch or upgrade Amazon DynamoDB.",
+    "a5": "E. Select Amazon EC2 instances to run AWS Lambda on.",
+    "as": "AB"
+  },
+  {
+    "id": 9,
+    "q": "Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)",
+    "a1": "A. Availability",
+    "a2": "B. Reliability",
+    "a3": "C. Scalability",
+    "a4": "D. Responsive design",
+    "a5": "E. Operational excellence",
+    "as": "BE"
+  },
+  {
+    "id": 10,
+    "q": "Which AWS service or feature is used to send both text and email messages from distributed applications?",
+    "a1": "A. Amazon Simple Notification Service (Amazon SNS)",
+    "a2": "B. Amazon Simple Email Service (Amazon SES)",
+    "a3": "C. Amazon CloudWatch alerts",
+    "a4": "D. Amazon Simple Queue Service (Amazon SQS)",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 11,
+    "q": "A user needs programmatic access to AWS resources through the AWS CLI or the AWS API. Which option will provide the user with the appropriate access?",
+    "a1": "A. Amazon Inspector",
+    "a2": "B. Access keys",
+    "a3": "C. SSH public keys",
+    "a4": "D. AWS Key Management Service (AWS KMS) keys",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 12,
+    "q": "A company runs thousands of simultaneous simulations using AWS Batch. Each simulation is stateless, is fault tolerant, and runs for up to 3 hours. Which pricing model enables the company to optimize costs and meet these requirements?",
+    "a1": "A. Reserved Instances",
+    "a2": "B. Spot Instances",
+    "a3": "C. On-Demand Instances",
+    "a4": "D. Dedicated Instances",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 13,
+    "q": "What does the concept of agility mean in AWS Cloud computing? (Choose two.)",
+    "a1": "A. The speed at which AWS resources are implemented",
+    "a2": "B. The speed at which AWS creates new AWS Regions",
+    "a3": "C. The ability to experiment quickly",
+    "a4": "D. The elimination of wasted capacity",
+    "a5": "E. The low cost of entry into cloud computing",
+    "as": "AC"
+  },
+  {
+    "id": 14,
+    "q": "A company needs to block SQL injection attacks. Which AWS service or feature can meet this requirement?",
+    "a1": "A. AWS WAF",
+    "a2": "B. AWS Shield",
+    "a3": "C. Network ACLs",
+    "a4": "D. Security groups",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 15,
+    "q": "Which AWS service or feature identifies whether an Amazon S3 bucket or an IAM role has been shared with an external entity?",
+    "a1": "A. AWS Service Catalog",
+    "a2": "B. AWS Systems Manager",
+    "a3": "C. AWS IAM Access Analyzer",
+    "a4": "D. AWS Organizations",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 16,
+    "q": "A cloud practitioner needs to obtain AWS compliance reports before migrating an environment to the AWS Cloud. How can these reports be generated?",
+    "a1": "A. Contact the AWS Compliance team.",
+    "a2": "B. Download the reports from AWS Artifact.",
+    "a3": "C. Open a case with AWS Support.",
+    "a4": "D. Generate the reports with Amazon Macie.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 17,
+    "q": "An ecommerce company has migrated its IT infrastructure from an on-premises data center to the AWS Cloud. Which cost is the company’s direct responsibility?",
+    "a1": "A. Cost of application software licenses",
+    "a2": "B. Cost of the hardware infrastructure on AWS",
+    "a3": "C. Cost of power for the AWS servers",
+    "a4": "D. Cost of physical security for the AWS data center",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 18,
+    "q": "A company is setting up AWS Identity and Access Management (IAM) on an AWS account. Which recommendation complies with IAM security best practices?",
+    "a1": "A. Use the account root user access keys for administrative tasks.",
+    "a2": "B. Grant broad permissions so that all company employees can access the resources they need.",
+    "a3": "C. Turn on multi-factor authentication (MFA) for added security during the login process.",
+    "a4": "D. Avoid rotating credentials to prevent issues in production applications.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 19,
+    "q": "Elasticity in the AWS Cloud refers to which of the following? (Choose two.)",
+    "a1": "A. How quickly an Amazon EC2 instance can be restarted",
+    "a2": "B. The ability to rightsize resources as demand shifts",
+    "a3": "C. The maximum amount of RAM an Amazon EC2 instance can use",
+    "a4": "D. The pay-as-you-go billing model",
+    "a5": "E. How easily resources can be procured when they are needed",
+    "as": "BE"
+  }
+]
