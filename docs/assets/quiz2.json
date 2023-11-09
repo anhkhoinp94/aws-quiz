@@ -78,5 +78,125 @@
     "a4": "D. Configure the security group firewall.",
     "a5": "",
     "as": "C"
+  },
+  {
+    "id": 8,
+    "q": "Which AWS services or tools can identify rightsizing opportunities for Amazon EC2 instances? (Choose two.)",
+    "a1": "A. AWS Cost Explorer",
+    "a2": "B. AWS Billing Conductor",
+    "a3": "C. Amazon CodeGuru",
+    "a4": "D. Amazon SageMaker",
+    "a5": "E. AWS Compute Optimizer",
+    "as": "AE"
+  },
+  {
+    "id": 9,
+    "q": "Which of the following are benefits of using AWS Trusted Advisor? (Choose two.)",
+    "a1": "A. Providing high-performance container orchestration",
+    "a2": "B. Creating and rotating encryption keys",
+    "a3": "C. Detecting underutilized resources to save costs",
+    "a4": "D. Improving security by proactively monitoring the AWS environment",
+    "a5": "E. Implementing enforced tagging across AWS resources",
+    "as": "CD"
+  },
+  {
+    "id": 10,
+    "q": "Which of the following is an advantage that users experience when they move on-premises workloads to the AWS Cloud?",
+    "a1": "A. Elimination of expenses for running and maintaining data centers",
+    "a2": "B. Price discounts that are identical to discounts from hardware providers",
+    "a3": "C. Distribution of all operational controls to AWS",
+    "a4": "D. Elimination of operational expenses",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 11,
+    "q": "A company wants to manage deployed IT services and govern its infrastructure as code (IaC) templates. Which AWS service will meet this requirement?",
+    "a1": "A. AWS Resource Explorer",
+    "a2": "B. AWS Service Catalog",
+    "a3": "C. AWS Organizations",
+    "a4": "D. AWS Systems Manager",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 12,
+    "q": "Which AWS service or tool helps users visualize, understand, and manage spending and usage over time?",
+    "a1": "A. AWS Organizations",
+    "a2": "B. AWS Pricing Calculator",
+    "a3": "C. AWS Cost Explorer",
+    "a4": "D. AWS Service Catalog",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 13,
+    "q": "A company is using a central data platform to manage multiple types of data for its customers. The company wants to use AWS services to discover, transform, and visualize the data. Which combination of AWS services should the company use to meet these requirements? (Choose two.)",
+    "a1": "A. AWS Glue",
+    "a2": "B. Amazon Elastic File System (Amazon EFS)",
+    "a3": "C. Amazon Redshift",
+    "a4": "D. Amazon QuickSight",
+    "a5": "E. Amazon Quantum Ledger Database (Amazon QLDB)",
+    "as": "AD"
+  },
+  {
+    "id": 14,
+    "q": "A global company wants to migrate its third-party applications to the AWS Cloud. The company wants help from a global team of experts to complete the migration faster and more reliably in accordance with AWS internal best practices. Which AWS service or resource will meet these requirements?",
+    "a1": "A. AWS Support",
+    "a2": "B. AWS Professional Services",
+    "a3": "C. AWS Launch Wizard",
+    "a4": "D. AWS Managed Services (AMS)",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 15,
+    "q": "An e-learning platform needs to run an application for 2 months each year. The application will be deployed on Amazon EC2 instances. Any application downtime during those 2 months must be avoided. Which EC2 purchasing option will meet these requirements MOST cost-effectively?",
+    "a1": "A. Reserved Instances",
+    "a2": "B. Dedicated Hosts",
+    "a3": "C. Spot Instances",
+    "a4": "D. On-Demand Instances",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 16,
+    "q": "A developer wants to deploy an application quickly on AWS without manually creating the required resources. Which AWS service will meet these requirements?",
+    "a1": "A. Amazon EC2",
+    "a2": "B. AWS Elastic Beanstalk",
+    "a3": "C. AWS CodeBuild",
+    "a4": "D. Amazon Personalize",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 17,
+    "q": "A company is storing sensitive customer data in an Amazon S3 bucket. The company wants to protect the data from accidental deletion or overwriting. Which S3 feature should the company use to meet these requirements?",
+    "a1": "A. S3 Lifecycle rules",
+    "a2": "B. S3 Versioning",
+    "a3": "C. S3 bucket policies",
+    "a4": "D. S3 server-side encryption",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 18,
+    "q": "Which AWS service provides the ability to manage infrastructure as code?",
+    "a1": "A. AWS CodePipeline",
+    "a2": "B. AWS CodeDeploy",
+    "a3": "C. AWS Direct Connect",
+    "a4": "D. AWS CloudFormation",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 19,
+    "q": "An online gaming company needs to choose a purchasing option to run its Amazon EC2 instances for 1 year. The web traffic is consistent, and any increases in traffic are predictable. The EC2 instances must be online and available without any disruption. Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?",
+    "a1": "A. On-Demand Instances",
+    "a2": "B. Reserved Instances",
+    "a3": "C. Spot Instances",
+    "a4": "D. Spot Fleet",
+    "a5": "",
+    "as": "B"
   }
 ]
