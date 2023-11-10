@@ -198,5 +198,105 @@
     "a4": "D. Opening an AWS Support case",
     "a5": "",
     "as": "B"
+  },
+  {
+    "id": 20,
+    "q": "A company needs to simultaneously process hundreds of requests from different users. Which combination of AWS services should the company use to build an operationally efficient solution?",
+    "a1": "A. Amazon Simple Queue Service (Amazon SQS) and AWS Lambda",
+    "a2": "B. AWS Data Pipeline and Amazon EC2",
+    "a3": "C. Amazon Kinesis and Amazon Athena",
+    "a4": "D. AWS Amplify and AWS AppSync",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 21,
+    "q": "What is the scope of a VPC within the AWS network?",
+    "a1": "A. A VPC can span all Availability Zones globally.",
+    "a2": "B. A VPC must span at least two subnets in each AWS Region.",
+    "a3": "C. A VPC must span at least two edge locations in each AWS Region.",
+    "a4": "D. A VPC can span all Availability Zones within an AWS Region.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 22,
+    "q": "Which of the following are components of an AWS Site-to-Site VPN connection? (Choose two.)",
+    "a1": "A. AWS Storage Gateway",
+    "a2": "B. Virtual private gateway",
+    "a3": "C. NAT gateway",
+    "a4": "D. Customer gateway",
+    "a5": "E. Internet gateway",
+    "as": "BD"
+  },
+  {
+    "id": 23,
+    "q": "A company needs to establish a connection between two VPCs. The VPCs are located in two different AWS Regions. The company wants to use the existing infrastructure of the VPCs for this connection. Which AWS service or feature can be used to establish this connection?",
+    "a1": "A. AWS Client VPN",
+    "a2": "B. VPC peering",
+    "a3": "C. AWS Direct Connect",
+    "a4": "D. VPC endpoints",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 24,
+    "q": "According to the AWS shared responsibility model, what responsibility does a customer have when using Amazon RDS to host a database?",
+    "a1": "A. Manage connections to the database",
+    "a2": "B. Install Microsoft SQL Server",
+    "a3": "C. Design encryption-at-rest strategies",
+    "a4": "D. Apply minor database patches",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 25,
+    "q": "What are some advantages of using Amazon EC2 instances to host applications in the AWS Cloud instead of on premises? (Choose two.)",
+    "a1": "A. EC2 includes operating system patch management.",
+    "a2": "B. EC2 integrates with Amazon VPC, AWS CloudTrail, and AWS Identity and Access Management (IAM).",
+    "a3": "C. EC2 has a 100% service level agreement (SLA).",
+    "a4": "D. EC2 has a flexible, pay-as-you-go pricing model.",
+    "a5": "E. EC2 has automatic storage cost optimization.",
+    "as": "BD"
+  },
+  {
+    "id": 26,
+    "q": "A user needs to determine whether an Amazon EC2 instance's security groups were modified in the last month. How can the user see if a change was made?",
+    "a1": "A. Use Amazon EC2 to see if the security group was changed.",
+    "a2": "B. Use AWS Identity and Access Management (IAM) to see which user or role changed the security group.",
+    "a3": "C. Use AWS CloudTrail to see if the security group was changed.",
+    "a4": "D. Use Amazon CloudWatch to see if the security group was changed.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 27,
+    "q": "Which AWS service will help protect applications running on AWS from DDoS attacks?",
+    "a1": "A. Amazon GuardDuty",
+    "a2": "B. AWS WAF",
+    "a3": "C. AWS Shield",
+    "a4": "D. Amazon Inspector",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 28,
+    "q": "Which AWS service or feature acts as a firewall for Amazon EC2 instances?",
+    "a1": "A. Network ACL",
+    "a2": "B. Elastic network interface",
+    "a3": "C. Amazon VPC",
+    "a4": "D. Security group",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 29,
+    "q": "How does the AWS Cloud pricing model differ from the traditional on-premises storage pricing model?",
+    "a1": "A. AWS resources do not incur costs",
+    "a2": "B. There are no infrastructure operating costs",
+    "a3": "C. There are no upfront cost commitments",
+    "a4": "D. There are no software licensing costs",
+    "a5": "",
+    "as": "C"
   }
 ]
