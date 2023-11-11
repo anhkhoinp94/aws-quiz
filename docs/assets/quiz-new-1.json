@@ -298,5 +298,305 @@
     "a4": "D. There are no software licensing costs",
     "a5": "",
     "as": "C"
+  },
+  {
+    "id": 30,
+    "q": "A company has a single Amazon EC2 instance. The company wants to adopt a highly available architecture. What can the company do to meet this requirement?",
+    "a1": "A. Scale vertically to a larger EC2 instance size.",
+    "a2": "B. Scale horizontally across multiple Availability Zones.",
+    "a3": "C. Purchase an EC2 Dedicated Instance.",
+    "a4": "D. Change the EC2 instance family to a compute optimized instance.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 31,
+    "q": "A company's on-premises application deployment cycle was 3-4 weeks. After migrating to the AWS Cloud, the company can deploy the application in 2-3 days. Which benefit has this company experienced by moving to the AWS Cloud?",
+    "a1": "A. Elasticity",
+    "a2": "B. Flexibility",
+    "a3": "C. Agility",
+    "a4": "D. Resilience",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 32,
+    "q": "Which of the following are included in AWS Enterprise Support? (Choose two.)",
+    "a1": "A. AWS technical account manager (TAM)",
+    "a2": "B. AWS partner-led support",
+    "a3": "C. AWS Professional Services",
+    "a4": "D. Support of third-party software integration to AWS",
+    "a5": "E. 5-minute response time for critical issues",
+    "as": "AD"
+  },
+  {
+    "id": 33,
+    "q": "A global media company uses AWS Organizations to manage multiple AWS accounts. Which AWS service or feature can the company use to limit the access to AWS services for member accounts?",
+    "a1": "A. AWS Identity and Access Management (IAM)",
+    "a2": "B. Service control policies (SCPs)",
+    "a3": "C. Organizational units (OUs)",
+    "a4": "D. Access control lists (ACLs)",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 34,
+    "q": "A company wants to limit its employees' AWS access to a portfolio of predefined AWS resources. Which AWS solution should the company use to meet this requirement?",
+    "a1": "A. AWS Config",
+    "a2": "B. AWS software development kits (SDKs)",
+    "a3": "C. AWS Service Catalog",
+    "a4": "D. AWS AppSync",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 35,
+    "q": "An online company was running a workload on premises and was struggling to launch new products and features. After migrating the workload to AWS, the company can quickly launch products and features and can scale its infrastructure as required. Which AWS Cloud value proposition does this scenario describe?",
+    "a1": "A. Business agility",
+    "a2": "B. High availability",
+    "a3": "C. Security",
+    "a4": "D. Centralized auditing",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 36,
+    "q": "Which of the following are advantages of the AWS Cloud? (Choose two.)",
+    "a1": "A. AWS management of user-owned infrastructure",
+    "a2": "B. Ability to quickly change required capacity",
+    "a3": "C. High economies of scale",
+    "a4": "D. Increased deployment time to market",
+    "a5": "E. Increased fixed expenses",
+    "as": "BC"
+  },
+  {
+    "id": 37,
+    "q": "AWS has the ability to achieve lower pay-as-you-go pricing by aggregating usage across hundreds of thousands of users. This describes which advantage of the AWS Cloud?",
+    "a1": "A. Launch globally in minutes",
+    "a2": "B. Increase speed and agility",
+    "a3": "C. High economies of scale",
+    "a4": "D. No guessing about compute capacity",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 38,
+    "q": "A company has a database server that is always running. The company hosts the server on Amazon EC2 instances. The instance sizes are suitable for the workload. The workload will run for 1 year. Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?",
+    "a1": "A. Standard Reserved Instances",
+    "a2": "B. On-Demand Instances",
+    "a3": "C. Spot Instances",
+    "a4": "D. Convertible Reserved Instances",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 39,
+    "q": "A company is developing a mobile app that needs a high-performance NoSQL database. Which AWS services could the company use for this database? (Choose two.)",
+    "a1": "A. Amazon Aurora",
+    "a2": "B. Amazon RDS",
+    "a3": "C. Amazon Redshift",
+    "a4": "D. Amazon DocumentDB (with MongoDB compatibility)",
+    "a5": "E. Amazon DynamoDB",
+    "as": "DE"
+  },
+  {
+    "id": 40,
+    "q": "Which tasks are the responsibility of AWS, according to the AWS shared responsibility model? (Choose two.)",
+    "a1": "A. Patch the Amazon EC2 guest operating system.",
+    "a2": "B. Upgrade the firmware of the network infrastructure.",
+    "a3": "C. Apply password rotation for IAM users.",
+    "a4": "D. Maintain the physical security of edge locations.",
+    "a5": "E. Maintain least privilege access to the root user account.",
+    "as": "BD"
+  },
+  {
+    "id": 41,
+    "q": "Which of the following are features of network ACLs as they are used in the AWS Cloud? (Choose two.)",
+    "a1": "A. They are stateless.",
+    "a2": "B. They are stateful.",
+    "a3": "C. They evaluate all rules before allowing traffic.",
+    "a4": "D. They process rules in order, starting with the lowest numbered rule, when deciding whether to allow traffic.",
+    "a5": "E. They operate at the instance level.",
+    "as": "AD"
+  },
+  {
+    "id": 42,
+    "q": "A company has designed its AWS Cloud infrastructure to run its workloads effectively. The company also has protocols in place to continuously improve supporting processes. Which pillar of the AWS Well-Architected Framework does this scenario represent?",
+    "a1": "A. Security",
+    "a2": "B. Performance efficiency",
+    "a3": "C. Cost optimization",
+    "a4": "D. Operational excellence",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 43,
+    "q": "Which AWS service or feature can be used to create a private connection between an on-premises workload and an AWS Cloud workload?",
+    "a1": "A. Amazon Route 53",
+    "a2": "B. Amazon Macie",
+    "a3": "C. AWS Direct Connect",
+    "a4": "D. AWS PrivateLink",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 44,
+    "q": "A company needs to graphically visualize AWS billing and usage over time. The company also needs information about its AWS monthly costs. Which AWS Billing and Cost Management tool provides this data in a graphical format?",
+    "a1": "A. AWS Bills",
+    "a2": "B. Cost Explorer",
+    "a3": "C. AWS Cost and Usage Report",
+    "a4": "D. AWS Budgets",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 45,
+    "q": "A company wants to run production workloads on AWS. The company needs concierge service, a designated AWS technical account manager (TAM), and technical support that is available 24 hours a day, 7 days a week. Which AWS Support plan will meet these requirements?",
+    "a1": "A. AWS Basic Support",
+    "a2": "B. AWS Enterprise Support",
+    "a3": "C. AWS Business Support",
+    "a4": "D. AWS Developer Support",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 46,
+    "q": "Which architecture design principle describes the need to isolate failures between dependent components in the AWS Cloud?",
+    "a1": "A. Use a monolithic design.",
+    "a2": "B. Design for automation.",
+    "a3": "C. Design for single points of failure.",
+    "a4": "D. Loosely couple components.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 47,
+    "q": "Which AWS services are managed database services? (Choose two.)",
+    "a1": "A. Amazon Elastic Block Store (Amazon EBS)",
+    "a2": "B. Amazon S3",
+    "a3": "C. Amazon RDS",
+    "a4": "D. Amazon Elastic File System (Amazon EFS)",
+    "a5": "E. Amazon DynamoDB",
+    "as": "CE"
+  },
+  {
+    "id": 48,
+    "q": "A company is using the AWS Free Tier for several AWS services for an application. What will happen if the Free Tier usage period expires or if the application use exceeds the Free Tier usage limits?",
+    "a1": "A. The company will be charged the standard pay-as-you-go service rates for the usage that exceeds the Free Tier usage.",
+    "a2": "B. AWS Support will contact the company to set up standard service charges.",
+    "a3": "C. The company will be charged for the services it consumed during the Free Tier period, plus additional charges for service consumption after the Free Tier period.",
+    "a4": "D. The company's AWS account will be frozen and can be restarted after a payment plan is established.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 49,
+    "q": "A company recently deployed an Amazon RDS instance in its VPC. The company needs to implement a stateful firewall to limit traffic to the private corporate network. Which AWS service or feature should the company use to limit network traffic directly to its RDS instance?",
+    "a1": "A. Network ACLs",
+    "a2": "B. Security groups",
+    "a3": "C. AWS WAF",
+    "a4": "D. Amazon GuardDuty",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 50,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 51,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 52,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 53,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 54,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 55,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 56,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 57,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 58,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 59,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
   }
 ]
