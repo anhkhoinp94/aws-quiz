@@ -901,102 +901,102 @@
   },
   {
     "id": 90,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service is used to provide encryption for Amazon EBS?",
+    "a1": "A. AWS Certificate Manager",
+    "a2": "B. AWS Systems Manager",
+    "a3": "C. AWS KMS",
+    "a4": "D. AWS Config",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 91,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which AWS services make use of global edge locations? (Choose two.)",
+    "a1": "A. AWS Fargate",
+    "a2": "B. Amazon CloudFront",
+    "a3": "C. AWS Global Accelerator",
+    "a4": "D. AWS Wavelength",
+    "a5": "E. Amazon VPC",
+    "as": "BC"
   },
   {
     "id": 92,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is operating several factories where it builds products. The company needs the ability to process data, store data, and run applications with local system interdependencies that require low latency. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. AWS IoT Greengrass",
+    "a2": "B. AWS Lambda",
+    "a3": "C. AWS Outposts",
+    "a4": "D. AWS Snowball Edge",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 93,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following is a recommended design principle for AWS Cloud architecture?",
+    "a1": "A. Design tightly coupled components.",
+    "a2": "B. Build a single application component that can handle all the application functionality.",
+    "a3": "C. Make large changes on fewer iterations to reduce chances of failure.",
+    "a4": "D. Avoid monolithic architecture by segmenting workloads.",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 94,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is designing its AWS workloads so that components can be updated regularly and so that changes can be made in small, reversible increments. Which pillar of the AWS Well-Architected Framework does this design support?",
+    "a1": "A. Security",
+    "a2": "B. Performance efficiency",
+    "a3": "C. Operational excellence",
+    "a4": "D. Reliability",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 95,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following acts as an instance-level firewall to control inbound and outbound access?",
+    "a1": "A. Network access control list",
+    "a2": "B. Security groups",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. Virtual private gateways",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 96,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company has a workload that will run continuously for 1 year. The workload cannot tolerate service interruptions. Which Amazon EC2 purchasing option will be MOST cost-effective?",
+    "a1": "A. All Upfront Reserved Instances",
+    "a2": "B. Partial Upfront Reserved Instances",
+    "a3": "C. Dedicated Instances",
+    "a4": "D. On-Demand Instances",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 97,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service helps protect against DDoS attacks?",
+    "a1": "A. AWS Shield",
+    "a2": "B. Amazon Inspector",
+    "a3": "C. Amazon GuardDuty",
+    "a4": "D. Amazon Detective",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 98,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Using AWS Config to record, audit, and evaluate changes to AWS resources to enable traceability is an example of which AWS Well-Architected Framework pillar?",
+    "a1": "A. Security",
+    "a2": "B. Operational excellence",
+    "a3": "C. Performance efficiency",
+    "a4": "D. Cost optimization",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 99,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS tool or feature acts as a VPC firewall at the subnet level?",
+    "a1": "A. Security group",
+    "a2": "B. Network ACL",
+    "a3": "C. Traffic Mirroring",
+    "a4": "D. Internet gateway",
     "a5": "",
-    "as": ""
+    "as": "B"
   }
 ]
