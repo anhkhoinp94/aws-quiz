@@ -598,5 +598,105 @@
     "a4": "D. AWS Config",
     "a5": "",
     "as": "B"
+  },
+  {
+    "id": 60,
+    "q": "A company that has multiple business units wants to centrally manage and govern its AWS Cloud environments. The company wants to automate the creation of AWS accounts, apply service control policies (SCPs), and simplify billing processes. Which AWS service or tool should the company use to meet these requirements?",
+    "a1": "A. AWS Organizations",
+    "a2": "B. Cost Explorer",
+    "a3": "C. AWS Budgets",
+    "a4": "D. AWS Trusted Advisor",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 61,
+    "q": "Which IT controls do AWS and the customer share, according to the AWS shared responsibility model? (Choose two.)",
+    "a1": "A. Physical and environmental controls",
+    "a2": "B. Patch management",
+    "a3": "C. Cloud awareness and training",
+    "a4": "D. Zone security",
+    "a5": "E. Application data encryption",
+    "as": "BC"
+  },
+  {
+    "id": 62,
+    "q": "A company is launching an application in the AWS Cloud. The application will use Amazon S3 storage. A large team of researchers will have shared access to the data. The company must be able to recover data that is accidentally overwritten or deleted. Which S3 feature should the company turn on to meet this requirement?",
+    "a1": "A. Server access logging",
+    "a2": "B. S3 Versioning",
+    "a3": "C. S3 Lifecycle rules",
+    "a4": "D. Encryption in transit and at rest",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 63,
+    "q": "A manufacturing company has a critical application that runs at a remote site that has a slow internet connection. The company wants to migrate the workload to AWS. The application is sensitive to latency and interruptions in connectivity. The company wants a solution that can host this application with minimum latency. Which AWS service or feature should the company use to meet these requirements?",
+    "a1": "A. Availability Zones",
+    "a2": "B. AWS Local Zones",
+    "a3": "C. AWS Wavelength",
+    "a4": "D. AWS Outposts",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 64,
+    "q": "A company wants to migrate its applications from its on-premises data center to a VPC in the AWS Cloud. These applications will need to access on-premises resources. Which actions will meet these requirements? (Choose two.)",
+    "a1": "A. Use AWS Service Catalog to identify a list of on-premises resources that can be migrated.",
+    "a2": "B. Create a VPN connection between an on-premises device and a virtual private gateway in the VPC.",
+    "a3": "C. Use an Amazon CloudFront distribution and configure it to accelerate content delivery close to the on-premises resources.",
+    "a4": "D. Set up an AWS Direct Connect connection between the on-premises data center and AWS.",
+    "a5": "E. Use Amazon CloudFront to restrict access to static web content provided through the on-premises web servers.",
+    "as": "BD"
+  },
+  {
+    "id": 65,
+    "q": "A company wants to use the AWS Cloud to provide secure access to desktop applications that are running in a fully managed environment. Which AWS service should the company use to meet this requirement?",
+    "a1": "A. Amazon S3",
+    "a2": "B. Amazon AppStream 2.0",
+    "a3": "C. AWS AppSync",
+    "a4": "D. AWS Outposts",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 66,
+    "q": "A company wants to implement threat detection on its AWS infrastructure. However, the company does not want to deploy additional software. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. Amazon VPC",
+    "a2": "B. Amazon EC2",
+    "a3": "C. Amazon GuardDuty",
+    "a4": "D. AWS Direct Connect",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 67,
+    "q": "Which AWS service uses edge locations?",
+    "a1": "A. Amazon Aurora",
+    "a2": "B. AWS Global Accelerator",
+    "a3": "C. Amazon Connect",
+    "a4": "D. AWS Outposts",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 68,
+    "q": "A company needs to install an application in a Docker container. Which AWS service eliminates the need to provision and manage the container hosts?",
+    "a1": "A. AWS Fargate",
+    "a2": "B. Amazon FSx for Windows File Server",
+    "a3": "C. Amazon Elastic Container Service (Amazon ECS)",
+    "a4": "D. Amazon EC2",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 69,
+    "q": "Which AWS service or feature checks access policies and offers actionable recommendations to help users set secure and functional policies?",
+    "a1": "A. AWS Systems Manager",
+    "a2": "B. AWS IAM Access Analyzer",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. Amazon GuardDuty",
+    "a5": "",
+    "as": "B"
   }
 ]
