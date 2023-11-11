@@ -501,102 +501,102 @@
   },
   {
     "id": 50,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service uses machine learning to help discover, monitor, and protect sensitive data that is stored in Amazon S3 buckets?",
+    "a1": "A. AWS Shield",
+    "a2": "B. Amazon Macie",
+    "a3": "C. AWS Network Firewall",
+    "a4": "D. Amazon Cognito",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 51,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to improve the overall availability and performance of its applications that are hosted on AWS. Which AWS service should the company use?",
+    "a1": "A. Amazon Connect",
+    "a2": "B. Amazon Lightsail",
+    "a3": "C. AWS Global Accelerator",
+    "a4": "D. AWS Storage Gateway",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 52,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service or feature identifies whether an Amazon S3 bucket or an IAM role has been shared with an external entity?",
+    "a1": "A. AWS Service Catalog",
+    "a2": "B. AWS Systems Manager",
+    "a3": "C. AWS IAM Access Analyzer",
+    "a4": "D. AWS Organizations",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 53,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company does not want to rely on elaborate forecasting to determine its usage of compute resources. Instead, the company wants to pay only for the resources that it uses. The company also needs the ability to increase or decrease its resource usage to meet business requirements. Which pillar of the AWS Well-Architected Framework aligns with these requirements?",
+    "a1": "A. Operational excellence",
+    "a2": "B. Security",
+    "a3": "C. Reliability",
+    "a4": "D. Cost optimization",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 54,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to launch its workload on AWS and requires the system to automatically recover from failure. Which pillar of the AWS Well-Architected Framework includes this requirement?",
+    "a1": "A. Cost optimization",
+    "a2": "B. Operational excellence",
+    "a3": "C. Performance efficiency",
+    "a4": "D. Reliability",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 55,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A large enterprise with multiple VPCs in several AWS Regions around the world needs to connect and centrally manage network connectivity between its VPCs. Which AWS service or feature meets these requirements?",
+    "a1": "A. AWS Direct Connect",
+    "a2": "B. AWS Transit Gateway",
+    "a3": "C. AWS Site-to-Site VPN",
+    "a4": "D. VPC endpoints",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 56,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service supports the creation of visual reports from AWS Cost and Usage Report data?",
+    "a1": "A. Amazon Athena",
+    "a2": "B. Amazon QuickSight",
+    "a3": "C. Amazon CloudWatch",
+    "a4": "D. AWS Organizations",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 57,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service should be used to monitor Amazon EC2 instances for CPU and network utilization?",
+    "a1": "A. Amazon Inspector",
+    "a2": "B. AWS CloudTrail",
+    "a3": "C. Amazon CloudWatch",
+    "a4": "D. AWS Config",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 58,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is preparing to launch a new web store that is expected to receive high traffic for an upcoming event. The web store runs only on AWS, and the company has an AWS Enterprise Support plan. Which AWS resource will provide guidance about how the company should scale its architecture and operational support during the event?",
+    "a1": "A. AWS Abuse team",
+    "a2": "B. The designated AWS technical account manager (TAM)",
+    "a3": "C. AWS infrastructure event management",
+    "a4": "D. AWS Professional Services",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 59,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A user wants to deploy a service to the AWS Cloud by using infrastructure-as-code (IaC) principles. Which AWS service can be used to meet this requirement?",
+    "a1": "A. AWS Systems Manager",
+    "a2": "B. AWS CloudFormation",
+    "a3": "C. AWS CodeCommit",
+    "a4": "D. AWS Config",
     "a5": "",
-    "as": ""
+    "as": "B"
   }
 ]
