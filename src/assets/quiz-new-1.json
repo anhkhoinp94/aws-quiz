@@ -998,5 +998,305 @@
     "a4": "D. Internet gateway",
     "a5": "",
     "as": "B"
+  },
+  {
+    "id": 100,
+    "q": "Which AWS service can be used to decouple applications?",
+    "a1": "A. AWS Config",
+    "a2": "B. Amazon Simple Queue Service (Amazon SQS)",
+    "a3": "C. AWS Batch",
+    "a4": "D. Amazon Simple Email Service (Amazon SES)",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 101,
+    "q": "Which disaster recovery option is the LEAST expensive?",
+    "a1": "A. Warm standby",
+    "a2": "B. Multisite",
+    "a3": "C. Backup and restore",
+    "a4": "D. Pilot light",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 102,
+    "q": "Which type of AWS storage is ephemeral and is deleted when an Amazon EC2 instance is stopped or terminated?",
+    "a1": "A. Amazon Elastic Block Store (Amazon EBS)",
+    "a2": "B. Amazon EC2 instance store",
+    "a3": "C. Amazon Elastic File System (Amazon EFS)",
+    "a4": "D. Amazon S3",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 103,
+    "q": "Which of the following is a characteristic of the AWS account root user?",
+    "a1": "A. The root user is the only user that can be configured with multi-factor authentication (MFA).",
+    "a2": "B. The root user is the only user that can access the AWS Management Console.",
+    "a3": "C. The root user is the first sign-in identity that is available when an AWS account is created.",
+    "a4": "D. The root user has a password that cannot be changed.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 104,
+    "q": "A company hosts an application on an Amazon EC2 instance. The EC2 instance needs to access several AWS resources, including Amazon S3 and Amazon DynamoDB. What is the MOST operationally efficient solution to delegate permissions?",
+    "a1": "A. Create an IAM role with the required permissions. Attach the role to the EC2 instance.",
+    "a2": "B. Create an IAM user and use its access key and secret access key in the application.",
+    "a3": "C. Create an IAM user and use its access key and secret access key to create a CLI profile in the EC2 instance.",
+    "a4": "D. Create an IAM role with the required permissions. Attach the role to the administrative IAM user.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 105,
+    "q": "Which of the following is a component of the AWS Global Infrastructure?",
+    "a1": "A. Amazon Alexa",
+    "a2": "B. AWS Regions",
+    "a3": "C. Amazon Lightsail",
+    "a4": "D. AWS Organizations",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 106,
+    "q": "What is the purpose of having an internet gateway within a VPC?",
+    "a1": "A. To create a VPN connection to the VPC",
+    "a2": "B. To allow communication between the VPC and the internet",
+    "a3": "C. To impose bandwidth constraints on internet traffic",
+    "a4": "D. To load balance traffic from the internet across Amazon EC2 instances",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 107,
+    "q": "Which AWS service allows users to download security and compliance reports about the AWS infrastructure on demand?",
+    "a1": "A. Amazon GuardDuty",
+    "a2": "B. AWS Security Hub",
+    "a3": "C. AWS Artifact",
+    "a4": "D. AWS Shield",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 108,
+    "q": "A pharmaceutical company operates its infrastructure in a single AWS Region. The company has thousands of VPCs in a various AWS accounts that it wants to interconnect. Which AWS service or feature should the company use to help simplify management and reduce operational costs?",
+    "a1": "A. VPC endpoint",
+    "a2": "B. AWS Direct Connect",
+    "a3": "C. AWS Transit Gateway",
+    "a4": "D. VPC peering",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 109,
+    "q": "A company is planning an infrastructure deployment to the AWS Cloud. Before the deployment, the company wants a cost estimate for running the infrastructure. Which AWS service or feature can provide this information?",
+    "a1": "A. Cost Explorer",
+    "a2": "B. AWS Trusted Advisor",
+    "a3": "C. AWS Cost and Usage Report",
+    "a4": "D. AWS Pricing Calculator",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 110,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 111,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 112,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 113,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 114,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 115,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 116,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 117,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 118,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 119,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 120,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 121,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 122,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 123,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 124,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 125,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 126,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 127,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 128,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 129,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
   }
 ]

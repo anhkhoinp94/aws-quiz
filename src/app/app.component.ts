@@ -44,26 +44,28 @@ export class AppComponent {
   ngOnInit(): void {
     this.myDataService.getJsonData().subscribe((data: Question[]) => {
       this.jsonData = data;
-      let idx = this.getRandomArbitrary(0, this.jsonData.length - 1);
-      this.selectQ = this.jsonData[idx];
-      if (this.selectQ) {
-        this.id = this.selectQ.id;
-        this.question = this.selectQ.q;
-        this.res = this.selectQ.as;
-        this.aw1 = this.selectQ.a1;
-        this.aw1c = this.res.includes(this.selectQ.a1[0]);
-        this.aw2 = this.selectQ.a2;
-        this.aw2c = this.res.includes(this.selectQ.a2[0]);
-        this.aw3 = this.selectQ.a3;
-        this.aw3c = this.res.includes(this.selectQ.a3[0]);
-        this.aw4 = this.selectQ.a4;
-        this.aw4c = this.res.includes(this.selectQ.a4[0]);
-        this.aw5 = this.selectQ.a5;
-        this.aw5c = this.res.includes(this.selectQ.a5[0]);
-        this.jsonData.splice(idx, 1);
-        this.numLeft = this.jsonData.length;
-      }
-      console.log(this.jsonData);
+      this.myDataService.getJsonData2().subscribe((data: Question[]) => {
+        this.jsonData = this.jsonData.concat(data);
+        let idx = this.getRandomArbitrary(0, this.jsonData.length - 1);
+        this.selectQ = this.jsonData[idx];
+        if (this.selectQ) {
+          this.id = this.selectQ.id;
+          this.question = this.selectQ.q;
+          this.res = this.selectQ.as;
+          this.aw1 = this.selectQ.a1;
+          this.aw1c = this.res.includes(this.selectQ.a1[0]);
+          this.aw2 = this.selectQ.a2;
+          this.aw2c = this.res.includes(this.selectQ.a2[0]);
+          this.aw3 = this.selectQ.a3;
+          this.aw3c = this.res.includes(this.selectQ.a3[0]);
+          this.aw4 = this.selectQ.a4;
+          this.aw4c = this.res.includes(this.selectQ.a4[0]);
+          this.aw5 = this.selectQ.a5;
+          this.aw5c = this.res.includes(this.selectQ.a5[0]);
+          this.jsonData.splice(idx, 1);
+          this.numLeft = this.jsonData.length;
+        }
+      });
     });
   }
 

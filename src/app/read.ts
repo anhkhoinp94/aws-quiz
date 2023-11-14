@@ -12,4 +12,8 @@ export class MyDataService {
   getJsonData(): Observable<Question[]> {
     return this.http.get<Question[]>('assets/quiz-new-1.json');
   }
+
+  getJsonData2(): Observable<Question[]> {
+    return this.http.get<Question[]>('assets/quiz-new-2.json');
+  }
 }
