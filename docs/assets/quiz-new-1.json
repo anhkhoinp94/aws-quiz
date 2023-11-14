@@ -1201,102 +1201,102 @@
   },
   {
     "id": 120,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service provides a feature that can be used to proactively monitor and plan for the service quotas of AWS resources?",
+    "a1": "A. AWS CloudTrail",
+    "a2": "B. AWS Personal Health Dashboard",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. Amazon CloudWatch",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 121,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following is an advantage that users experience when they move on-premises workloads to the AWS Cloud?",
+    "a1": "A. Elimination of expenses for running and maintaining data centers",
+    "a2": "B. Price discounts that are identical to discounts from hardware providers",
+    "a3": "C. Distribution of all operational controls to AWS",
+    "a4": "D. Elimination of operational expenses",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 122,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which design principle is included in the operational excellence pillar of the AWS Well-Architected Framework?",
+    "a1": "A. Create annotated documentation.",
+    "a2": "B. Anticipate failure.",
+    "a3": "C. Ensure performance efficiency.",
+    "a4": "D. Optimize costs.",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 123,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which AWS services offer gateway VPC endpoints that can be used to avoid sending traffic over the internet? (Choose two.)",
+    "a1": "A. Amazon Simple Notification Service (Amazon SNS)",
+    "a2": "B. Amazon Simple Queue Service (Amazon SQS)",
+    "a3": "C. AWS CodeBuild",
+    "a4": "D. Amazon S3",
+    "a5": "E. Amazon DynamoDB",
+    "as": "DE"
   },
   {
     "id": 124,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following is the customer responsible for updating and patching, according to the AWS shared responsibility model?",
+    "a1": "A. Amazon FSx for Windows File Server",
+    "a2": "B. Amazon WorkSpaces virtual Windows desktop",
+    "a3": "C. AWS Directory Service for Microsoft Active Directory",
+    "a4": "D. Amazon RDS for Microsoft SQL Server",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 125,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Who has the responsibility to patch the host operating system of an Amazon EC2 instance, according to the AWS shared responsibility model?",
+    "a1": "A. Both AWS and the customer",
+    "a2": "B. The customer only",
+    "a3": "C. The EC2 hardware manufacturer",
+    "a4": "D. AWS only",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 126,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is using an Amazon RDS DB instance for an application that is deployed in the AWS Cloud. The company needs regular patching of the operating system of the server where the DB instance runs. What is the company's responsibility in this situation, according to the AWS shared responsibility model?",
+    "a1": "A. Open a support case to obtain administrative access to the server so that the company can patch the DB instance operating system.",
+    "a2": "B. Open a support case and request that AWS patch the DB instance operating system.",
+    "a3": "C. Use administrative access to the server, and apply the operating system patches during the regular maintenance window that is defined for the DB instance.",
+    "a4": "D. Establish a regular maintenance window that tells AWS when to patch the DB instance operating system.",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 127,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Why is an AWS Well-Architected review a critical part of the cloud design process?",
+    "a1": "A. A Well-Architected review is mandatory before a workload can run on AWS.",
+    "a2": "B. A Well-Architected review helps identify design gaps and helps evaluate design decisions and related documents.",
+    "a3": "C. A Well-Architected review is an audit mechanism that is a part of requirements for service level agreements.",
+    "a4": "D. A Well-Architected review eliminates the need for ongoing auditing and compliance tests.",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 128,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company implements an Amazon EC2 Auto Scaling policy along with an Application Load Balancer to automatically recover unhealthy applications that run on Amazon EC2 instances. Which pillar of the AWS Well-Architected Framework does this action cover?",
+    "a1": "A. Security",
+    "a2": "B. Performance efficiency",
+    "a3": "C. Operational excellence",
+    "a4": "D. Reliability",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 129,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS Cloud benefit is shown by an architecture's ability to withstand failures with minimal downtime?",
+    "a1": "A. Agility",
+    "a2": "B. Elasticity",
+    "a3": "C. Scalability",
+    "a4": "D. High availability",
     "a5": "",
-    "as": ""
+    "as": "D"
   }
 ]

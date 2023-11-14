@@ -46,6 +46,8 @@ export class AppComponent {
       this.jsonData = data;
       this.myDataService.getJsonData2().subscribe((data: Question[]) => {
         this.jsonData = this.jsonData.concat(data);
+        const shuffledQuestions = this.shuffleArray(this.jsonData.slice());
+        this.jsonData = shuffledQuestions.slice(0, 30);
         let idx = this.getRandomArbitrary(0, this.jsonData.length - 1);
         this.selectQ = this.jsonData[idx];
         if (this.selectQ) {
@@ -127,5 +129,13 @@ export class AppComponent {
         break;
       default:
     }
+  }
+
+  shuffleArray<T>(array: T[]): T[] {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
   }
 }
