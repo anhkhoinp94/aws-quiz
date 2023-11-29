@@ -1298,5 +1298,205 @@
     "a4": "D. High availability",
     "a5": "",
     "as": "D"
+  },
+  {
+    "id": 130,
+    "q": "Under the AWS shared responsibility model, which task is the customer's responsibility when managing AWS Lambda functions?",
+    "a1": "A. Creating versions of Lambda functions",
+    "a2": "B. Maintaining server and operating systems",
+    "a3": "C. Scaling Lambda resources according to demand",
+    "a4": "D. Updating the Lambda runtime environment",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 131,
+    "q": "What does the AWS Concierge Support team provide?",
+    "a1": "A. A technical expert dedicated to the user",
+    "a2": "B. A primary point of contact for AWS Billing and AWS Support",
+    "a3": "C. A partner to help provide scaling guidance for an event launch",
+    "a4": "D. A dedicated AWS staff member who reviews the user's application architecture",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 132,
+    "q": "A company needs to generate reports that can break down cloud costs by product, by company-defined tags, and by hour, day, and month. Which AWS tool should the company use to meet these requirements?",
+    "a1": "A. Reserved Instance utilization and coverage reports",
+    "a2": "B. Savings Plans utilization reports",
+    "a3": "C. AWS Budgets reports",
+    "a4": "D. AWS Cost and Usage Reports",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 133,
+    "q": "A company has a serverless application that includes an Amazon API Gateway API, an AWS Lambda function, and an Amazon DynamoDB database. Which AWS service can the company use to trace user requests as they move through the application's components?",
+    "a1": "A. AWS CloudTrail",
+    "a2": "B. Amazon CloudWatch",
+    "a3": "C. Amazon Inspector",
+    "a4": "D. AWS X-Ray",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 134,
+    "q": "A company needs to set up a petabyte-scale data warehouse in the AWS Cloud. Which AWS service will meet this requirement?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon RDS",
+    "a3": "C. Amazon Redshift",
+    "a4": "D. Amazon ElastiCache",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 135,
+    "q": "Which AWS service is always provided at no charge?",
+    "a1": "A. Amazon S3",
+    "a2": "B. AWS Identity and Access Management (IAM)",
+    "a3": "C. Elastic Load Balancers",
+    "a4": "D. AWS WAF",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 136,
+    "q": "A company needs to design an AWS disaster recovery plan to cover multiple geographic areas. Which action will meet this requirement?",
+    "a1": "A. Configure multiple AWS accounts.",
+    "a2": "B. Configure the architecture across multiple Availability Zones in an AWS Region.",
+    "a3": "C. Configure the architecture across multiple AWS Regions.",
+    "a4": "D. Configure the architecture among many edge locations.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 137,
+    "q": "Which of the following is a benefit of moving from an on-premises data center to the AWS Cloud?",
+    "a1": "A. Compute instances can be launched and terminated as needed to optimize costs.",
+    "a2": "B. Compute costs can be viewed in the AWS Billing and Cost Management console.",
+    "a3": "C. Users retain full administrative access to their compute instances.",
+    "a4": "D. Users can optimize costs by permanently running enough instances at peak load.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 138,
+    "q": "In which ways does the AWS Cloud offer lower total cost of ownership (TCO) of computing resources than on-premises data centers? (Choose two.)",
+    "a1": "A. AWS replaces upfront capital expenditures with pay-as-you-go costs.",
+    "a2": "B. AWS is designed for high availability, which eliminates user downtime.",
+    "a3": "C. AWS eliminates the need for on-premises IT staff.",
+    "a4": "D. AWS uses economies of scale to continually reduce prices.",
+    "a5": "E. AWS offers a single pricing model for Amazon EC2 instances.",
+    "as": "AD"
+  },
+  {
+    "id": 139,
+    "q": "Which AWS service monitors AWS accounts for security threats?",
+    "a1": "A. Amazon GuardDuty",
+    "a2": "B. AWS Secrets Manager",
+    "a3": "C. Amazon Cognito",
+    "a4": "D. AWS Certificate Manager (ACM)",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 140,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 141,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 142,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 143,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 144,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 145,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 146,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 147,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 148,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 149,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
   }
 ]
