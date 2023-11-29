@@ -1401,102 +1401,102 @@
   },
   {
     "id": 140,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which benefit is included with an AWS Enterprise Support plan?",
+    "a1": "A. AWS Partner Network (APN) support at no cost.",
+    "a2": "B. Designated support from an AWS technical account manager (TAM)",
+    "a3": "C. On-site support from AWS engineers",
+    "a4": "D. AWS managed compliance as code with AWS Config",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 141,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which task does AWS perform automatically?",
+    "a1": "A. Encrypt data that is stored in Amazon DynamoDB.",
+    "a2": "B. Patch Amazon EC2 instances.",
+    "a3": "C. Encrypt user network traffic.",
+    "a4": "D. Create TLS certificates for users' websites.",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 142,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service or tool can a company use to visualize, understand, and manage AWS spending and usage over time?",
+    "a1": "A. AWS Trusted Advisor",
+    "a2": "B. Amazon CloudWatch",
+    "a3": "C. Cost Explorer",
+    "a4": "D. AWS Budgets",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 143,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to deploy some of its resources in the AWS Cloud. To meet regulatory requirements, the data must remain local and on premises. There must be low latency between AWS and the company resources. Which AWS service or feature can be used to meet these requirements?",
+    "a1": "A. AWS Local Zones",
+    "a2": "B. Availability Zones",
+    "a3": "C. AWS Outposts",
+    "a4": "D. AWS Wavelength Zones",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 144,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company requires an isolated environment within AWS for security purposes. Which action can be taken to accomplish this?",
+    "a1": "A. Create a separate Availability Zone to host the resources.",
+    "a2": "B. Create a separate VPC to host the resources.",
+    "a3": "C. Create a placement group to host the resources.",
+    "a4": "D. Create an AWS Direct Connect connection between the company and AWS.",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 145,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service is a highly available and scalable DNS web service?",
+    "a1": "A. Amazon VPC",
+    "a2": "B. Amazon CloudFront",
+    "a3": "C. Amazon Route 53",
+    "a4": "D. Amazon Connect",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 146,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following is an AWS best practice for managing an AWS account root user?",
+    "a1": "A. Keep the root user password with the security team.",
+    "a2": "B. Enable multi-factor authentication (MFA) for the root user.",
+    "a3": "C. Create an access key for the root user.",
+    "a4": "D. Keep the root user password consistent for compliance purposes.",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 147,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to improve its security and audit posture by limiting Amazon EC2 inbound access. What should the company use to access instances remotely instead of opening inbound SSH ports and managing SSH keys?",
+    "a1": "A. EC2 key pairs",
+    "a2": "B. AWS Systems Manager Session Manager",
+    "a3": "C. AWS Identity and Access Management (IAM)",
+    "a4": "D. Network ACLs",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 148,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "After selecting an Amazon EC2 Dedicated Host reservation, which pricing option would provide the largest discount?",
+    "a1": "A. No upfront payment",
+    "a2": "B. Hourly on-demand payment",
+    "a3": "C. Partial upfront payment",
+    "a4": "D. All upfront payment",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 149,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company has refined its workload to use specific AWS services to improve efficiency and reduce cost. Which best practice for cost governance does this example show?",
+    "a1": "A. Resource controls",
+    "a2": "B. Cost allocation",
+    "a3": "C. Architecture optimization",
+    "a4": "D. Tagging enforcement",
     "a5": "",
-    "as": ""
+    "as": "C"
   }
 ]
