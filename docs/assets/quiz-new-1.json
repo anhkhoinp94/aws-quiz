@@ -1998,5 +1998,205 @@
     "a4": "D. Amazon API Gateway",
     "a5": "",
     "as": "B"
+  },
+  {
+    "id": 200,
+    "q": "A bank needs to store recordings of calls made to its contact center for 6 years. The recordings must be accessible within 48 hours from the time they are requested. Which AWS service will provide a secure and cost-effective solution for retaining these files?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon S3 Glacier",
+    "a3": "C. Amazon Connect",
+    "a4": "D. Amazon ElastiCache",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 201,
+    "q": "Which AWS service should be used to migrate a company's on-premises MySQL database to Amazon RDS?",
+    "a1": "A. AWS Direct Connect",
+    "a2": "B. AWS Server Migration Service (AWS SMS)",
+    "a3": "C. AWS Database Migration Service (AWS DMS)",
+    "a4": "D. AWS Schema Conversion Tool (AWS SCT)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 202,
+    "q": "Which benefits does a company gain when the company moves from on-premises IT architecture to the AWS Cloud? (Choose two.)",
+    "a1": "A. Reduced or eliminated tasks for hardware troubleshooting, capacity planning, and procurement",
+    "a2": "B. Elimination of the need for trained IT staff",
+    "a3": "C. Automatic security configuration of all applications that are migrated to the cloud",
+    "a4": "D. Elimination of the need for disaster recovery planning",
+    "a5": "E. Faster deployment of new features and applications",
+    "as": "AE"
+  },
+  {
+    "id": 203,
+    "q": "Which of the following is a benefit of decoupling an AWS Cloud architecture?",
+    "a1": "A. Reduced latency",
+    "a2": "B. Ability to upgrade components independently",
+    "a3": "C. Decreased costs",
+    "a4": "D. Fewer components to manage",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 204,
+    "q": "Which task is the responsibility of the customer according to the AWS shared responsibility model?",
+    "a1": "A. Maintain the security of the hardware that runs Amazon EC2 instances.",
+    "a2": "B. Patch the guest operating system of Amazon EC2 instances.",
+    "a3": "C. Protect the security of the AWS global infrastructure.",
+    "a4": "D. Patch Amazon RDS software.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 205,
+    "q": "Which AWS Organizations feature can be used to track charges across multiple accounts and report the combined cost?",
+    "a1": "A. Service control policies (SCPs)",
+    "a2": "B. Cost Explorer",
+    "a3": "C. Consolidated billing",
+    "a4": "D. AWS Identity and Access Management (IAM)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 206,
+    "q": "Which of the following is a cloud benefit that AWS offers to its users?",
+    "a1": "A. The ability to configure AWS data center hypervisors",
+    "a2": "B. The ability to purchase hardware in advance of increased traffic",
+    "a3": "C. The ability to deploy to AWS on a global scale",
+    "a4": "D. Compliance audits for user IT environments",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 207,
+    "q": "An ecommerce company has migrated its IT infrastructure from an on-premises data center to the AWS Cloud. Which cost is the company's direct responsibility?",
+    "a1": "A. Cost of application software licenses",
+    "a2": "B. Cost of the hardware infrastructure on AWS",
+    "a3": "C. Cost of power for the AWS servers",
+    "a4": "D. Cost of physical security for the AWS data center",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 208,
+    "q": "What are the five pillars of the AWS Well-Architected Framework?",
+    "a1": "A. Encryption, documentation, speed, hybrid design, and cost optimization",
+    "a2": "B. Containerization, cost margins, globalization, marketplace, and developer operations",
+    "a3": "C. Network, compute, storage, security, and developer operations",
+    "a4": "D. Operational excellence, reliability, performance efficiency, security, and cost optimization",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 209,
+    "q": "A company accepts enrollment applications on handwritten paper forms. The company uses a manual process to enter the form data into its backend systems. The company wants to automate the process by scanning the forms and capturing the enrollment data from scanned PDF files. Which AWS service should the company use to build this process?",
+    "a1": "A. Amazon Rekognition",
+    "a2": "B. Amazon Textract",
+    "a3": "C. Amazon Transcribe",
+    "a4": "D. Amazon Comprehend",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 210,
+    "q": "Which AWS service should a company use to organize, characterize, and search large numbers of images?",
+    "a1": "A. Amazon Transcribe",
+    "a2": "B. Amazon Rekognition",
+    "a3": "C. Amazon Aurora",
+    "a4": "D. Amazon QuickSight",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 211,
+    "q": "An ecommerce company wants to use Amazon EC2 Auto Scaling to add and remove EC2 instances based on CPU utilization. Which AWS service or feature can initiate an Amazon EC2 Auto Scaling action to achieve this goal?",
+    "a1": "A. Amazon Simple Queue Service (Amazon SQS)",
+    "a2": "B. Amazon Simple Notification Service (Amazon SNS)",
+    "a3": "C. AWS Systems Manager",
+    "a4": "D. Amazon CloudWatch alarm",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 212,
+    "q": "A company wants to host a private version control system for its application code in the AWS Cloud. Which AWS service should the company use to meet this requirement?",
+    "a1": "A. AWS CodePipeline",
+    "a2": "B. AWS CodeStar",
+    "a3": "C. AWS CodeCommit",
+    "a4": "D. AWS CodeDeploy",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 213,
+    "q": "Which AWS service or tool can a company set up to send notifications that a custom spending threshold has been reached or exceeded?",
+    "a1": "A. AWS Budgets",
+    "a2": "B. AWS Trusted Advisor",
+    "a3": "C. AWS CloudTrail",
+    "a4": "D. AWS Support",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 214,
+    "q": "Which AWS service is used to host static websites?",
+    "a1": "A. Amazon S3",
+    "a2": "B. Amazon Elastic Block Store (Amazon EBS)",
+    "a3": "C. AWS CloudFormation",
+    "a4": "D. Amazon Elastic File System (Amazon EFS)",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 215,
+    "q": "Which AWS service contains built-in engines to protect web applications that run in the cloud from SQL injection attacks and cross-site scripting?",
+    "a1": "A. AWS WAF",
+    "a2": "B. AWS Shield Advanced",
+    "a3": "C. Amazon GuardDuty",
+    "a4": "D. Amazon Detective",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 216,
+    "q": "A company owns per-core software licenses. Which Amazon EC2 instance purchasing option must the company use for this license type?",
+    "a1": "A. Reserved Instances",
+    "a2": "B. Dedicated Hosts",
+    "a3": "C. Spot Instances",
+    "a4": "D. Dedicated Instances",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 217,
+    "q": "A company needs to set up user authentication for a new application. Users must be able to sign in directly with a user name and password, or through a third- party provider. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. AWS Single Sign-On",
+    "a2": "B. AWS Signer",
+    "a3": "C. Amazon Cognito",
+    "a4": "D. AWS Directory Service",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 218,
+    "q": "A company's IT team is managing MySQL database server clusters. The IT team has to patch the database and take backup snapshots of the data in the clusters. The company wants to move this workload to AWS so that these tasks will be completed automatically. What should the company do to meet these requirements?",
+    "a1": "A. Deploy MySQL database server clusters on Amazon EC2 instances.",
+    "a2": "B. Use Amazon RDS with a MySQL database.",
+    "a3": "C. Use an AWS CloudFormation template to deploy MySQL database servers on Amazon EC2 instances.",
+    "a4": "D. Migrate all the MySQL database data to Amazon S3.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 219,
+    "q": "What is the primary use case for Amazon GuardDuty?",
+    "a1": "A. Prevention of DDoS attacks",
+    "a2": "B. Protection against SQL injection attacks",
+    "a3": "C. Automatic monitoring for threats to AWS workloads",
+    "a4": "D. Automatic provisioning of AWS resources",
+    "a5": "",
+    "as": "C"
   }
 ]
