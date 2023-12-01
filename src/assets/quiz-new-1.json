@@ -1798,5 +1798,205 @@
     "a4": "D. Amazon Inspector",
     "a5": "",
     "as": "C"
+  },
+  {
+    "id": 180,
+    "q": "Which AWS service can a company use to store and manage Docker images?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon Kinesis Data Streams",
+    "a3": "C. Amazon Elastic Container Registry (Amazon ECR)",
+    "a4": "D. Amazon Elastic File System (Amazon EFS)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 181,
+    "q": "A company needs an automated security assessment report that will identify unintended network access to Amazon EC2 instances. The report also must identify operating system vulnerabilities on those instances. Which AWS service or feature should the company use to meet this requirement?",
+    "a1": "A. AWS Trusted Advisor",
+    "a2": "B. Security groups",
+    "a3": "C. Amazon Macie",
+    "a4": "D. Amazon Inspector",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 182,
+    "q": "A global company is building a simple time-tracking mobile app. The app needs to operate globally and must store collected data in a database. Data must be accessible from the AWS Region that is closest to the user. What should the company do to meet these data storage requirements with the LEAST amount of operational overhead?",
+    "a1": "A. Use Amazon EC2 in multiple Regions to host separate databases",
+    "a2": "B. Use Amazon RDS cross-Region replication",
+    "a3": "C. Use Amazon DynamoDB global tables",
+    "a4": "D. Use AWS Database Migration Service (AWS DMS)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 183,
+    "q": "Which of the following are economic advantages of the AWS Cloud? (Choose two.)",
+    "a1": "A. Increased workforce productivity",
+    "a2": "B. Decreased need to encrypt user data",
+    "a3": "C. Manual compliance audits",
+    "a4": "D. Simplified total cost of ownership (TCO) accounting",
+    "a5": "E. Faster product launches",
+    "as": "AE"
+  },
+  {
+    "id": 184,
+    "q": "Which controls does the customer fully inherit from AWS in the AWS shared responsibility model?",
+    "a1": "A. Patch management controls",
+    "a2": "B. Awareness and training controls",
+    "a3": "C. Physical and environmental controls",
+    "a4": "D. Configuration management controls",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 185,
+    "q": "Which task is a customer's responsibility, according to the AWS shared responsibility model?",
+    "a1": "A. Management of the guest operating systems",
+    "a2": "B. Maintenance of the configuration of infrastructure devices",
+    "a3": "C. Management of the host operating systems and virtualization",
+    "a4": "D. Maintenance of the software that powers Availability Zones",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 186,
+    "q": "A company needs to deliver new website features quickly in an iterative manner to minimize the time to market. Which AWS Cloud concept does this requirement represent?",
+    "a1": "A. Reliability",
+    "a2": "B. Elasticity",
+    "a3": "C. Agility",
+    "a4": "D. High availability",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 187,
+    "q": "A company wants to increase its ability to recover its infrastructure in the case of a natural disaster. Which pillar of the AWS Well-Architected Framework does this ability represent?",
+    "a1": "A. Cost optimization",
+    "a2": "B. Performance efficiency",
+    "a3": "C. Reliability",
+    "a4": "D. Security",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 188,
+    "q": "Which AWS service tracks API calls and user activity?",
+    "a1": "A. AWS Organizations",
+    "a2": "B. AWS Config",
+    "a3": "C. Amazon CloudWatch",
+    "a4": "D. AWS CloudTrail",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 189,
+    "q": "Which AWS service, feature, or tool uses machine learning to continuously monitor cost and usage for unusual cloud spending?",
+    "a1": "A. Amazon Lookout for Metrics",
+    "a2": "B. AWS Budgets",
+    "a3": "C. Amazon CloudWatch",
+    "a4": "D. AWS Cost Anomaly Detection",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 190,
+    "q": "A company deployed an application on an Amazon EC2 instance. The application ran as expected for 6 months in the past week, users have reported latency issues. A system administrator found that the CPU utilization was at 100% during business hours. The company wants a scalable solution to meet demand. Which AWS service or feature should the company use to handle the load for its application during periods of high demand?",
+    "a1": "A. Auto Scaling groups",
+    "a2": "B. AWS Global Accelerator",
+    "a3": "C. Amazon Route 53",
+    "a4": "D. An Elastic IP address",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 191,
+    "q": "A company wants to migrate to AWS and use the same security software it uses on premises. The security software vendor offers its security software as a service on AWS. Where can the company purchase the security solution?",
+    "a1": "A. AWS Partner Solutions Finder",
+    "a2": "B. AWS Support Center",
+    "a3": "C. AWS Management Console",
+    "a4": "D. AWS Marketplace",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 192,
+    "q": "A company is generating large sets of critical data in its on-premises data center. The company needs to securely transfer the data to AWS for processing. These transfers must occur daily over a dedicated connection. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. AWS Backup",
+    "a2": "B. AWS DataSync",
+    "a3": "C. AWS Direct Connect",
+    "a4": "D. AWS Snowball",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 193,
+    "q": "A company wants to run production workloads on AWS. The company wants access to technical support from engineers 24 hours a day, 7 days a week. The company also wants access to the AWS Health API and contextual architectural guidance for business use cases. The company has a strong IT support team and does not need concierge support. Which AWS Support plan will meet these requirements at the LOWEST cost?",
+    "a1": "A. AWS Basic Support",
+    "a2": "B. AWS Developer Support",
+    "a3": "C. AWS Business Support",
+    "a4": "D. AWS Enterprise Support",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 194,
+    "q": "Which of the following is a managed AWS service that is used specifically for extract, transform, and load (ETL) data?",
+    "a1": "A. Amazon Athena",
+    "a2": "B. AWS Glue",
+    "a3": "C. Amazon S3",
+    "a4": "D. AWS Snowball Edge",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 195,
+    "q": "Which of the following actions are controlled with AWS Identity and Access Management (IAM)? (Choose two.)",
+    "a1": "A. Control access to AWS service APIs and to other specific resources",
+    "a2": "B. Provide intelligent threat detection and continuous monitoring.",
+    "a3": "C. Protect the AWS environment using multi-factor authentication (MFA).",
+    "a4": "D. Grant users access to AWS data centers.",
+    "a5": "E. Provide firewall protection for applications from common web attacks.",
+    "as": "AC"
+  },
+  {
+    "id": 196,
+    "q": "Which of the following are shared controls that apply to both AWS and the customer, according to the AWS shared responsibility model? (Choose two.)",
+    "a1": "A. Resource configuration management",
+    "a2": "B. Network data integrity",
+    "a3": "C. Employee awareness and training",
+    "a4": "D. Physical and environmental security",
+    "a5": "E. Replacement and disposal of disk drives",
+    "as": "AC"
+  },
+  {
+    "id": 197,
+    "q": "What information is found on an AWS Identity and Access Management (IAM) credential report? (Choose two.)",
+    "a1": "A. The date and time when an IAM user's password was last used to sign in to the AWS Management Console.",
+    "a2": "B. The type of multi-factor authentication (MFA) device assigned to an IAM user.",
+    "a3": "C. The User-Agent browser identifier for each IAM user currently logged in.",
+    "a4": "D. Whether multi-factor authentication (MFA) has been enabled for an IAM user.",
+    "a5": "E. The number of incorrect login attempts by each IAM user in the previous 30 days.",
+    "as": "AD"
+  },
+  {
+    "id": 198,
+    "q": "What is the LEAST expensive AWS Support plan that contains a full set of AWS Trusted Advisor best practice checks?",
+    "a1": "A. AWS Enterprise Support",
+    "a2": "B. AWS Business Support",
+    "a3": "C. AWS Developer Support",
+    "a4": "D. AWS Basic Support",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 199,
+    "q": "Which AWS service provides domain registration, DNS routing, and service health checks?",
+    "a1": "A. AWS Direct Connect",
+    "a2": "B. Amazon Route 53",
+    "a3": "C. Amazon CloudFront",
+    "a4": "D. Amazon API Gateway",
+    "a5": "",
+    "as": "B"
   }
 ]
