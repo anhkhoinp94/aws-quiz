@@ -1498,5 +1498,305 @@
     "a4": "D. Tagging enforcement",
     "a5": "",
     "as": "C"
+  },
+  {
+    "id": 150,
+    "q": "A company would like to host its MySQL databases on AWS and maintain full control over the operating system, database installation, and configuration. Which AWS service should the company use to host the databases?",
+    "a1": "A. Amazon RDS",
+    "a2": "B. Amazon EC2",
+    "a3": "C. Amazon DynamoDB",
+    "a4": "D. Amazon Aurora",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 151,
+    "q": "How does the AWS global infrastructure offer high availability and fault tolerance to its users?",
+    "a1": "A. The AWS infrastructure is made up of multiple AWS Regions within various Availability Zones located in areas that have low flood risk, and are interconnected with low-latency networks and redundant power supplies.",
+    "a2": "B. The AWS infrastructure consists of subnets containing various Availability Zones with multiple data centers located in the same geographic location.",
+    "a3": "C. AWS allows users to choose AWS Regions and data centers so that users can select the closest data centers in different Regions.",
+    "a4": "D. The AWS infrastructure consists of isolated AWS Regions with independent Availability Zones that are connected with low-latency networking and redundant power supplies.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 152,
+    "q": "A company is using Amazon EC2 Auto Scaling to scale its Amazon EC2 instances. Which benefit of the AWS Cloud does this example illustrate?",
+    "a1": "A. High availability",
+    "a2": "B. Elasticity",
+    "a3": "C. Reliability",
+    "a4": "D. Global reach",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 153,
+    "q": "Which AWS service or feature is used to send both text and email messages from distributed applications?",
+    "a1": "A. Amazon Simple Notification Service (Amazon SNS)",
+    "a2": "B. Amazon Simple Email Service (Amazon SES)",
+    "a3": "C. Amazon CloudWatch alerts",
+    "a4": "D. Amazon Simple Queue Service (Amazon SQS)",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 154,
+    "q": "A user is able to set up a master payer account to view consolidated billing reports through:",
+    "a1": "A. AWS Budgets.",
+    "a2": "B. Amazon Macie.",
+    "a3": "C. Amazon QuickSight.",
+    "a4": "D. AWS Organizations.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 155,
+    "q": "According to the AWS shared responsibility model, which task is the customer's responsibility?",
+    "a1": "A. Maintaining the infrastructure needed to run AWS Lambda",
+    "a2": "B. Updating the operating system of Amazon DynamoDB instances",
+    "a3": "C. Maintaining Amazon S3 infrastructure",
+    "a4": "D. Updating the guest operating system on Amazon EC2 instances",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 156,
+    "q": "A company wants to migrate a small website and database quickly from on-premises infrastructure to the AWS Cloud. The company has limited operational knowledge to perform the migration. Which AWS service supports this use case?",
+    "a1": "A. Amazon EC2",
+    "a2": "B. Amazon Lightsail",
+    "a3": "C. Amazon S3",
+    "a4": "D. AWS Lambda",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 157,
+    "q": "A company is moving multiple applications to a single AWS account. The company wants to monitor the AWS Cloud costs incurred by each application. What can the company do to meet this requirement?",
+    "a1": "A. Set up invoiced billing.",
+    "a2": "B. Use AWS Artifact.",
+    "a3": "C. Set budgets in Cost Explorer.",
+    "a4": "D. Create cost allocation tags.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 158,
+    "q": "Which design principle is achieved by following the reliability pillar of the AWS Well-Architected Framework?",
+    "a1": "A. Vertical scaling",
+    "a2": "B. Manual failure recovery",
+    "a3": "C. Testing recovery procedures",
+    "a4": "D. Changing infrastructure manually",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 159,
+    "q": "A user needs to quickly deploy a non-relational database on AWS. The user does not want to manage the underlying hardware or the database software. Which AWS service can be used to accomplish this?",
+    "a1": "A. Amazon RDS",
+    "a2": "B. Amazon DynamoDB",
+    "a3": "C. Amazon Aurora",
+    "a4": "D. Amazon Redshift",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 160,
+    "q": "Which task is an AWS responsibility when a workload is running in Amazon RDS?",
+    "a1": "A. Creating the database table",
+    "a2": "B. Updating the database schema",
+    "a3": "C. Installing the database engine",
+    "a4": "D. Dropping the database records",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 161,
+    "q": "A development team wants to publish and manage web services that provide REST APIs. Which AWS service will meet this requirement?",
+    "a1": "A. AWS App Mesh",
+    "a2": "B. Amazon API Gateway",
+    "a3": "C. Amazon CloudFront",
+    "a4": "D. AWS Cloud Map",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 162,
+    "q": "A company has a social media platform in which users upload and share photos with other users. The company wants to identify and remove inappropriate photos. The company has no machine learning (ML) scientists and must build this detection capability with no ML expertise. Which AWS service should the company use to build this capability?",
+    "a1": "A. Amazon SageMaker",
+    "a2": "B. Amazon Textract",
+    "a3": "C. Amazon Rekognition",
+    "a4": "D. Amazon Comprehend",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 163,
+    "q": "Which responsibility belongs to AWS when a company hosts its databases on Amazon EC2 instances?",
+    "a1": "A. Database backups",
+    "a2": "B. Database software patches",
+    "a3": "C. Operating system patches",
+    "a4": "D. Operating system installations.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 164,
+    "q": "A company wants to use Amazon S3 to store its legacy data. The data is rarely accessed. However, the data is critical and cannot be recreated. The data needs to be available for retrieval within seconds. Which S3 storage class meets these requirements MOST cost-effectively?",
+    "a1": "A. S3 Standard",
+    "a2": "B. S3 One Zone-Infrequent Access (S3 One Zone-IA)",
+    "a3": "C. S3 Standard-Infrequent Access (S3 Standard-IA)",
+    "a4": "D. S3 Glacier",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 165,
+    "q": "An online retail company wants to migrate its on-premises workload to AWS. The company needs to automatically handle a seasonal workload increase in a cost- effective manner. Which AWS Cloud features will help the company meet this requirement? (Choose two.)",
+    "a1": "A. Cross-Region workload deployment",
+    "a2": "B. Pay-as-you-go pricing",
+    "a3": "C. Built-in AWS CloudTrail audit capabilities",
+    "a4": "D. Auto Scaling policies",
+    "a5": "E. Centralized logging",
+    "as": "BD"
+  },
+  {
+    "id": 166,
+    "q": "Which AWS service helps developers use loose coupling and reliable messaging between microservices?",
+    "a1": "A. Elastic Load Balancing",
+    "a2": "B. Amazon Simple Notification Service (Amazon SNS)",
+    "a3": "C. Amazon CloudFront",
+    "a4": "D. Amazon Simple Queue Service (Amazon SQS)",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 167,
+    "q": "A company needs to build an application that uses AWS services. The application will be delivered to residents in European Counties. The company must abide by regional regulatory requirements. Which AWS service or program should the company use to determine which AWS services meet the regional requirements?",
+    "a1": "A. AWS Audit Manager",
+    "a2": "B. AWS Shield",
+    "a3": "C. AWS Compliance Program",
+    "a4": "D. AWS Artifact",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 168,
+    "q": "A company needs to implement identity management for a fleet of mobile apps that are running in the AWS Cloud. Which AWS service will meet this requirement?",
+    "a1": "A. Amazon Cognito",
+    "a2": "B. AWS Security Hub",
+    "a3": "C. AWS Shield",
+    "a4": "D. AWS WAF",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 169,
+    "q": "A company needs an Amazon EC2 instance for a rightsized database server that must run constantly for 1 year. Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?",
+    "a1": "A. Standard Reserved Instance",
+    "a2": "B. Convertible Reserved Instance",
+    "a3": "C. On-Demand Instance",
+    "a4": "D. Spot Instance",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 170,
+    "q": "A company has multiple applications and is now building a new multi-tier application. The company will host the new application on Amazon EC2 instances. The company wants the network routing and traffic between the various applications to follow the security principle of least privilege. Which AWS service or feature should the company use to enforce this principle?",
+    "a1": "A. Security groups",
+    "a2": "B. AWS Shield",
+    "a3": "C. AWS Global Accelerator",
+    "a4": "D. AWS Direct Connect gateway",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 171,
+    "q": "A company's web application requires AWS credentials and authorizations to use an AWS service. Which IAM entity should the company use as best practice?",
+    "a1": "A. IAM role",
+    "a2": "B. IAM user",
+    "a3": "C. IAM group",
+    "a4": "D. IAM multi-factor authentication (MFA)",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 172,
+    "q": "A company is creating a document that defines the operating system patch routine for all the company's systems. Which AWS resources should the company include in this document? (Choose two.)",
+    "a1": "A. Amazon EC2 instances",
+    "a2": "B. AWS Lambda functions",
+    "a3": "C. AWS Fargate tasks",
+    "a4": "D. Amazon RDS instances",
+    "a5": "E. Amazon Elastic Container Service (Amazon ECS) instances",
+    "as": "AD"
+  },
+  {
+    "id": 173,
+    "q": "Which AWS service or feature gives a company the ability to control incoming traffic and outgoing traffic for Amazon EC2 instances?",
+    "a1": "A. Security groups",
+    "a2": "B. Amazon Route 53",
+    "a3": "C. AWS Direct Connect",
+    "a4": "D. Amazon VPC",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 174,
+    "q": "A company is starting to build its infrastructure in the AWS Cloud. The company wants access to technical support during business hours. The company also wants general architectural guidance as teams build and test new applications. Which AWS Support plan will meet these requirements at the LOWEST cost?",
+    "a1": "A. AWS Basic Support",
+    "a2": "B. AWS Developer Support",
+    "a3": "C. AWS Business Support",
+    "a4": "D. AWS Enterprise Support",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 175,
+    "q": "A company is migrating its public website to AWS. The company wants to host the domain name for the website on AWS. Which AWS service should the company use to meet this requirement?",
+    "a1": "A. AWS Lambda",
+    "a2": "B. Amazon Route 53",
+    "a3": "C. Amazon CloudFront",
+    "a4": "D. AWS Direct Connect",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 176,
+    "q": "A company needs to evaluate its AWS environment and provide best practice recommendations in five categories: cost, performance, service limits, fault tolerance, and security. Which AWS service can the company use to meet these requirements?",
+    "a1": "A. AWS Shield",
+    "a2": "B. AWS WAF",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. AWS Service Catalog",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 177,
+    "q": "Which AWS service provides the capability to view end-to-end performance metrics and troubleshoot distributed applications?",
+    "a1": "A. AWS Cloud9",
+    "a2": "B. AWS CodeStar",
+    "a3": "C. AWS Cloud Map",
+    "a4": "D. AWS X-Ray",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 178,
+    "q": "Which cloud computing benefit does AWS demonstrate with its ability to offer lower variable costs as a result of high purchase volumes?",
+    "a1": "A. Pay-as-you-go pricing",
+    "a2": "B. High availability",
+    "a3": "C. Global reach",
+    "a4": "D. Economies of scale",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 179,
+    "q": "Which AWS service provides threat detection by monitoring for malicious activities and unauthorized actions to protect AWS accounts, workloads, and data that is stored in Amazon S3?",
+    "a1": "A. AWS Shield",
+    "a2": "B. AWS Firewall Manager",
+    "a3": "C. Amazon GuardDuty",
+    "a4": "D. Amazon Inspector",
+    "a5": "",
+    "as": "C"
   }
 ]
