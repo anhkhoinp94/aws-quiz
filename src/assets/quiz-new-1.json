@@ -2198,5 +2198,205 @@
     "a4": "D. Automatic provisioning of AWS resources",
     "a5": "",
     "as": "C"
+  },
+  {
+    "id": 220,
+    "q": "Which statements explain the business value of migration to the AWS Cloud? (Choose two.)",
+    "a1": "A. The migration of enterprise applications to the AWS Cloud makes these applications automatically available on mobile devices.",
+    "a2": "B. AWS availability and security provide the ability to improve service level agreements (SLAs) while reducing risk and unplanned downtime.",
+    "a3": "C. Companies that migrate to the AWS Cloud eliminate the need to plan for high availability and disaster recovery.",
+    "a4": "D. Companies that migrate to the AWS Cloud reduce IT costs related to infrastructure, freeing budget for reinvestment in other areas.",
+    "a5": "E. Applications are modernized because migration to the AWS Cloud requires companies to rearchitect and rewrite all enterprise applications.",
+    "as": "BD"
+  },
+  {
+    "id": 221,
+    "q": "A company needs to identify personally identifiable information (PII), such as credit card numbers, from data that is stored in Amazon S3. Which AWS service should the company use to meet this requirement?",
+    "a1": "A. Amazon Inspector",
+    "a2": "B. AWS Shield",
+    "a3": "C. Amazon GuardDuty",
+    "a4": "D. Amazon Macie",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 222,
+    "q": "Which AWS services or tools are designed to protect a workload from SQL injections, cross-site scripting, and DDoS attacks? (Choose two.)",
+    "a1": "A. VPC endpoint",
+    "a2": "B. Virtual private gateway",
+    "a3": "C. AWS Shield Standard",
+    "a4": "D. AWS Config",
+    "a5": "E. AWS WAF",
+    "as": "CE"
+  },
+  {
+    "id": 223,
+    "q": "A company wants to forecast future costs and usage of AWS resources based on past consumption. Which AWS service or tool will provide this forecast?",
+    "a1": "A. AWS Cost and Usage Report",
+    "a2": "B. Amazon Forecast",
+    "a3": "C. AWS Pricing Calculator",
+    "a4": "D. Cost Explorer",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 224,
+    "q": "Which AWS services use cloud-native storage that provides replication across multiple Availability Zones by default? (Choose two.)",
+    "a1": "A. Amazon ElastiCache",
+    "a2": "B. Amazon RDS for Oracle",
+    "a3": "C. Amazon Neptune",
+    "a4": "D. Amazon DocumentDB (with MongoDB compatibility)",
+    "a5": "E. Amazon Redshift",
+    "as": "CD"
+  },
+  {
+    "id": 225,
+    "q": "Which AWS services are serverless? (Choose two.)",
+    "a1": "A. AWS Fargate",
+    "a2": "B. Amazon Managed Streaming for Apache Kafka",
+    "a3": "C. Amazon EMR",
+    "a4": "D. Amazon S3",
+    "a5": "E. Amazon EC2",
+    "as": "AD"
+  },
+  {
+    "id": 226,
+    "q": "Which task is the responsibility of AWS, according to the AWS shared responsibility model?",
+    "a1": "A. Apply guest operating system patches to Amazon EC2 instances.",
+    "a2": "B. Provide monitoring of human resources information management (HRIM) systems.",
+    "a3": "C. Perform automated backups of Amazon RDS instances.",
+    "a4": "D. Optimize the costs of running AWS services.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 227,
+    "q": "A company needs to deploy a PostgreSQL database into Amazon RDS. The database must be highly available and fault tolerant. Which AWS solution should the company use to meet these requirements?",
+    "a1": "A. Amazon RDS with a single Availability Zone",
+    "a2": "B. Amazon RDS snapshots",
+    "a3": "C. Amazon RDS with multiple Availability Zones",
+    "a4": "D. AWS Database Migration Service (AWS DMS)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 228,
+    "q": "A company wants to add facial identification to its user verification process on an application. Which AWS service should the company use to meet this requirement?",
+    "a1": "A. Amazon Polly",
+    "a2": "B. Amazon Transcribe",
+    "a3": "C. Amazon Lex",
+    "a4": "D. Amazon Rekognition",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 229,
+    "q": "A company wants the ability to quickly upload its applications to the AWS Cloud without needing to provision underlying resources. Which AWS service will meet these requirements?",
+    "a1": "A. AWS CloudFormation",
+    "a2": "B. AWS Elastic Beanstalk",
+    "a3": "C. AWS CodeDeploy",
+    "a4": "D. AWS CodeCommit",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 230,
+    "q": "Which AWS service monitors CPU utilization on Amazon EC2 instances?",
+    "a1": "A. AWS CloudTrail",
+    "a2": "B. Amazon Inspector",
+    "a3": "C. AWS Config",
+    "a4": "D. Amazon CloudWatch",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 231,
+    "q": "A company needs to label its AWS resources so that the company can categorize and track costs. What should the company do to meet this requirement?",
+    "a1": "A. Use cost allocation tags.",
+    "a2": "B. Use AWS Identity and Access Management (IAM).",
+    "a3": "C. Use AWS Organizations.",
+    "a4": "D. Use the AWS Cost Management coverage report.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 232,
+    "q": "A company wants its employees to have access to virtual desktop infrastructure to securely access company-provided desktops through the employees' personal devices. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. Amazon AppStream 2.0",
+    "a2": "B. AWS AppSync",
+    "a3": "C. Amazon FSx for Windows File Server",
+    "a4": "D. Amazon WorkSpaces",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 233,
+    "q": "Which task can a company complete by using AWS Organizations?",
+    "a1": "A. Track application deployment statuses globally.",
+    "a2": "B. Remove unused and underutilized AWS resources across all accounts.",
+    "a3": "C. Activate DDoS protection across all accounts.",
+    "a4": "D. Share pre-purchased Amazon EC2 resources across accounts.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 234,
+    "q": "A user has been granted permission to change their own IAM user password. Which AWS services can the user use to change the password? (Choose two.)",
+    "a1": "A. AWS Command Line Interface (AWS CLI)",
+    "a2": "B. AWS Key Management Service (AWS KMS)",
+    "a3": "C. AWS Management Console",
+    "a4": "D. AWS Resource Access Manager (AWS RAM)",
+    "a5": "E. AWS Secrets Manager",
+    "as": "AC"
+  },
+  {
+    "id": 235,
+    "q": "A company needs to run an application on Amazon EC2 instances. The instances cannot be interrupted at any time. The company needs an instance purchasing option that requires no long-term commitment or upfront payment. Which instance purchasing option will meet these requirements MOST cost-effectively?",
+    "a1": "A. On-Demand Instances",
+    "a2": "B. Spot Instances",
+    "a3": "C. Dedicated Hosts",
+    "a4": "D. Reserved Instances",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 236,
+    "q": "A company uses Amazon EC2 instances to run its web application. The company uses On-Demand Instances and Spot Instances. The company needs to visualize its monthly spending on both types of instances. Which AWS service or feature will meet this requirement?",
+    "a1": "A. AWS Cost Explorer",
+    "a2": "B. AWS Budgets",
+    "a3": "C. Amazon CloudWatch",
+    "a4": "D. AWS Cost Categories",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 237,
+    "q": "Which task can a user complete by using AWS Identity and Access Management (IAM)?",
+    "a1": "A. Validate JSON syntax from an application configuration file.",
+    "a2": "B. Analyze logs from an Amazon API Gateway call.",
+    "a3": "C. Filter traffic to or from an Amazon EC2 instance.",
+    "a4": "D. Grant permissions to applications that run on Amazon EC2 instances.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 238,
+    "q": "A company needs to generate reports for business intelligence and operational analytics on petabytes of semistructured and structured data. These reports are produced from standard SQL queries on data that is in an Amazon S3 data lake. Which AWS service provides the ability to analyze this data?",
+    "a1": "A. Amazon RDS",
+    "a2": "B. Amazon Neptune",
+    "a3": "C. Amazon DynamoDB",
+    "a4": "D. Amazon Redshift",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 239,
+    "q": "A system automatically recovers from failure when a company launches its workload on the AWS Cloud services platform. Which pillar of the AWS Well-Architected Framework does this situation demonstrate?",
+    "a1": "A. Cost optimization",
+    "a2": "B. Operational excellence",
+    "a3": "C. Performance efficiency",
+    "a4": "D. Reliability",
+    "a5": "",
+    "as": "D"
   }
 ]
