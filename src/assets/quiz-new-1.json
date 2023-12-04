@@ -2441,13 +2441,13 @@
   },
   {
     "id": 244,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company has existing software licenses that it wants to bring to AWS, but the licensing model requires licensing physical cores. How can the company meet this requirement in the AWS Cloud?",
+    "a1": "A. Launch an Amazon EC2 instance with default tenancy.",
+    "a2": "B. Launch an Amazon EC2 instance on a Dedicated Host.",
+    "a3": "C. Create an On-Demand Capacity Reservation.",
+    "a4": "D. Purchase Dedicated Reserved Instances.",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 245,
