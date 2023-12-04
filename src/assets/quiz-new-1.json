@@ -2501,63 +2501,63 @@
   },
   {
     "id": 250,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which of the following are AWS compute services? (Choose two.)",
+    "a1": "A. Amazon Lightsail",
+    "a2": "B. AWS Systems Manager",
+    "a3": "C. AWS CloudFormation",
+    "a4": "D. AWS Batch",
+    "a5": "E. Amazon Inspector",
+    "as": "AD"
   },
   {
     "id": 251,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company needs to report on events that involve the specific AWS services that the company uses. Which AWS service or resource can the company use with Amazon CloudWatch to meet this requirement?",
+    "a1": "A. Amazon Inspector",
+    "a2": "B. AWS Personal Health Dashboard",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. AWS CloudTrail logs",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 252,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company with AWS Enterprise Support needs help understanding its monthly AWS bill and wants to implement billing best practices. Which AWS tool or resource is available to accomplish these goals?",
+    "a1": "A. Resource tagging",
+    "a2": "B. AWS Concierge Support team",
+    "a3": "C. AWS Abuse team",
+    "a4": "D. AWS Support",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 253,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following is an AWS key-value database offering consistent single-digit millisecond performance at any scale?",
+    "a1": "A. Amazon RDS",
+    "a2": "B. Amazon Aurora",
+    "a3": "C. Amazon DynamoDB",
+    "a4": "D. Amazon Redshift",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 254,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is developing a new Node.js application. The application must have a scalable NoSQL database to meet increasing demand as the popularity of the application grows. Which AWS service will meet the requirements for the database?",
+    "a1": "A. Amazon Aurora Serverless",
+    "a2": "B. Amazon ElastiCache",
+    "a3": "C. Amazon DynamoDB",
+    "a4": "D. Amazon Redshift",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 255,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to set up an entire development and continuous delivery toolchain for coding, building, testing, and deploying code. Which AWS service will meet these requirements?",
+    "a1": "A. Amazon CodeGuru",
+    "a2": "B. AWS CodeStar",
+    "a3": "C. AWS CodeCommit",
+    "a4": "D. AWS CodeDeploy",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 256,
