@@ -2601,12 +2601,102 @@
   },
   {
     "id": 260,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants a cost-effective option when running its applications in an Amazon EC2 instance for short time periods. The applications can be interrupted. Which EC2 instance type will meet these requirements?",
+    "a1": "A. Spot Instances",
+    "a2": "B. On-Demand Instances",
+    "a3": "C. Reserved Instances",
+    "a4": "D. Dedicated Instances",
     "a5": "",
-    "as": ""
+    "as": "A"
+  },
+  {
+    "id": 261,
+    "q": "A retail company is building a new mobile app. The company is evaluating whether to build the app at an on-premises data center or in the AWS Cloud. Which of the following are benefits of building this app in the AWS Cloud? (Choose two.)",
+    "a1": "A. A large, upfront capital expense and low variable expenses",
+    "a2": "B. Increased speed for trying out new projects",
+    "a3": "C. Complete control over the physical security of the infrastructure",
+    "a4": "D. Flexibility to scale up in minutes as the application becomes popular",
+    "a5": "E. Ability to pick the specific data centers that will host the application servers",
+    "as": "BD"
+  },
+  {
+    "id": 262,
+    "q": "A developer is working on enhancing applications at AWS. The developer needs a service that can securely host GitHub-based code, repositories, and version controls. Which AWS service should the developer use?",
+    "a1": "A. AWS CodeStar",
+    "a2": "B. Amazon CodeGuru",
+    "a3": "C. AWS CodeCommit",
+    "a4": "D. AWS CodePipeline",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 263,
+    "q": "What is an AWS Region?",
+    "a1": "A. A broad set of global, cloud-based products that include compute, storage, and databases",
+    "a2": "B. A physical location around the world where data centers are clustered",
+    "a3": "C. One or more discrete data centers with redundant power, networking, and connectivity",
+    "a4": "D. A service that developers use to build applications that deliver latencies of single-digit milliseconds to users",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 264,
+    "q": "Which AWS benefit enables users to deploy cloud infrastructure that consists of multiple geographic regions connected by a network with low latency, high throughput, and redundancy?",
+    "a1": "A. Economies of scale",
+    "a2": "B. Security",
+    "a3": "C. Elasticity",
+    "a4": "D. Global reach",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 265,
+    "q": "A company is considering a migration from on premises to the AWS Cloud. The company's IT team needs to offload support of the workload. What should the IT team do to accomplish this goal?",
+    "a1": "A. Use AWS Managed Services to provision, run, and support the company infrastructure.",
+    "a2": "B. Build hardware refreshes into the operational calendar to ensure availability.",
+    "a3": "C. Use Amazon Elastic Container Service (Amazon ECS) on Amazon EC2 instances.",
+    "a4": "D. Overprovision compute capacity for seasonal events and traffic spikes to prevent downtime.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 266,
+    "q": "What is a benefit of using AWS serverless computing?",
+    "a1": "A. Application deployment and management are not required.",
+    "a2": "B. Application security will be fully managed by AWS.",
+    "a3": "C. Monitoring and logging are not needed.",
+    "a4": "D. Management of infrastructure is offloaded to AWS.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 267,
+    "q": "A company plans to launch an application that will run in multiple locations within the United States. The company needs to identify the two AWS Regions where the application can operate at the lowest price. Which AWS service or feature should the company use to determine the Regions that offer the lowest price?",
+    "a1": "A. Cost Explorer",
+    "a2": "B. AWS Budgets",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. AWS Pricing Calculator",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 268,
+    "q": "Which approach will enhance a user's security on AWS?",
+    "a1": "A. Use Multi-AZ deployments with Amazon RDS.",
+    "a2": "B. Create a hybrid architecture by using AWS Direct Connect.",
+    "a3": "C. Monitor application-specific information with AWS X-Ray.",
+    "a4": "D. Encrypt data by using AWS Key Management Service (AWS KMS).",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 269,
+    "q": "Which AWS service or tool is associated with an Amazon EC2 instance and acts as a virtual firewall to control inbound and outbound traffic?",
+    "a1": "A. AWS WAF",
+    "a2": "B. AWS Shield",
+    "a3": "C. Network access control list (ACL)",
+    "a4": "D. Security group",
+    "a5": "",
+    "as": "D"
   }
 ]
