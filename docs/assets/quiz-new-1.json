@@ -2451,53 +2451,53 @@
   },
   {
     "id": 245,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company has a complex AWS architecture. The company needs assistance from a dedicated technical professional who can suggest strategies regarding incidents, trade-offs, support, and risk management. Which AWS Support plan will provide the required support?",
+    "a1": "A. AWS Business Support",
+    "a2": "B. AWS Enterprise Support",
+    "a3": "C. AWS Developer Support",
+    "a4": "D. AWS Basic Support",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 246,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following is an advantage that the AWS Cloud provides to users?",
+    "a1": "A. Users eliminate the need to guess about infrastructure capacity requirements.",
+    "a2": "B. Users decrease their variable costs by maintaining sole ownership of IT hardware.",
+    "a3": "C. Users maintain control of underlying IT infrastructure hardware.",
+    "a4": "D. Users maintain control of operating systems for managed services.",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 247,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which AWS services can use AWS WAF to protect against common web exploitations? (Choose two.)",
+    "a1": "A. Amazon Route 53",
+    "a2": "B. Amazon CloudFront",
+    "a3": "C. AWS Transfer Family",
+    "a4": "D. AWS Site-to-Site VPN",
+    "a5": "E. Amazon API Gateway",
+    "as": "BE"
   },
   {
     "id": 248,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which controls are shared under the AWS shared responsibility model? (Choose two.)",
+    "a1": "A. Awareness and training",
+    "a2": "B. Patching of Amazon RDS",
+    "a3": "C. Configuration management",
+    "a4": "D. Physical and environmental controls",
+    "a5": "E. Service and communications protection or security",
+    "as": "AC"
   },
   {
     "id": 249,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company manages global applications that require static IP addresses. Which AWS service would enable the company to improve the availability and performance of its applications?",
+    "a1": "A. Amazon CloudFront",
+    "a2": "B. AWS Global Accelerator",
+    "a3": "C. Amazon S3 Transfer Acceleration",
+    "a4": "D. Amazon API Gateway",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 250,
