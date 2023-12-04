@@ -2561,36 +2561,46 @@
   },
   {
     "id": 256,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which service enables customers to audit API calls in their AWS accounts?",
+    "a1": "A. AWS CloudTrail",
+    "a2": "B. AWS Trusted Advisor",
+    "a3": "C. Amazon Inspector",
+    "a4": "D. AWS X-Ray",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 257,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is moving its office and must establish an encrypted connection to AWS. Which AWS service will help meet this requirement?",
+    "a1": "A. AWS VPN",
+    "a2": "B. Amazon Route 53",
+    "a3": "C. Amazon API Gateway",
+    "a4": "D. Amazon Connect",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 258,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company needs steady and predictable performance from its Amazon EC2 instances at the lowest possible cost. The company also needs the ability to scale resources to ensure that it has the right resources available at the right time. Which AWS service or resource will meet these requirements?",
+    "a1": "A. Amazon CloudWatch",
+    "a2": "B. Application Load Balancer",
+    "a3": "C. AWS Batch",
+    "a4": "D. Amazon EC2 Auto Scaling",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 259,
+    "q": "Which action will provide documentation to help a company evaluate whether its use of the AWS Cloud is compliant with local regulatory standards?",
+    "a1": "A. Running Amazon GuardDuty",
+    "a2": "B. Using AWS Artifact",
+    "a3": "C. Creating an AWS Support ticket",
+    "a4": "D. Evaluating AWS CloudTrail logs",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 260,
     "q": "",
     "a1": "",
     "a2": "",
