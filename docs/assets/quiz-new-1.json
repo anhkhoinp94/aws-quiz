@@ -2421,23 +2421,23 @@
   },
   {
     "id": 242,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "What is a benefit of moving to the AWS Cloud in terms of improving time to market?",
+    "a1": "A. Decreased deployment speed",
+    "a2": "B. Increased application security",
+    "a3": "C. Increased business agility",
+    "a4": "D. Increased backup capabilities",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 243,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which of the following are characteristics of a serverless application that runs in the AWS Cloud? (Choose two.)",
+    "a1": "A. Users must manually configure Amazon EC2 instances.",
+    "a2": "B. Users have a choice of operating systems.",
+    "a3": "C. The application has built-in fault tolerance.",
+    "a4": "D. Users can run Amazon EC2 Spot Instances.",
+    "a5": "E. The application can scale based on demand.",
+    "as": "CE"
   },
   {
     "id": 244,
