@@ -2998,5 +2998,215 @@
     "a4": "D. Amazon Route 53",
     "a5": "E. AWS Organizations",
     "as": "BC"
+  },
+  {
+    "id": 300,
+    "q": "What should a user do if the user loses an IAM secret access key?",
+    "a1": "A. Retrieve the secret access key by using the IAM console.",
+    "a2": "B. Create a new user with a new access key and a new secret access key.",
+    "a3": "C. Rotate the secret access key.",
+    "a4": "D. Request a new secret access key from AWS Support.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 301,
+    "q": "A company wants to deploy a Docker application to the AWS Cloud. However, the company does not want to manage the underlying servers. Which combination of AWS services should the company use to meet these requirements? (Choose two.)",
+    "a1": "A. Amazon EC2",
+    "a2": "B. Amazon EC2 Auto Scaling",
+    "a3": "C. AWS Elastic Beanstalk",
+    "a4": "D. Amazon CloudFront",
+    "a5": "E. AWS Fargate",
+    "as": "CE"
+  },
+  {
+    "id": 302,
+    "q": "A company needs to transfer 60 TB of data to the AWS Cloud in a secure manner. Which of the following should the company use to meet these requirements?",
+    "a1": "A. AWS Snowball Edge device",
+    "a2": "B. Amazon Elastic Block Store (Amazon EBS)",
+    "a3": "C. Amazon Elastic File System (Amazon EFS)",
+    "a4": "D. Amazon S3",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 303,
+    "q": "A gaming company wants to move its on-premises environment to AWS. The company needs its resources to be highly available. Which benefit does the AWS Cloud provide to meet this requirement?",
+    "a1": "A. Reliability",
+    "a2": "B. The AWS shared responsibility model",
+    "a3": "C. Security",
+    "a4": "D. Agility",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 304,
+    "q": "An ecommerce company has been monitoring usage of its online store that is hosted on a fleet of Amazon EC2 instances. Surges in traffic occur every weekend day at the same time and last for approximately 4 hours. Which AWS service should the company use to ensure that there are enough instances to meet the surges in demand?",
+    "a1": "A. AWS Lambda",
+    "a2": "B. Amazon EventBridge (Amazon CloudWatch Events)",
+    "a3": "C. Elastic Load Balancing (ELB)",
+    "a4": "D. Amazon EC2 Auto Scaling",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 305,
+    "q": "A company needs stateless network filtering for its VPC. Which AWS service, tool, or feature will meet this requirement?",
+    "a1": "A. AWS PrivateLink",
+    "a2": "B. Security group",
+    "a3": "C. Network access control list (ACL)",
+    "a4": "D. AWS WAF",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 306,
+    "q": "A company needs to audit its AWS resources. The company must document any changes that have been made to the resources. Which AWS service will meet these requirements?",
+    "a1": "A. AWS Artifact",
+    "a2": "B. AWS Config",
+    "a3": "C. Amazon Inspector",
+    "a4": "D. Amazon CloudWatch",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 307,
+    "q": "A company needs fully managed, highly reliable, and scalable file storage that is accessible over the Server Message Block (SMB) protocol. Which AWS service will meet these requirements?",
+    "a1": "A. Amazon S3",
+    "a2": "B. Amazon Elastic File System (Amazon EFS)",
+    "a3": "C. Amazon FSx for Windows File Server",
+    "a4": "D. Amazon Elastic Block Store (Amazon EBS)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 308,
+    "q": "Which AWS service should a company use to create a NoSQL database?",
+    "a1": "A. Amazon Aurora",
+    "a2": "B. Amazon DynamoDB",
+    "a3": "C. Amazon Redshift",
+    "a4": "D. Amazon Neptune",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 309,
+    "q": "A company is migrating to the AWS Cloud. The company requires consultative review and guidance for its applications during the migration. After the migration is complete, the company requires a response within 30 minutes if business-critical systems go down. Which AWS Support plans meet these requirements? (Choose two.)",
+    "a1": "A. AWS Enterprise Support",
+    "a2": "B. AWS Enterprise On-Ramp Support",
+    "a3": "C. AWS Developer Support",
+    "a4": "D. AWS Basic Support",
+    "a5": "E. AWS Business Support",
+    "as": "AB"
+  },
+  {
+    "id": 310,
+    "q": "A company needs an AWS Support plan that provides programmatic case management through the AWS Support API. Which support plan will meet this requirement MOST cost-effectively?",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 311,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 312,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 313,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 314,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 315,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 316,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 317,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 318,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 319,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 320,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
   }
 ]
