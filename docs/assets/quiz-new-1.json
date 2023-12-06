@@ -3351,53 +3351,53 @@
   },
   {
     "id": 335,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service provides alerts when an AWS event may impact a company's AWS resources?",
+    "a1": "A. AWS Personal Health Dashboard",
+    "a2": "B. AWS Service Health Dashboard",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. AWS Infrastructure Event Management",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 336,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company manages an on-premises MySQL database on a Windows server. The company wants to migrate the database to AWS and needs a solution that will reduce the administrative overhead of the database. Which AWS service will meet this requirement?",
+    "a1": "A. Amazon Redshift",
+    "a2": "B. Amazon ElastiCache",
+    "a3": "C. Amazon RDS",
+    "a4": "D. Amazon Elastic File System (Amazon EFS)",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 337,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service can be used to provide an on-demand, cloud-based contact center?",
+    "a1": "A. AWS Direct Connect",
+    "a2": "B. Amazon Connect",
+    "a3": "C. AWS Support Center",
+    "a4": "D. AWS Managed Services",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 338,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which benefit of cloud computing gives a company the ability to deploy applications to users all over the world through a network of AWS Regions, Availability Zones, and edge locations?",
+    "a1": "A. Economy of scale",
+    "a2": "B. Global reach",
+    "a3": "C. Agility",
+    "a4": "D. High availability",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 339,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service is a relational database compatible with MySQL and PostgreSQL?",
+    "a1": "A. Amazon Redshift",
+    "a2": "B. Amazon DynamoDB",
+    "a3": "C. Amazon Aurora",
+    "a4": "D. Amazon Neptune",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 340,
