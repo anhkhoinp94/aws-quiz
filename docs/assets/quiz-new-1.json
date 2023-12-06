@@ -3401,102 +3401,102 @@
   },
   {
     "id": 340,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company uses a database that has a simple sign-up page to create users, and a basic login form to authenticate users so they can access the database. The company wants to give users the ability to store personal information, but user access must be controlled in a more secure and reliable way. Which AWS service or feature will meet these requirements?",
+    "a1": "A. Security groups",
+    "a2": "B. Amazon GuardDuty",
+    "a3": "C. AWS Secrets Manager",
+    "a4": "D. Amazon Cognito",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 341,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is running multiple workloads in the AWS Cloud and recently began investigating ways to reduce costs. The company is already running fault-tolerant workloads on Amazon EC2 that perform periodic checkpoints in case of an outage. Which AWS service or pricing model can provide the GREATEST cost savings?",
+    "a1": "A. Capacity Reservations",
+    "a2": "B. Amazon Lightsail",
+    "a3": "C. Spot Instances",
+    "a4": "D. Dedicated Hosts",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 342,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is undergoing a security audit. The audit includes security validation and compliance validation of the AWS infrastructure and services that the company uses. The auditor needs to locate compliance-related information and must download AWS security and compliance documents. These documents include the System and Organization Control (SOC) reports. Which AWS service or group can provide these documents?",
+    "a1": "A. AWS Abuse team",
+    "a2": "B. AWS Artifact",
+    "a3": "C. AWS Support",
+    "a4": "D. AWS Config",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 343,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which of the following are design principles of the reliability pillar of the AWS Well-Architected Framework? (Choose two.)",
+    "a1": "A. Perform operations as code.",
+    "a2": "B. Stop guessing capacity.",
+    "a3": "C. Adopt serverless architecture whenever possible.",
+    "a4": "D. Use build and deployment management systems.",
+    "a5": "E. Make changes to infrastructure by using automation.",
+    "as": "BE"
   },
   {
     "id": 344,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company needs to perform data processing once a week that typically takes about 5 hours to complete. Which AWS service should the company use for this workload?",
+    "a1": "A. AWS Lambda",
+    "a2": "B. Amazon EC2",
+    "a3": "C. AWS CodeDeploy",
+    "a4": "D. AWS Wavelength",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 345,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is developing a new web application. The company must give users the ability to log in to the application through social identity providers. Which AWS service will meet these requirements?",
+    "a1": "A. AWS Directory Service",
+    "a2": "B. Amazon Cognito",
+    "a3": "C. AWS Identity and Access Management (IAM)",
+    "a4": "D. AWS Single Sign-On",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 346,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "According to the AWS shared responsibility model, which activities are the customer's responsibility for security in the AWS Cloud? (Choose two.)",
+    "a1": "A. Hardware maintenance",
+    "a2": "B. Amazon EC2 operating system patching",
+    "a3": "C. API access control for AWS resources",
+    "a4": "D. Configuration management of infrastructure devices",
+    "a5": "E. Maintenance of an Availability Zone",
+    "as": "BC"
   },
   {
     "id": 347,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which service is an AWS in-memory data store service?",
+    "a1": "A. Amazon Aurora",
+    "a2": "B. Amazon RDS",
+    "a3": "C. Amazon DynamoDB",
+    "a4": "D. Amazon ElastiCache",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 348,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which duty is a responsibility of AWS under the AWS shared responsibility model?",
+    "a1": "A. Identity and access management",
+    "a2": "B. Server-side encryption (SSE)",
+    "a3": "C. Firewall configuration",
+    "a4": "D. Maintaining physical hardware",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 349,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which guidelines are key AWS architectural design principles? (Choose two.)",
+    "a1": "A. Design for fixed resources.",
+    "a2": "B. Build scalable architectures.",
+    "a3": "C. Use tightly coupled components.",
+    "a4": "D. Use managed services when possible.",
+    "a5": "E. Design for human interaction.",
+    "as": "BD"
   }
 ]
