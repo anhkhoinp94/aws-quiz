@@ -3301,53 +3301,53 @@
   },
   {
     "id": 330,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which pillar of the AWS Well-Architected Framework includes the continual improvement of processes and procedures as a priority?",
+    "a1": "A. Cost optimization",
+    "a2": "B. Reliability",
+    "a3": "C. Performance efficiency",
+    "a4": "D. Operational excellence",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 331,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following consists of one or more isolated data centers in the same regional area that are interconnected through low-latency networks?",
+    "a1": "A. Availability Zone",
+    "a2": "B. Edge location",
+    "a3": "C. AWS Region",
+    "a4": "D. Private networking",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 332,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service or resource helps on-premises applications connect to AWS Cloud-based storage and caches the data locally for low-latency access?",
+    "a1": "A. AWS Direct Connect",
+    "a2": "B. AWS Storage Gateway",
+    "a3": "C. Amazon S3",
+    "a4": "D. AWS Snowball Edge",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 333,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service or feature enables users to get one bill and easily track charges for multiple AWS accounts?",
+    "a1": "A. AWS Organizations",
+    "a2": "B. Cost Explorer",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. AWS Management Console",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 334,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company has a global website with static content. Which AWS service will deliver the static content with low latency?",
+    "a1": "A. AWS Lambda",
+    "a2": "B. Amazon CloudFront",
+    "a3": "C. Amazon EC2 Auto Scaling",
+    "a4": "D. AWS Compute Optimizer",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 335,
