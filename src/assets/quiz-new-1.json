@@ -3498,5 +3498,505 @@
     "a4": "D. Use managed services when possible.",
     "a5": "E. Design for human interaction.",
     "as": "BD"
+  },
+  {
+    "id": 350,
+    "q": "A company is planning to build a workload in the AWS Cloud. The company needs to estimate the costs of the network, compute, storage, and database for the workload. Which AWS service or tool should the company use to generate this estimate?",
+    "a1": "A. AWS Budgets",
+    "a2": "B. AWS Organizations",
+    "a3": "C. Cost Explorer",
+    "a4": "D. AWS Pricing Calculator",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 351,
+    "q": "A user is a new AWS account owner who has no special access requirements. What should this user do with the AWS account root user access keys?",
+    "a1": "A. Share the keys with all relevant internal users so that those users can programmatically access AWS services.",
+    "a2": "B. Post the keys on GitHub to provide development teams with access to AWS services.",
+    "a3": "C. Use the keys for access, but do not share the keys with anyone.",
+    "a4": "D. Delete the keys and create IAM users.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 352,
+    "q": "Which AWS service allows for file sharing between multiple Amazon EC2 instances?",
+    "a1": "A. AWS Direct Connect",
+    "a2": "B. AWS Snowball Edge",
+    "a3": "C. AWS Backup",
+    "a4": "D. Amazon Elastic File System (Amazon EFS)",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 353,
+    "q": "A company is running and managing its own Docker environment on Amazon EC2 instances. The company wants an alternative to help manage cluster size, scheduling, and environment maintenance. Which AWS service meets these requirements?",
+    "a1": "A. AWS Lambda",
+    "a2": "B. Amazon RDS",
+    "a3": "C. AWS Fargate",
+    "a4": "D. Amazon Athena",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 354,
+    "q": "Which databases are available on Amazon RDS? (Choose two.)",
+    "a1": "A. Sybase",
+    "a2": "B. Microsoft SQL Server",
+    "a3": "C. IBM Db2",
+    "a4": "D. MongoDB",
+    "a5": "E. PostgreSQL",
+    "as": "BE"
+  },
+  {
+    "id": 355,
+    "q": "Which Amazon S3 feature or storage class uses the AWS backbone network and edge locations to reduce latencies from the end user to Amazon S3?",
+    "a1": "A. S3 Cross-Region Replication",
+    "a2": "B. S3 Transfer Acceleration",
+    "a3": "C. S3 Event Notifications",
+    "a4": "D. S3 Standard-Infrequent Access (S3 Standard-IA)",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 356,
+    "q": "Which design principles of the AWS Well-Architected Framework help increase reliability? (Choose two.)",
+    "a1": "A. Automatically recover from failure.",
+    "a2": "B. Enable traceability.",
+    "a3": "C. Scale horizontally to increase workload availability.",
+    "a4": "D. Automate security best practices.",
+    "a5": "E. Keep people away from data.",
+    "as": "AC"
+  },
+  {
+    "id": 357,
+    "q": "Management at a large company wants to avoid long-term contracts and is interested in AWS to move from fixed costs to variable costs. What is the value proposition of AWS for this company?",
+    "a1": "A. Economy of scale",
+    "a2": "B. Pay-as-you-go pricing",
+    "a3": "C. Volume discounts",
+    "a4": "D. Cost optimization",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 358,
+    "q": "Which AWS service should a company use to decouple large monolithic applications into smaller microservices components?",
+    "a1": "A. AWS Direct Connect",
+    "a2": "B. Amazon Lightsail",
+    "a3": "C. Amazon Simple Queue Service (Amazon SQS)",
+    "a4": "D. Amazon CloudWatch",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 359,
+    "q": "A company's system administrator discovers that someone logged in to the company's AWS account during the weekend and terminated an Amazon EC2 instance. Which AWS service should the system administrator use to identify who made this change?",
+    "a1": "A. Amazon Inspector",
+    "a2": "B. Amazon Pinpoint",
+    "a3": "C. AWS CloudTrail",
+    "a4": "D. AWS Trusted Advisor",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 360,
+    "q": "Which AWS service or tool lists all the users in an account and reports on the status of account details, including passwords, access keys, and multi-factor authentication (MFA) devices?",
+    "a1": "A. AWS Shield",
+    "a2": "B. AWS Trusted Advisor",
+    "a3": "C. Amazon Inspector",
+    "a4": "D. IAM credential report",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 361,
+    "q": "Which AWS service offers threat detection and continuously monitors for malicious activity and unauthorized behavior in AWS accounts?",
+    "a1": "A. Amazon Macie",
+    "a2": "B. AWS Config",
+    "a3": "C. Amazon GuardDuty",
+    "a4": "D. Amazon Inspector",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 362,
+    "q": "A company needs to use Amazon S3 to store audio files that are each 5 megabytes in size. The company will rarely access the files, but the company must be able to retrieve the files immediately. Which S3 storage class will meet these requirements MOST cost-effectively?",
+    "a1": "A. S3 Standard",
+    "a2": "B. S3 Standard-Infrequent Access (S3 Standard-IA)",
+    "a3": "C. S3 Glacier Flexible Retrieval",
+    "a4": "D. S3 Glacier Deep Archive",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 363,
+    "q": "A user wants to control AWS services by using the AWS CLI. What are the MINIMUM security credentials that the user needs to achieve this goal?",
+    "a1": "A. AWS account user name and password",
+    "a2": "B. Multi-factor authentication (MFA)",
+    "a3": "C. Access keys",
+    "a4": "D. Key pairs",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 364,
+    "q": "A company has stopped all of its Amazon EC2 instances but monthly billing charges continue to occur. What could be causing this? (Choose two.)",
+    "a1": "A. Amazon Elastic Block Store (Amazon EBS) storage charges",
+    "a2": "B. Operating system charges",
+    "a3": "C. Hardware charges",
+    "a4": "D. Elastic IP charges",
+    "a5": "E. Input/output (I/O) charges",
+    "as": "AD"
+  },
+  {
+    "id": 365,
+    "q": "A company has set up its IT infrastructure in the AWS Cloud. The company wants to receive detailed reports that break down AWS costs by the hour. The reports must be placed in an Amazon S3 bucket. Which AWS tool will meet these requirements?",
+    "a1": "A. AWS Cost and Usage Reports",
+    "a2": "B. AWS Pricing Calculator",
+    "a3": "C. Cost Explorer",
+    "a4": "D. AWS Budgets",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 366,
+    "q": "Which AWS service or feature enables users to block the incoming or outgoing traffic associated with specific IP addresses flowing through a VPC?",
+    "a1": "A. Network ACLs",
+    "a2": "B. Security groups",
+    "a3": "C. AWS Identity and Access Management (IAM)",
+    "a4": "D. AWS WAF",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 367,
+    "q": "What is the customer ALWAYS responsible for managing, according to the AWS shared responsibility model?",
+    "a1": "A. Software licenses",
+    "a2": "B. Networking",
+    "a3": "C. Customer data",
+    "a4": "D. Encryption keys",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 368,
+    "q": "Which Reserved Instance (RI) provides the HIGHEST average cost savings compared to an On-Demand Instance?",
+    "a1": "A. 1-year, No Upfront, Standard RI",
+    "a2": "B. 1-year, All Upfront, Convertible RI",
+    "a3": "C. 3-year, All Upfront, Standard RI",
+    "a4": "D. 3-year, No Upfront, Convertible RI",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 369,
+    "q": "Elasticity in the AWS Cloud refers to which of the following? (Choose two.)",
+    "a1": "A. How quickly an Amazon EC2 instance can be restarted",
+    "a2": "B. The ability to rightsize resources as demand shifts",
+    "a3": "C. The maximum amount of RAM an Amazon EC2 instance can use",
+    "a4": "D. The pay-as-you-go billing model",
+    "a5": "E. How easily resources can be procured when they are needed",
+    "as": "BE"
+  },
+  {
+    "id": 370,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 371,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 372,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 373,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 374,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 375,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 376,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 377,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 378,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 379,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 380,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 381,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 382,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 383,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 384,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 385,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 386,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 387,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 388,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 389,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 390,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 391,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 392,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 393,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 394,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 395,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 396,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 397,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 398,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
+  },
+  {
+    "id": 399,
+    "q": "",
+    "a1": "",
+    "a2": "",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": ""
   }
 ]
