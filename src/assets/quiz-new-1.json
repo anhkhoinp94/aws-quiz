@@ -3901,102 +3901,102 @@
   },
   {
     "id": 390,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A large retail company wants to use an AWS service to process clickstream data from the company's ecommerce website. The company wants to collect and analyze the streaming data in real time. Which AWS service meets these requirements?",
+    "a1": "A. Amazon Kinesis",
+    "a2": "B. Amazon Athena",
+    "a3": "C. Amazon CloudFront",
+    "a4": "D. AWS Data Exchange",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 391,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which pillar of the AWS Well-Architected Framework focuses on the return on investment of moving into the AWS Cloud?",
+    "a1": "A. Sustainability",
+    "a2": "B. Cost optimization",
+    "a3": "C. Operational excellence",
+    "a4": "D. Reliability",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 392,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "A company is developing an application that the company will host on Amazon EC2 instances. The application must be available 24 hours a day, 7 days a week. The company needs a scalable, highly available cloud architecture to support the application. Which guidelines should the company apply in its design to meet these requirements? (Choose two.)",
+    "a1": "A. Use EC2 Spot Instances",
+    "a2": "B. Use Multi-AZ deployments.",
+    "a3": "C. Use Auto Scaling groups",
+    "a4": "D. Use AWS Backup.",
+    "a5": "E. Use EC2 Reserved Instances.",
+    "as": "BC"
   },
   {
     "id": 393,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service helps users audit API activity across their AWS account?",
+    "a1": "A. AWS CloudTrail",
+    "a2": "B. Amazon Inspector",
+    "a3": "C. AWS WAF",
+    "a4": "D. AWS Config",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 394,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which AWS service should a company use to create a serverless workflow?",
+    "a1": "A. Amazon Connect",
+    "a2": "B. AWS Lambda",
+    "a3": "C. AWS Step Functions",
+    "a4": "D. Amazon Elastic Block Store (Amazon EBS)",
+    "a5": "E. AWS CodeBuild",
+    "as": "C"
   },
   {
     "id": 395,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to build a data analytics application that uses Amazon Redshift. The company needs a cost estimate for its future Amazon Redshift usage. Which AWS tool will provide a high-level cost estimation?",
+    "a1": "A. AWS Budgets",
+    "a2": "B. AWS Pricing Calculator",
+    "a3": "C. AWS Cost Explorer",
+    "a4": "D. Saving Plans",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 396,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "A company is using Amazon EC2 instances. Which tasks are the company's responsibility, according to the AWS shared responsibility model? (Choose two.)",
+    "a1": "A. Choose the initial root password of new Linux instances.",
+    "a2": "B. Identify which users can access the EC2 instances, and manage their permissions in the operating system.",
+    "a3": "C. Apply the updates of the hypervisor where the EC2 instances are running.",
+    "a4": "D. Choose between a Wi-Fi connection and an Ethernet connection for the global internet access.",
+    "a5": "E. Identify and manage the users who are allowed to create or delete EC2 instances.",
+    "as": "BE"
   },
   {
     "id": 397,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service gives users the ability to run AWS services on premises?",
+    "a1": "A. Amazon CloudFront",
+    "a2": "B. AWS Outposts",
+    "a3": "C. AWS Global Accelerator",
+    "a4": "D. Amazon VPC",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 398,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which guideline is a well-architected design principle tor building cloud applications?",
+    "a1": "A. Keep static data closer to compute resources.",
+    "a2": "B. Provision resources for peak capacity.",
+    "a3": "C. Design for automated recovery from failure.",
+    "a4": "D. Use tightly coupled components.",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 399,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
-    "a5": "",
-    "as": ""
+    "q": "Which actions are examples of a company's effort to rightsize its AWS resources to control cloud costs? (Choose two.)",
+    "a1": "A. Switch from Amazon RDS to Amazon DynamoDB to accommodate NoSQL datasets.",
+    "a2": "B. Base the selection of Amazon EC2 instance types on past utilization patterns.",
+    "a3": "C. Use Amazon S3 Lifecycle policies to move objects that users access infrequently to lower-cost storage tiers.",
+    "a4": "D. Use Multi-AZ deployments for Amazon RDS.",
+    "a5": "E. Replace existing Amazon EC2 instances with AWS Elastic Beanstalk.",
+    "as": "BC"
   }
 ]
