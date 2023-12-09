@@ -3801,103 +3801,103 @@
   },
   {
     "id": 380,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is using AWS Identity and Access Management (IAM). Who can manage the access keys of the AWS account root user?",
+    "a1": "A. IAM users in the same account that have been granted permission",
+    "a2": "B. IAM roles in any account that have been granted permission",
+    "a3": "C. IAM users and roles that have been granted permission",
+    "a4": "D. The AWS account owner",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 381,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company needs a managed NFS file system that the company can use with its AWS compute resources. Which AWS service or feature will meet these requirements?",
+    "a1": "A. Amazon Elastic Block Store (Amazon EBS)",
+    "a2": "B. AWS Storage Gateway Tape Gateway",
+    "a3": "C. Amazon S3 Glacier Flexible Retrieval",
+    "a4": "D. Amazon Elastic File System (Amazon EFS)",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 382,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "What is the security best practice concerning sensitive data stored in Amazon S3?",
+    "a1": "A. Enable cross-Region replication on the S3 bucket.",
+    "a2": "B. Enable S3 server-side encryption on the S3 bucket.",
+    "a3": "C. Configure AWS WAF to prevent unauthorized access to the S3 bucket.",
+    "a4": "D. Configure Amazon GuardDuty to prevent unauthorized access to the S3 bucket.",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 383,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "An application requires a database that offers consistent performance and latency that can be measured in single-digit milliseconds. Which AWS service meets these requirements?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon RDS",
+    "a3": "C. Amazon Redshift",
+    "a4": "D. Amazon EMR",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 384,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company needs to block SQL injection attacks. Which AWS service or feature provides this functionality?",
+    "a1": "A. AWS WAF",
+    "a2": "B. Network ACLs",
+    "a3": "C. Security groups",
+    "a4": "D. AWS Trusted Advisor",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 385,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants its Amazon EC2 instances to operate in a highly available environment, even if there is a natural disaster in a particular geographic area. Which solution achieves this goal?",
+    "a1": "A. Use EC2 instances in a single Availability Zone",
+    "a2": "B. Use EC2 instances in multiple AWS Regions",
+    "a3": "C. Use EC2 instances in multiple edge locations.",
+    "a4": "D. Use Amazon CloudFront with the EC2 instances configured as the source.",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 386,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Treating infrastructure as code in the AWS Cloud allows users to:",
+    "a1": "A. automate migration of on-premises hardware to AWS data centers.",
+    "a2": "B. let a third party automate an audit of the AWS infrastructure.",
+    "a3": "C. turn over application code to AWS so it can run on the AWS infrastructure.",
+    "a4": "D. automate the infrastructure provisioning process.",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 387,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company needs to apply security rules to specific Amazon EC2 instances. Which AWS service or feature provides this functionality?",
+    "a1": "A. AWS WAF",
+    "a2": "B. Network ACLs",
+    "a3": "C. Amazon VPC",
+    "a4": "D. Security groups",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 388,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to run Amazon EC2 instances in locations that are near the company’s global users. Which aspect of the AWS environment will support this requirement?",
+    "a1": "A. Availability Zone",
+    "a2": "B. Edge locations",
+    "a3": "C. AWS Regions",
+    "a4": "D. Regional edge caches",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 389,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company's project team needs to simultaneously mount a file system on multiple Amazon EC2 Linux instances. The file system also will be shared across multiple Availability Zones.",
+    "a1": "A. Amazon Elastic File System (Amazon EFS)",
+    "a2": "B. Amazon S3",
+    "a3": "C. Amazon Elastic Block Store (Amazon EBS)",
+    "a4": "D. Amazon FSx for Windows File Server",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 390,
