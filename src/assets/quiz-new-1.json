@@ -3701,103 +3701,103 @@
   },
   {
     "id": 370,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company has a set of ecommerce applications. The applications need to be able to send messages to each other. Which AWS service meets this requirement?",
+    "a1": "A. AWS Auto Scaling",
+    "a2": "B. Elastic Load Balancing",
+    "a3": "C. Amazon Simple Queue Service (Amazon SQS)",
+    "a4": "D. Amazon Kinesis Data Streams",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 371,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to receive alerts when resources that are launched in the company's AWS account reach 80% of their service quotas. Which AWS service should the company use to meet this requirement?",
+    "a1": "A. AWS CloudTrail",
+    "a2": "B. AWS Trusted Advisor",
+    "a3": "C. AWS Config",
+    "a4": "D. Amazon Inspector",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 372,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which pillar of the AWS Well-Architected Framework is focused on the ability of a workload to perform its intended function correctly and consistently at the expected time?",
+    "a1": "A. Performance efficiency",
+    "a2": "B. Operational excellence",
+    "a3": "C. Reliability",
+    "a4": "D. Security",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 373,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS tool acts as a firewall to control traffic in and out of subnets within a VPC?",
+    "a1": "A. Security group",
+    "a2": "B. Route table",
+    "a3": "C. VPC endpoint",
+    "a4": "D. Network access control list (ACL)",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 374,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is running a standard PostgreSQL database on premises. The company is migrating the database to the AWS Cloud and does not want to change the queries that access the database. The company must maximize the query performance. Which AWS service will meet these requirements?",
+    "a1": "A. Amazon RDS for PostgreSQL",
+    "a2": "B. Amazon Aurora PostgreSQL",
+    "a3": "C. Amazon DocumentDB (with MongoDB compatibility)",
+    "a4": "D. Amazon DynamoDB",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 375,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company needs to use machine learning and pattern matching to identify and protect sensitive data that the company stores in the AWS Cloud. Which AWS service will meet these requirements?",
+    "a1": "A. Amazon Inspector",
+    "a2": "B. Amazon Macie",
+    "a3": "C. Amazon GuardDuty",
+    "a4": "D. AWS Audit Manager",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 376,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to offer direct phone and chat channels for customer service. The company needs a pay-as-you-go solution that remote customer service agents can use to create and manage voice and chat contact flows. Which AWS service will meet these requirements?",
+    "a1": "A. Amazon EventBridge (Amazon CloudWatch Events)",
+    "a2": "B. Amazon Connect",
+    "a3": "C. Amazon Cognito",
+    "a4": "D. AWS Direct Connect",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 377,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company has acquired several other companies. All the companies host their IT infrastructure in the AWS Cloud. Which AWS service should the acquiring company use to centralize the account management?",
+    "a1": "A. AWS Systems Manager",
+    "a2": "B. AWS Organizations",
+    "a3": "C. AWS Security Hub",
+    "a4": "D. Amazon Workspaces",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 378,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company is using AWS for all its IT infrastructure. The company's developers are allowed to deploy applications on their own. The developers want to deploy their applications without having to provision the infrastructure themselves. Which AWS service should the developers use to meet these requirements?",
+    "a1": "A. AWS Cloud Formation",
+    "a2": "B. AWS CodeBuild",
+    "a3": "C. AWS Elastic Beanstalk",
+    "a4": "D. AWS CodeDeploy",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 379,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company needs to analyze its AWS Cloud environment to determine whether the company is following security best practices. The company wants recommendations about how to close security gaps. Which AWS service should the company use to obtain these recommendations?",
+    "a1": "A. AWS WAF",
+    "a2": "B. AWS Systems Manager",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. AWS Shield",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 380,
