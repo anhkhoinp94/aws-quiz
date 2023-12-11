@@ -3998,5 +3998,905 @@
     "a4": "D. Use Multi-AZ deployments for Amazon RDS.",
     "a5": "E. Replace existing Amazon EC2 instances with AWS Elastic Beanstalk.",
     "as": "BC"
+  },
+  {
+    "id": 400,
+    "q": "Where can AWS users review answers to frequently asked questions about security in the AWS Cloud?",
+    "a1": "A. AWS Trusted Advisor",
+    "a2": "B. AWS Knowledge Center",
+    "a3": "C. AWS Support Center",
+    "a4": "D. AWS Artifact",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 401,
+    "q": "Which AWS service or feature can a company use to estimate AWS costs before provisioning workloads?",
+    "a1": "A. AWS Pricing Calculator",
+    "a2": "B. AWS Cost and Usage Report",
+    "a3": "C. Cost Explorer",
+    "a4": "D. AWS Budgets",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 402,
+    "q": "An application that is hosted on Amazon EC2 has a steady and consistent workload. The application will operate for at least 1 year. What is the MOST cost-effective instance purchasing option to meet these requirements?",
+    "a1": "A. Spot Instances",
+    "a2": "B. Reserved Instances",
+    "a3": "C. On-Demand Instances",
+    "a4": "D. Dedicated Hosts",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 403,
+    "q": "A company needs to use dashboards and charts to analyze insights from business data. Which AWS service will provide the dashboards and charts for these insights?",
+    "a1": "A. Amazon Macie",
+    "a2": "B. Amazon Aurora",
+    "a3": "C. Amazon QuickSight",
+    "a4": "D. AWS CloudTrail",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 404,
+    "q": "Which of the following are security principles in the AWS Well-Architected Framework? (Choose two.)",
+    "a1": "A. Analyze and attribute expenditures.",
+    "a2": "B. Monitor, alert, and audit actions and changes to AWS resources.",
+    "a3": "C. Deploy globally in minutes.",
+    "a4": "D. Protect data in transit and at rest.",
+    "a5": "E. Perform operations as code.",
+    "as": "BD"
+  },
+  {
+    "id": 405,
+    "q": "A company moves its infrastructure from on premises to the AWS Cloud. The company can now provision additional Amazon EC2 instances whenever the instances are required. With this ability, the company can launch new marketing campaigns in 3 days instead of 3 weeks. Which benefit of the AWS Cloud does this scenario demonstrate?",
+    "a1": "A. Cost savings",
+    "a2": "B. Improved operational resilience",
+    "a3": "C. Increased business agility",
+    "a4": "D. Enhanced security",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 406,
+    "q": "A company wants to design a reliable web application that is hosted on Amazon EC2. Which approach will achieve this goal?",
+    "a1": "A. Launch large EC2 instances in the same Availability Zone",
+    "a2": "B. Spread EC2 instances across more than one security group",
+    "a3": "C. Spread EC2 instances across more than one Availability Zone.",
+    "a4": "D. Use an Amazon Machine Image (AMI) from AWS Marketplace.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 407,
+    "q": "Which AWS service should a company use to provision, manage, and deploy SSL/TLS certificates?",
+    "a1": "A. AWS Secrets Manager",
+    "a2": "B. Amazon Inspector",
+    "a3": "C. AWS CodeDeploy",
+    "a4": "D. AWS Certificate Manager (ACM)",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 408,
+    "q": "A company provides Amazon Workspaces to its remote employees. The company wants to prevent employees from using their virtual desktops to visit specific websites that are known to be malicious. Which AWS service should the company use to meet this requirement?",
+    "a1": "A. AWS Shield Advanced",
+    "a2": "B. Amazon Route 53",
+    "a3": "C. Amazon GuardDuty",
+    "a4": "D. AWS Network Firewall",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 409,
+    "q": "A company wants to build an application that uses AWS Lambda to run Python code. Under the AWS shared responsibility model, which tasks will be the company's responsibility? (Choose two.)",
+    "a1": "A. Management of the underlying infrastructure",
+    "a2": "B. Management of the operating system.",
+    "a3": "C. Writing the business logic code.",
+    "a4": "D. Installation of the computer language runtime.",
+    "a5": "E. Providing AWS Identity and Access Management (1AM) access to the Lambda service.",
+    "as": "CE"
+  },
+  {
+    "id": 410,
+    "q": "Which of the following is one of the pillars of the AWS Well-Architected Framework?",
+    "a1": "A. Efficiency and redundancy",
+    "a2": "B. High availability",
+    "a3": "C. Operational excellence",
+    "a4": "D. Business optimization",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 411,
+    "q": "A company has multiple departments. The company must charge each department for its exact AWS Cloud usage, including data transfer costs. How can the company determine these costs by department?",
+    "a1": "A. Use one AWS account for each department.",
+    "a2": "B. Use cost allocation tags on services that are used the most often.",
+    "a3": "C. Use AWS Trusted Advisor.",
+    "a4": "D. Use Savings Plans.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 412,
+    "q": "An ecommerce company has Amazon EC2 instances running as web servers. There is a predictable pattern of peak traffic load that occurs two times each day, always at the same time. The EC2 instances are idle for the remainder of the day. What is the MOST cost-effective way to manage these resources while maintaining fault tolerance?",
+    "a1": "A. Use an Auto Scaling group to scale resources in and out based on demand.",
+    "a2": "B. Purchase Reserved Instances to ensure peak capacity at all times.",
+    "a3": "C. Write a cron job to stop the EC2 instances when the traffic demand is low.",
+    "a4": "D. Write a script to vertically scale the EC2 instances during peak traffic demand.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 413,
+    "q": "A company wants to integrate its online shopping website with social media login credentials. Which AWS service can the company use to make this integration?",
+    "a1": "A. AWS Directory Service",
+    "a2": "B. AWS Identity and Access Management (IAM)",
+    "a3": "C. Amazon Cognito",
+    "a4": "D. AWS IAM Identity Center (AWS Single Sign-On)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 414,
+    "q": "A company needs to create graphs that show historical and current costs for the company's AWS account. Which AWS service or tool provides this functionality?",
+    "a1": "A. AWS Config",
+    "a2": "B. AWS Cost and Usage Report",
+    "a3": "C. AWS Budgets",
+    "a4": "D. AWS Cost Explorer",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 415,
+    "q": "A company acquired another corporation. The company now has two AWS accounts. Which AWS service or tool can the company use to consolidate the billing for these two accounts?",
+    "a1": "A. AWS Systems Manager",
+    "a2": "B. AWS Organizations",
+    "a3": "C. AWS License Manager",
+    "a4": "D. Cost Explorer",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 416,
+    "q": "Which AWS Support plans provide a complete set of AWS Trusted Advisor checks?",
+    "a1": "A. AWS Business Support and AWS Basic Support",
+    "a2": "B. AWS Enterprise Support and AWS Business Support",
+    "a3": "C. AWS Enterprise Support and AWS Developer Support",
+    "a4": "D. AWS Business Support and AWS Developer Support",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 417,
+    "q": "Which of the following is a method for building a highly available application on AWS?",
+    "a1": "A. Place an Independent copy of the application in two or more Availability Zones.",
+    "a2": "B. Place codependent components of the application in two or more Availability Zones",
+    "a3": "C. Run one version of the application in one Availability Zone and run an earlier version of the application in a second Availability Zone.",
+    "a4": "D. Deploy two copies of the application in a single Availability Zone.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 418,
+    "q": "Which statement is an AWS Cloud best practice that focuses on the elasticity and agility of cloud computing?",
+    "a1": "A. Provision capacity based on past usage and theoretical peaks.",
+    "a2": "B. Dynamically scale to meet usage demands.",
+    "a3": "C. Build the application and infrastructure in a data center that grants physical access.",
+    "a4": "D. Break apart the application into loosely coupled components.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 419,
+    "q": "Which AWS service could an administrator use to provide desktop environments for several employees?",
+    "a1": "A. AWS Organizations",
+    "a2": "B. AWS Fargate",
+    "a3": "C. AWS WAF",
+    "a4": "D. AWS Workspaces",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 420,
+    "q": "A company simulates workflows to review and validate that all processes are effective and that staff are familiar with the processes. Which design principle of the AWS Well-Architected Framework is the company following with this practice?",
+    "a1": "A. Perform operations as code.",
+    "a2": "B. Refine operation procedures frequently.",
+    "a3": "C. Make frequent, small, reversible changes.",
+    "a4": "D. Structure the company to support business outcomes.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 421,
+    "q": "Which AWS services or resources can a company use directly on its on-premises servers? (Choose two.)",
+    "a1": "A. AWS OpsWorks",
+    "a2": "B. AWS CloudFormation",
+    "a3": "C. AWS Storage Gateway",
+    "a4": "D. Application Load Balancer",
+    "a5": "E. Amazon Cognito",
+    "as": "AC"
+  },
+  {
+    "id": 422,
+    "q": "According to the AWS shared responsibility model, the customer is responsible for applying the latest security updates and patches for which of the following?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon EC2 instances",
+    "a3": "C. Amazon RDS instances",
+    "a4": "D. Amazon S3",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 423,
+    "q": "Which cloud computing advantage is a company applying when it uses AWS Regions to increase application availability to users in different countries?",
+    "a1": "A. Pay-as-you-go pricing",
+    "a2": "B. Capacity forecasting",
+    "a3": "C. Economies of scale",
+    "a4": "D. Global reach",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 424,
+    "q": "Which option is an advantage of AWS Cloud computing that minimizes variable costs?",
+    "a1": "A. High availability",
+    "a2": "B. Economies of scale",
+    "a3": "C. Global reach",
+    "a4": "D. Agility",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 425,
+    "q": "Which action will help increase security in the AWS Cloud?",
+    "a1": "A. Enable programmatic access for all IAM users.",
+    "a2": "B. Use IAM users instead of IAM roles to delegate permissions.",
+    "a3": "C. Rotate access keys on a reoccurring basis.",
+    "a4": "D. Use inline policies instead of customer managed policies.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 426,
+    "q": "A user wants to transport data between AWS and an on-premises environment using a private network connection. Which AWS service or feature can be used to meet these requirements?",
+    "a1": "A. NAT gateway",
+    "a2": "B. AWS Direct Connect",
+    "a3": "C. Amazon VPC",
+    "a4": "D. Internet gateway",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 427,
+    "q": "Which AWS service can serve a static website?",
+    "a1": "A. Amazon S3",
+    "a2": "B. Amazon Route 53",
+    "a3": "C. Amazon QuickSight",
+    "a4": "D. AWS X-Ray",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 428,
+    "q": "Which design principles are enabled by the AWS Cloud to improve the operation of workloads? (Choose two.)",
+    "a1": "A. Minimize upfront design",
+    "a2": "B. Loose coupling",
+    "a3": "C. Disposable resources",
+    "a4": "D. Server design and concurrency",
+    "a5": "E. Minimal viable product",
+    "as": "BC"
+  },
+  {
+    "id": 429,
+    "q": "A large company has a workload that requires hardware to remain on premises. The company wants to use the same management and control plane services that it currently uses on AWS. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. AWS Device Farm",
+    "a2": "B. AWS Fargate",
+    "a3": "C. AWS Outposts",
+    "a4": "D. AWS Ground Station",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 430,
+    "q": "Which of the following is included within the security pillar of the AWS Well-Architected Framework?",
+    "a1": "A. Identity federation",
+    "a2": "B. Data protection",
+    "a3": "C. Incident reporting",
+    "a4": "D. Disaster recovery",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 431,
+    "q": "A company has been storing monthly reports in an Amazon S3 bucket. The company exports the report data into comma-separated values (.csv) files. A developer wants to write a simple query that can read all of these files and generate a summary report. Which AWS service or feature should the developer use to meet these requirements with the LEAST amount of operational overhead?",
+    "a1": "A. Amazon S3 Select",
+    "a2": "B. Amazon Athena",
+    "a3": "C. Amazon Redshift",
+    "a4": "D. Amazon EC2",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 432,
+    "q": "A company wants the ability to accommodate peak application usage without purchasing equipment for on-premises data centers. Which AWS Cloud benefit is the company seeking?",
+    "a1": "A. High availability",
+    "a2": "B. Security",
+    "a3": "C. Reliability",
+    "a4": "D. Elasticity",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 433,
+    "q": "Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)",
+    "a1": "A. Availability",
+    "a2": "B. Reliability",
+    "a3": "C. Scalability",
+    "a4": "D. Responsive design",
+    "a5": "E. Operational excellence",
+    "as": "BE"
+  },
+  {
+    "id": 434,
+    "q": "Which AWS service provides highly durable object storage?",
+    "a1": "A. Amazon S3",
+    "a2": "B. Amazon Elastic File System (Amazon EFS)",
+    "a3": "C. Amazon Elastic Block Store (Amazon EBS)",
+    "a4": "D. Amazon FSx",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 435,
+    "q": "A company needs to migrate all of its development teams to a cloud-based integrated development environment (IDE). Which AWS service should the company use?",
+    "a1": "A. AWS CodeBuild",
+    "a2": "B. AWS Cloud9",
+    "a3": "C. AWS OpsWorks",
+    "a4": "D. AWS Cloud Development Kit (AWS CDK)",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 436,
+    "q": "Which AWS database service providers in-memory data storage?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon ElastiCache",
+    "a3": "C. Amazon RDS",
+    "a4": "D. Amazon Timestream",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 437,
+    "q": "A company needs a content delivery network that provides secure delivery of data, videos, applications, and APIs to users globally with low latency and high transfer speeds. Which AWS service meets these requirements?",
+    "a1": "A. Amazon CloudFront",
+    "a2": "B. Elastic Load Balancing",
+    "a3": "C. Amazon S3",
+    "a4": "D. Amazon Elastic Transcoder",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 438,
+    "q": "Which of the following are design principles for reliability in the AWS Cloud? (Choose two.)",
+    "a1": "A. Build architectures with tightly coupled resources.",
+    "a2": "B. Use AWS Trusted Advisor to meet security best practices.",
+    "a3": "C. Use automation to recover immediately from failure.",
+    "a4": "D. Right size Amazon EC2 instances to ensure optimal performance.",
+    "a5": "E. Simulate failures to test recovery processes.",
+    "as": "CE"
+  },
+  {
+    "id": 439,
+    "q": "Which AWS service is a cloud security posture management (CSPM) service that aggregates alerts from various AWS services and partner products in a standardized format?",
+    "a1": "A. AWS Security Hub",
+    "a2": "B. AWS Trusted Advisor",
+    "a3": "C. Amazon EventBridge",
+    "a4": "D. Amazon GuardDuty",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 440,
+    "q": "A company wants to use the AWS Cloud to define its entire infrastructure as code. The company wants to limit human error and activate consistent responses to events. Which pillar of the AWS Well-Architected Framework does this plan support?",
+    "a1": "A. Security",
+    "a2": "B. Operational excellence",
+    "a3": "C. Cost optimization",
+    "a4": "D. Reliability",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 441,
+    "q": "A developer wants AWS users to access AWS services by using temporary security credentials. Which AWS service or feature should the developer use to provide these credentials?",
+    "a1": "A. IAM policies",
+    "a2": "B. IAM user groups",
+    "a3": "C. AWS Security Token Service (AWS STS)",
+    "a4": "D. AWS IAM Identity Center (AWS Single Sign-On)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 442,
+    "q": "Which of the following is an architectural design principle of the AWS Well-Architected Framework?",
+    "a1": "A. Loosely couple components",
+    "a2": "B. Build monolithic systems",
+    "a3": "C. Scale vertically, not horizontally",
+    "a4": "D. Use third-party software",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 443,
+    "q": "What does the Amazon S3 Intelligent-Tiering storage class offer?",
+    "a1": "A. Payment flexibility by reserving storage capacity",
+    "a2": "B. Long-term retention of data by copying the data to an encrypted Amazon Elastic Block Store (Amazon EBS) volume",
+    "a3": "C. Automatic cost savings by moving objects between tiers based on access pattern changes",
+    "a4": "D. Secure, durable, and lowest cost storage for data archival",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 444,
+    "q": "How does the AWS Cloud help companies build agility into their processes and cloud infrastructure?",
+    "a1": "A. Companies can avoid provisioning too much capacity when they do not know how much capacity is required.",
+    "a2": "B. Companies can expand into new geographic regions.",
+    "a3": "C. Companies can access a range of technologies to experiment and innovate quickly.",
+    "a4": "D. Companies can pay for IT resources only when they use the resources.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 445,
+    "q": "Which of the following is a recommended design principle of the AWS Well-Architected Framework?",
+    "a1": "A. Reduce downtime by making infrastructure changes infrequently and in large increments.",
+    "a2": "B. Invest the time to configure infrastructure manually.",
+    "a3": "C. Learn to improve from operational failures.",
+    "a4": "D. Use monolithic application design for centralization.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 446,
+    "q": "An Availability Zone consists of:",
+    "a1": "A. one or more data centers in a single location.",
+    "a2": "B. two or more data centers in multiple locations.",
+    "a3": "C. one or more physical hosts in a single data center.",
+    "a4": "D. two or more physical hosts in multiple data centers.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 447,
+    "q": "A company is designing a web application that will run on Amazon EC2 instances. Which AWS services and features will improve availability and reduce the impact of failures for this application? (Choose two.)",
+    "a1": "A. Amazon EC2 Auto Scaling for the EC2 instances",
+    "a2": "B. VPC subnet ACLs to check the health of a service",
+    "a3": "C. Resources that are distributed across multiple Availability Zones",
+    "a4": "D. Configuration of AWS Server Migration Service (AWS SMS) to move the EC2 instances to a different AWS Region",
+    "a5": "E. Resources that are distributed across multiple AWS points of presence",
+    "as": "AC"
+  },
+  {
+    "id": 448,
+    "q": "Which fully managed AWS service assists with the creation, testing, and management of custom Amazon EC2 images?",
+    "a1": "A. EC2 Image Builder",
+    "a2": "B. Amazon Machine Image (AMI)",
+    "a3": "C. AWS Launch Wizard",
+    "a4": "D. AWS Elastic Beanstalk",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 449,
+    "q": "Which of the following describes an AWS Region?",
+    "a1": "A. Specific location within a geographic area that provides high availability",
+    "a2": "B. Set of data centers spanning multiple countries",
+    "a3": "C. A global picture of a user's cloud computing environment",
+    "a4": "D. A collection of databases that can be accessed from a specific geographic area only",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 450,
+    "q": "Which AWS service provides recommendations to help users optimize costs and follow AWS best practices?",
+    "a1": "A. AWS Trusted Advisor",
+    "a2": "B. AWS Service Catalog",
+    "a3": "C. AWS Ground Station",
+    "a4": "D. Amazon GuardDuty",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 451,
+    "q": "Which AWS service provides a cloud-based contact center that scales to support a business of any size?",
+    "a1": "A. Amazon Personalize",
+    "a2": "B. Amazon Cognito",
+    "a3": "C. Amazon Connect",
+    "a4": "D. Amazon Lightsail",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 452,
+    "q": "A financial company needs to centrally manage its AWS accounts and use consolidated billing. Which AWS service or feature should the company use?",
+    "a1": "A. AWS Cost Explorer",
+    "a2": "B. AWS Organizations",
+    "a3": "C. AWS Billing and Cost Management",
+    "a4": "D. AWS Budgets",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 453,
+    "q": "A company is preparing for an audit and wants documentation that AWS complies with the Payment Card Industry Data Security Standard (PCI DSS). Where can the company find this documentation?",
+    "a1": "A. AWS Artifact",
+    "a2": "B. AWS Organizations",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. AWS Support Center",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 454,
+    "q": "A company stores data in an Amazon S3 bucket. Which task is the responsibility of AWS?",
+    "a1": "A. Configure an S3 Lifecycle policy.",
+    "a2": "B. Activate S3 Versioning.",
+    "a3": "C. Configure S3 bucket policies.",
+    "a4": "D. Protect the infrastructure that supports S3 storage.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 455,
+    "q": "Which AWS service allows a user to provision a managed MySQL DB instance?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon Redshift",
+    "a3": "C. Amazon RDS",
+    "a4": "D. AWS Database Migration Service (AWS DMS)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 456,
+    "q": "Which AWS service should a cloud practitioner use to receive real-time guidance for provisioning resources, based on AWS best practices related to security, cost optimization, and service limits?",
+    "a1": "A. AWS Trusted Advisor",
+    "a2": "B. AWS Config",
+    "a3": "C. AWS Security Hub",
+    "a4": "D. AWS Systems Manager",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 457,
+    "q": "Which statements represent the cost-effectiveness of the AWS Cloud? (Choose two.)",
+    "a1": "A. Users can trade fixed expenses for variable expenses.",
+    "a2": "B. Users can deploy all over the world in minutes.",
+    "a3": "C. AWS offers increased speed and agility.",
+    "a4": "D. AWS is responsible for patching the infrastructure.",
+    "a5": "E. Users benefit from economies of scale.",
+    "as": "AE"
+  },
+  {
+    "id": 458,
+    "q": "Which AWS service stores graph data in the form of vertices and edges?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon RDS",
+    "a3": "C. Amazon Quantum Ledger Database (Amazon QLDB)",
+    "a4": "D. Amazon Neptune",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 459,
+    "q": "When designing AWS workloads to be operational even when there are component failures, what is an AWS best practice?",
+    "a1": "A. Perform quarterly disaster recovery tests.",
+    "a2": "B. Place the main component on the us-east-1 Region.",
+    "a3": "C. Design for automatic failover to healthy resources.",
+    "a4": "D. Design workloads to fit on a single Amazon EC2 instance.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 460,
+    "q": "A company wants to protect resources that the company hosts on AWS, including Application Load Balancers and Amazon CloudFront distributions. The company wants an AWS service that can provide near real-time visibility into attacks on the company's resources. The service must also have a dedicated AWS team to assist with distributed denial of service (DDoS) attacks. Which AWS service will meet these requirements?",
+    "a1": "A. AWS WAF",
+    "a2": "B. AWS Shield Standard",
+    "a3": "C. Amazon Macie",
+    "a4": "D. AWS Shield Advanced",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 461,
+    "q": "Which AWS Support plan provides customers with access to an AWS technical account manager (TAM)?",
+    "a1": "A. AWS Basic Support",
+    "a2": "B. AWS Developer Support",
+    "a3": "C. AWS Business Support",
+    "a4": "D. AWS Enterprise Support",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 462,
+    "q": "Which task is the responsibility of a company that is using Amazon RDS?",
+    "a1": "A. Provision the underlying infrastructure.",
+    "a2": "B. Create IAM policies to control administrative access to the service.",
+    "a3": "C. Install the cables to connect the hardware for compute and storage.",
+    "a4": "D. Install and patch the RDS operating system.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 463,
+    "q": "A company has an application with robust hardware requirements. The application must be accessed by students who are using lightweight, low-cost laptops. Which AWS service will help the company deploy the application without investing in backend infrastructure or high-end client hardware?",
+    "a1": "A. Amazon AppStream 2.0",
+    "a2": "B. AWS AppSync",
+    "a3": "C. Amazon WorkLink",
+    "a4": "D. AWS Elastic Beanstalk",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 464,
+    "q": "Which of the following is an AWS value proposition that describes a user's ability to scale infrastructure based on demand?",
+    "a1": "A. Speed of innovation",
+    "a2": "B. Resource elasticity",
+    "a3": "C. Decoupled architecture",
+    "a4": "D. Global deployment",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 465,
+    "q": "A company needs to organize its resources and track AWS costs on a detailed level. The company needs to categorize costs by business department, environment, and application. Which solution will meet these requirements?",
+    "a1": "A. Access the AWS Cost Management console to organize resources, set an AWS budget, and receive notifications of unintentional usage.",
+    "a2": "B. Use tags to organize the resources. Activate cost allocation tags to track AWS costs on a detailed level.",
+    "a3": "C. Create Amazon CloudWatch dashboards to visually organize and track costs individually.",
+    "a4": "D. Access the AWS Billing and Cost Management dashboard to organize and track resource consumption on a detailed level.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 466,
+    "q": "Using Amazon Elastic Container Service (Amazon ECS) to break down a monolithic architecture into microservices is an example of:",
+    "a1": "A. a loosely coupled architecture.",
+    "a2": "B. a tightly coupled architecture.",
+    "a3": "C. a stateless architecture.",
+    "a4": "D. a stateful architecture.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 467,
+    "q": "Which AWS benefit is demonstrated by on-demand technology services that enable companies to replace upfront fixed expenses with variable expenses?",
+    "a1": "A. High availability",
+    "a2": "B. Economies of scale",
+    "a3": "C. Pay-as-you-go pricing",
+    "a4": "D. Global reach",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 468,
+    "q": "Which AWS service is a key-value database that provides sub-millisecond latency on a large scale?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon Aurora",
+    "a3": "C. Amazon DocumentDB (with MongoDB compatibility)",
+    "a4": "D. Amazon Neptune",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 469,
+    "q": "A company stores several terabytes of data in an Amazon S3 bucket. The company needs to query the data by using standard SQL and does not want to set up infrastructure. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. Amazon RDS",
+    "a2": "B. Amazon Redshift",
+    "a3": "C. Amazon Athena",
+    "a4": "D. Amazon EC2",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 470,
+    "q": "Which AWS service supports the analysis, investigation, and identification of the root cause of security events and suspicious activities in an AWS account?",
+    "a1": "A. Amazon Inspector",
+    "a2": "B. Amazon Macie",
+    "a3": "C. Amazon Detective",
+    "a4": "D. Amazon CloudWatch",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 471,
+    "q": "A company plans to run its IT infrastructure in the AWS Cloud. The infrastructure must be highly available. The company also must minimize the network latency between servers. Which deployment scenario will meet these requirements?",
+    "a1": "A. Deploy in multiple Availability Zones in multiple AWS Regions.",
+    "a2": "B. Deploy in one Availability Zone in one AWS Region",
+    "a3": "C. Deploy in multiple AWS Regions. Deploy in one Availability Zone in each Region.",
+    "a4": "D. Deploy in multiple Availability Zones in one AWS Region.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 472,
+    "q": "Which AWS service decouples application components so that the components run independently?",
+    "a1": "A. Amazon Simple Notification Service (Amazon SNS)",
+    "a2": "B. Amazon Simple Workflow Service (Amazon SWF)",
+    "a3": "C. AWS Glue",
+    "a4": "D. Amazon Simple Queue Service (Amazon SQS)",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 473,
+    "q": "A company is designing an application. For the data persistence layer, the company wants to use a NoSQL database. Which AWS service should the company use for the database?",
+    "a1": "A. Amazon Redshift",
+    "a2": "B. AWS DataSync",
+    "a3": "C. Amazon Athena",
+    "a4": "D. Amazon DynamoDB",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 474,
+    "q": "Which AWS service keeps track of SSL/TLS certificates, creates new certificates, and processes renewals?",
+    "a1": "A. AWS Identity and Access Management (IAM)",
+    "a2": "B. AWS Certificate Manager (ACM)",
+    "a3": "C. AWS Config",
+    "a4": "D. AWS Trusted Advisor",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 475,
+    "q": "A company is using AWS Lambda. Which task is the company’s responsibility, according to the AWS shared responsibility model?",
+    "a1": "A. Update the Lambda runtime language.",
+    "a2": "B. Maintain the runtime environment.",
+    "a3": "C. Maintain the networking infrastructure.",
+    "a4": "D. Configure the resource.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 476,
+    "q": "A company needs to process data from satellite communications without managing any infrastructure. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. Amazon CloudWatch",
+    "a2": "B. Amazon Aurora",
+    "a3": "C. Amazon Athena",
+    "a4": "D. AWS Ground Station",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 477,
+    "q": "A company wants to run its applications in the AWS Cloud. The company does not have enough staff to maintain and protect its critical business applications. Which AWS service should the company use to perform these tasks?",
+    "a1": "A. AWS Shield",
+    "a2": "B. Amazon RDS",
+    "a3": "C. AWS Config",
+    "a4": "D. AWS Managed Services (AMS)",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 478,
+    "q": "A company needs to test a new application that was written in Python. The code will activate when new images are stored in an Amazon S3 bucket. The application will put a watermark on each image and then will store the images in a different S3 bucket. Which AWS service should the company use to conduct the test with the LEAST amount of operational overhead?",
+    "a1": "A. Amazon EC2",
+    "a2": "B. AWS Code Deploy",
+    "a3": "C. AWS Lambda",
+    "a4": "D. Amazon Lightsail",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 479,
+    "q": "A cloud engineer needs to track AWS costs. The cloud engineer also needs to receive event driven alerts when costs exceed specific thresholds. Which AWS tool provides this functionality?",
+    "a1": "A. AWS Cost Explorer",
+    "a2": "B. AWS Budgets",
+    "a3": "C. Cost allocation tags",
+    "a4": "D. AWS Cost and Usage Reports",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 480,
+    "q": "Which of the following is available to a company that has an AWS Business Support plan?",
+    "a1": "A. AWS Support concierge",
+    "a2": "B. AWS DDoS Response Team (DRT)",
+    "a3": "C. AWS technical account manager (TAM)",
+    "a4": "D. AWS Health API",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 481,
+    "q": "A company wants to migrate its on-premises data warehouse to AWS. The information in the data warehouse is used to populate analytics dashboards. Which AWS service should the company use for the data warehouse?",
+    "a1": "A. Amazon ElastiCache",
+    "a2": "B. Amazon Aurora",
+    "a3": "C. Amazon RDS",
+    "a4": "D. Amazon Redshift",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 482,
+    "q": "A company wants to use machine learning to identify suspicious activities in its AWS account. Which AWS service provides this functionality?",
+    "a1": "A. AWS Shield",
+    "a2": "B. Amazon Macie",
+    "a3": "C. Amazon Detective",
+    "a4": "D. AWS WAF",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 483,
+    "q": "A company is hosting a web application in a Docker container on Amazon EC2. AWS is responsible for which of the following tasks?",
+    "a1": "A. Scaling the web application and services developed with Docker",
+    "a2": "B. Provisioning or scheduling containers to run on clusters and maintain their availability",
+    "a3": "C. Performing hardware maintenance in the AWS facilities that run the AWS Cloud",
+    "a4": "D. Managing the guest operating system, including updates and security patches",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 484,
+    "q": "Which options does AWS make available for customers who want to learn about security in the cloud in an instructor-led setting? (Choose two.)",
+    "a1": "A. AWS Trusted Advisor",
+    "a2": "B. AWS Online Tech Talks",
+    "a3": "C. AWS Blog",
+    "a4": "D. AWS Forums",
+    "a5": "E. AWS Classroom Training",
+    "as": "BE"
+  },
+  {
+    "id": 485,
+    "q": "Which AWS service will help a company identify the user who deleted an Amazon EC2 instance yesterday?",
+    "a1": "A. Amazon CloudWatch",
+    "a2": "B. AWS Trusted Advisor",
+    "a3": "C. AWS CloudTrail",
+    "a4": "D. Amazon Inspector",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 486,
+    "q": "A company is configuring its AWS Cloud environment. The company's administrators need to group users together and apply permissions to the group. Which AWS service or feature can the company use to meet these requirements?",
+    "a1": "A. AWS Organizations",
+    "a2": "B. Resource groups",
+    "a3": "C. Resource tagging",
+    "a4": "D. AWS Identity and Access Management (IAM)",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 487,
+    "q": "Which statement describes a characteristic of the AWS global infrastructure?",
+    "a1": "A. Edge locations contain multiple AWS Regions",
+    "a2": "B. AWS Regions contain multiple Regional edge caches",
+    "a3": "C. Availability Zones contain multiple data centers",
+    "a4": "D. Each data center contains multiple edge locations",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 488,
+    "q": "A company has an online shopping website and wants to store customers' credit card data. The company must meet Payment Card Industry (PCI) standards. Which service can the company use to access AWS compliance documentation?",
+    "a1": "A. Amazon Cloud Directory",
+    "a2": "B. AWS Artifact",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. Amazon Inspector",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 489,
+    "q": "Which AWS service can a company use to perform complex analytical queries?",
+    "a1": "A. Amazon RDS",
+    "a2": "B. Amazon DynamoDB",
+    "a3": "C. Amazon Redshift",
+    "a4": "D. Amazon ElastiCache",
+    "a5": "",
+    "as": "C"
   }
 ]
