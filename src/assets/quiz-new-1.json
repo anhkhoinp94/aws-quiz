@@ -4601,6 +4601,106 @@
   },
   {
     "id": 460,
+    "q": "A company wants to protect resources that the company hosts on AWS, including Application Load Balancers and Amazon CloudFront distributions. The company wants an AWS service that can provide near real-time visibility into attacks on the company's resources. The service must also have a dedicated AWS team to assist with distributed denial of service (DDoS) attacks. Which AWS service will meet these requirements?",
+    "a1": "A. AWS WAF",
+    "a2": "B. AWS Shield Standard",
+    "a3": "C. Amazon Macie",
+    "a4": "D. AWS Shield Advanced",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 461,
+    "q": "Which AWS Support plan provides customers with access to an AWS technical account manager (TAM)?",
+    "a1": "A. AWS Basic Support",
+    "a2": "B. AWS Developer Support",
+    "a3": "C. AWS Business Support",
+    "a4": "D. AWS Enterprise Support",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 462,
+    "q": "Which task is the responsibility of a company that is using Amazon RDS?",
+    "a1": "A. Provision the underlying infrastructure.",
+    "a2": "B. Create IAM policies to control administrative access to the service.",
+    "a3": "C. Install the cables to connect the hardware for compute and storage.",
+    "a4": "D. Install and patch the RDS operating system.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 463,
+    "q": "A company has an application with robust hardware requirements. The application must be accessed by students who are using lightweight, low-cost laptops. Which AWS service will help the company deploy the application without investing in backend infrastructure or high-end client hardware?",
+    "a1": "A. Amazon AppStream 2.0",
+    "a2": "B. AWS AppSync",
+    "a3": "C. Amazon WorkLink",
+    "a4": "D. AWS Elastic Beanstalk",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 464,
+    "q": "Which of the following is an AWS value proposition that describes a user's ability to scale infrastructure based on demand?",
+    "a1": "A. Speed of innovation",
+    "a2": "B. Resource elasticity",
+    "a3": "C. Decoupled architecture",
+    "a4": "D. Global deployment",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 465,
+    "q": "A company needs to organize its resources and track AWS costs on a detailed level. The company needs to categorize costs by business department, environment, and application. Which solution will meet these requirements?",
+    "a1": "A. Access the AWS Cost Management console to organize resources, set an AWS budget, and receive notifications of unintentional usage.",
+    "a2": "B. Use tags to organize the resources. Activate cost allocation tags to track AWS costs on a detailed level.",
+    "a3": "C. Create Amazon CloudWatch dashboards to visually organize and track costs individually.",
+    "a4": "D. Access the AWS Billing and Cost Management dashboard to organize and track resource consumption on a detailed level.",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 466,
+    "q": "Using Amazon Elastic Container Service (Amazon ECS) to break down a monolithic architecture into microservices is an example of:",
+    "a1": "A. a loosely coupled architecture.",
+    "a2": "B. a tightly coupled architecture.",
+    "a3": "C. a stateless architecture.",
+    "a4": "D. a stateful architecture.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 467,
+    "q": "Which AWS benefit is demonstrated by on-demand technology services that enable companies to replace upfront fixed expenses with variable expenses?",
+    "a1": "A. High availability",
+    "a2": "B. Economies of scale",
+    "a3": "C. Pay-as-you-go pricing",
+    "a4": "D. Global reach",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 468,
+    "q": "Which AWS service is a key-value database that provides sub-millisecond latency on a large scale?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon Aurora",
+    "a3": "C. Amazon DocumentDB (with MongoDB compatibility)",
+    "a4": "D. Amazon Neptune",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 469,
+    "q": "A company stores several terabytes of data in an Amazon S3 bucket. The company needs to query the data by using standard SQL and does not want to set up infrastructure. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. Amazon RDS",
+    "a2": "B. Amazon Redshift",
+    "a3": "C. Amazon Athena",
+    "a4": "D. Amazon EC2",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 470,
     "q": "",
     "a1": "",
     "a2": "",
