@@ -4701,12 +4701,202 @@
   },
   {
     "id": 470,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service supports the analysis, investigation, and identification of the root cause of security events and suspicious activities in an AWS account?",
+    "a1": "A. Amazon Inspector",
+    "a2": "B. Amazon Macie",
+    "a3": "C. Amazon Detective",
+    "a4": "D. Amazon CloudWatch",
     "a5": "",
-    "as": ""
+    "as": "C"
+  },
+  {
+    "id": 471,
+    "q": "A company plans to run its IT infrastructure in the AWS Cloud. The infrastructure must be highly available. The company also must minimize the network latency between servers. Which deployment scenario will meet these requirements?",
+    "a1": "A. Deploy in multiple Availability Zones in multiple AWS Regions.",
+    "a2": "B. Deploy in one Availability Zone in one AWS Region",
+    "a3": "C. Deploy in multiple AWS Regions. Deploy in one Availability Zone in each Region.",
+    "a4": "D. Deploy in multiple Availability Zones in one AWS Region.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 472,
+    "q": "Which AWS service decouples application components so that the components run independently?",
+    "a1": "A. Amazon Simple Notification Service (Amazon SNS)",
+    "a2": "B. Amazon Simple Workflow Service (Amazon SWF)",
+    "a3": "C. AWS Glue",
+    "a4": "D. Amazon Simple Queue Service (Amazon SQS)",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 473,
+    "q": "A company is designing an application. For the data persistence layer, the company wants to use a NoSQL database. Which AWS service should the company use for the database?",
+    "a1": "A. Amazon Redshift",
+    "a2": "B. AWS DataSync",
+    "a3": "C. Amazon Athena",
+    "a4": "D. Amazon DynamoDB",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 474,
+    "q": "Which AWS service keeps track of SSL/TLS certificates, creates new certificates, and processes renewals?",
+    "a1": "A. AWS Identity and Access Management (IAM)",
+    "a2": "B. AWS Certificate Manager (ACM)",
+    "a3": "C. AWS Config",
+    "a4": "D. AWS Trusted Advisor",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 475,
+    "q": "A company is using AWS Lambda. Which task is the company’s responsibility, according to the AWS shared responsibility model?",
+    "a1": "A. Update the Lambda runtime language.",
+    "a2": "B. Maintain the runtime environment.",
+    "a3": "C. Maintain the networking infrastructure.",
+    "a4": "D. Configure the resource.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 476,
+    "q": "A company needs to process data from satellite communications without managing any infrastructure. Which AWS service should the company use to meet these requirements?",
+    "a1": "A. Amazon CloudWatch",
+    "a2": "B. Amazon Aurora",
+    "a3": "C. Amazon Athena",
+    "a4": "D. AWS Ground Station",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 477,
+    "q": "A company wants to run its applications in the AWS Cloud. The company does not have enough staff to maintain and protect its critical business applications. Which AWS service should the company use to perform these tasks?",
+    "a1": "A. AWS Shield",
+    "a2": "B. Amazon RDS",
+    "a3": "C. AWS Config",
+    "a4": "D. AWS Managed Services (AMS)",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 478,
+    "q": "A company needs to test a new application that was written in Python. The code will activate when new images are stored in an Amazon S3 bucket. The application will put a watermark on each image and then will store the images in a different S3 bucket. Which AWS service should the company use to conduct the test with the LEAST amount of operational overhead?",
+    "a1": "A. Amazon EC2",
+    "a2": "B. AWS Code Deploy",
+    "a3": "C. AWS Lambda",
+    "a4": "D. Amazon Lightsail",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 479,
+    "q": "A cloud engineer needs to track AWS costs. The cloud engineer also needs to receive event driven alerts when costs exceed specific thresholds. Which AWS tool provides this functionality?",
+    "a1": "A. AWS Cost Explorer",
+    "a2": "B. AWS Budgets",
+    "a3": "C. Cost allocation tags",
+    "a4": "D. AWS Cost and Usage Reports",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 480,
+    "q": "Which of the following is available to a company that has an AWS Business Support plan?",
+    "a1": "A. AWS Support concierge",
+    "a2": "B. AWS DDoS Response Team (DRT)",
+    "a3": "C. AWS technical account manager (TAM)",
+    "a4": "D. AWS Health API",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 481,
+    "q": "A company wants to migrate its on-premises data warehouse to AWS. The information in the data warehouse is used to populate analytics dashboards. Which AWS service should the company use for the data warehouse?",
+    "a1": "A. Amazon ElastiCache",
+    "a2": "B. Amazon Aurora",
+    "a3": "C. Amazon RDS",
+    "a4": "D. Amazon Redshift",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 482,
+    "q": "A company wants to use machine learning to identify suspicious activities in its AWS account. Which AWS service provides this functionality?",
+    "a1": "A. AWS Shield",
+    "a2": "B. Amazon Macie",
+    "a3": "C. Amazon Detective",
+    "a4": "D. AWS WAF",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 483,
+    "q": "A company is hosting a web application in a Docker container on Amazon EC2. AWS is responsible for which of the following tasks?",
+    "a1": "A. Scaling the web application and services developed with Docker",
+    "a2": "B. Provisioning or scheduling containers to run on clusters and maintain their availability",
+    "a3": "C. Performing hardware maintenance in the AWS facilities that run the AWS Cloud",
+    "a4": "D. Managing the guest operating system, including updates and security patches",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 484,
+    "q": "Which options does AWS make available for customers who want to learn about security in the cloud in an instructor-led setting? (Choose two.)",
+    "a1": "A. AWS Trusted Advisor",
+    "a2": "B. AWS Online Tech Talks",
+    "a3": "C. AWS Blog",
+    "a4": "D. AWS Forums",
+    "a5": "E. AWS Classroom Training",
+    "as": "BE"
+  },
+  {
+    "id": 485,
+    "q": "Which AWS service will help a company identify the user who deleted an Amazon EC2 instance yesterday?",
+    "a1": "A. Amazon CloudWatch",
+    "a2": "B. AWS Trusted Advisor",
+    "a3": "C. AWS CloudTrail",
+    "a4": "D. Amazon Inspector",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 486,
+    "q": "A company is configuring its AWS Cloud environment. The company's administrators need to group users together and apply permissions to the group. Which AWS service or feature can the company use to meet these requirements?",
+    "a1": "A. AWS Organizations",
+    "a2": "B. Resource groups",
+    "a3": "C. Resource tagging",
+    "a4": "D. AWS Identity and Access Management (IAM)",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 487,
+    "q": "Which statement describes a characteristic of the AWS global infrastructure?",
+    "a1": "A. Edge locations contain multiple AWS Regions",
+    "a2": "B. AWS Regions contain multiple Regional edge caches",
+    "a3": "C. Availability Zones contain multiple data centers",
+    "a4": "D. Each data center contains multiple edge locations",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 488,
+    "q": "A company has an online shopping website and wants to store customers' credit card data. The company must meet Payment Card Industry (PCI) standards. Which service can the company use to access AWS compliance documentation?",
+    "a1": "A. Amazon Cloud Directory",
+    "a2": "B. AWS Artifact",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. Amazon Inspector",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 489,
+    "q": "Which AWS service can a company use to perform complex analytical queries?",
+    "a1": "A. Amazon RDS",
+    "a2": "B. Amazon DynamoDB",
+    "a3": "C. Amazon Redshift",
+    "a4": "D. Amazon ElastiCache",
+    "a5": "",
+    "as": "C"
   }
 ]
