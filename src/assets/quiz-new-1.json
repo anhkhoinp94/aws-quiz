@@ -4301,6 +4301,206 @@
   },
   {
     "id": 430,
+    "q": "Which of the following is included within the security pillar of the AWS Well-Architected Framework?",
+    "a1": "A. Identity federation",
+    "a2": "B. Data protection",
+    "a3": "C. Incident reporting",
+    "a4": "D. Disaster recovery",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 431,
+    "q": "A company has been storing monthly reports in an Amazon S3 bucket. The company exports the report data into comma-separated values (.csv) files. A developer wants to write a simple query that can read all of these files and generate a summary report. Which AWS service or feature should the developer use to meet these requirements with the LEAST amount of operational overhead?",
+    "a1": "A. Amazon S3 Select",
+    "a2": "B. Amazon Athena",
+    "a3": "C. Amazon Redshift",
+    "a4": "D. Amazon EC2",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 432,
+    "q": "A company wants the ability to accommodate peak application usage without purchasing equipment for on-premises data centers. Which AWS Cloud benefit is the company seeking?",
+    "a1": "A. High availability",
+    "a2": "B. Security",
+    "a3": "C. Reliability",
+    "a4": "D. Elasticity",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 433,
+    "q": "Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)",
+    "a1": "A. Availability",
+    "a2": "B. Reliability",
+    "a3": "C. Scalability",
+    "a4": "D. Responsive design",
+    "a5": "E. Operational excellence",
+    "as": "BE"
+  },
+  {
+    "id": 434,
+    "q": "Which AWS service provides highly durable object storage?",
+    "a1": "A. Amazon S3",
+    "a2": "B. Amazon Elastic File System (Amazon EFS)",
+    "a3": "C. Amazon Elastic Block Store (Amazon EBS)",
+    "a4": "D. Amazon FSx",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 435,
+    "q": "A company needs to migrate all of its development teams to a cloud-based integrated development environment (IDE). Which AWS service should the company use?",
+    "a1": "A. AWS CodeBuild",
+    "a2": "B. AWS Cloud9",
+    "a3": "C. AWS OpsWorks",
+    "a4": "D. AWS Cloud Development Kit (AWS CDK)",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 436,
+    "q": "Which AWS database service providers in-memory data storage?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon ElastiCache",
+    "a3": "C. Amazon RDS",
+    "a4": "D. Amazon Timestream",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 437,
+    "q": "A company needs a content delivery network that provides secure delivery of data, videos, applications, and APIs to users globally with low latency and high transfer speeds. Which AWS service meets these requirements?",
+    "a1": "A. Amazon CloudFront",
+    "a2": "B. Elastic Load Balancing",
+    "a3": "C. Amazon S3",
+    "a4": "D. Amazon Elastic Transcoder",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 438,
+    "q": "Which of the following are design principles for reliability in the AWS Cloud? (Choose two.)",
+    "a1": "A. Build architectures with tightly coupled resources.",
+    "a2": "B. Use AWS Trusted Advisor to meet security best practices.",
+    "a3": "C. Use automation to recover immediately from failure.",
+    "a4": "D. Right size Amazon EC2 instances to ensure optimal performance.",
+    "a5": "E. Simulate failures to test recovery processes.",
+    "as": "CE"
+  },
+  {
+    "id": 439,
+    "q": "Which AWS service is a cloud security posture management (CSPM) service that aggregates alerts from various AWS services and partner products in a standardized format?",
+    "a1": "A. AWS Security Hub",
+    "a2": "B. AWS Trusted Advisor",
+    "a3": "C. Amazon EventBridge",
+    "a4": "D. Amazon GuardDuty",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 440,
+    "q": "A company wants to use the AWS Cloud to define its entire infrastructure as code. The company wants to limit human error and activate consistent responses to events. Which pillar of the AWS Well-Architected Framework does this plan support?",
+    "a1": "A. Security",
+    "a2": "B. Operational excellence",
+    "a3": "C. Cost optimization",
+    "a4": "D. Reliability",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 441,
+    "q": "A developer wants AWS users to access AWS services by using temporary security credentials. Which AWS service or feature should the developer use to provide these credentials?",
+    "a1": "A. IAM policies",
+    "a2": "B. IAM user groups",
+    "a3": "C. AWS Security Token Service (AWS STS)",
+    "a4": "D. AWS IAM Identity Center (AWS Single Sign-On)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 442,
+    "q": "Which of the following is an architectural design principle of the AWS Well-Architected Framework?",
+    "a1": "A. Loosely couple components",
+    "a2": "B. Build monolithic systems",
+    "a3": "C. Scale vertically, not horizontally",
+    "a4": "D. Use third-party software",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 443,
+    "q": "What does the Amazon S3 Intelligent-Tiering storage class offer?",
+    "a1": "A. Payment flexibility by reserving storage capacity",
+    "a2": "B. Long-term retention of data by copying the data to an encrypted Amazon Elastic Block Store (Amazon EBS) volume",
+    "a3": "C. Automatic cost savings by moving objects between tiers based on access pattern changes",
+    "a4": "D. Secure, durable, and lowest cost storage for data archival",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 444,
+    "q": "How does the AWS Cloud help companies build agility into their processes and cloud infrastructure?",
+    "a1": "A. Companies can avoid provisioning too much capacity when they do not know how much capacity is required.",
+    "a2": "B. Companies can expand into new geographic regions.",
+    "a3": "C. Companies can access a range of technologies to experiment and innovate quickly.",
+    "a4": "D. Companies can pay for IT resources only when they use the resources.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 445,
+    "q": "Which of the following is a recommended design principle of the AWS Well-Architected Framework?",
+    "a1": "A. Reduce downtime by making infrastructure changes infrequently and in large increments.",
+    "a2": "B. Invest the time to configure infrastructure manually.",
+    "a3": "C. Learn to improve from operational failures.",
+    "a4": "D. Use monolithic application design for centralization.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 446,
+    "q": "An Availability Zone consists of:",
+    "a1": "A. one or more data centers in a single location.",
+    "a2": "B. two or more data centers in multiple locations.",
+    "a3": "C. one or more physical hosts in a single data center.",
+    "a4": "D. two or more physical hosts in multiple data centers.",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 447,
+    "q": "A company is designing a web application that will run on Amazon EC2 instances. Which AWS services and features will improve availability and reduce the impact of failures for this application? (Choose two.)",
+    "a1": "A. Amazon EC2 Auto Scaling for the EC2 instances",
+    "a2": "B. VPC subnet ACLs to check the health of a service",
+    "a3": "C. Resources that are distributed across multiple Availability Zones",
+    "a4": "D. Configuration of AWS Server Migration Service (AWS SMS) to move the EC2 instances to a different AWS Region",
+    "a5": "E. Resources that are distributed across multiple AWS points of presence",
+    "as": "AC"
+  },
+  {
+    "id": 448,
+    "q": "Which fully managed AWS service assists with the creation, testing, and management of custom Amazon EC2 images?",
+    "a1": "A. EC2 Image Builder",
+    "a2": "B. Amazon Machine Image (AMI)",
+    "a3": "C. AWS Launch Wizard",
+    "a4": "D. AWS Elastic Beanstalk",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 449,
+    "q": "Which of the following describes an AWS Region?",
+    "a1": "A. Specific location within a geographic area that provides high availability",
+    "a2": "B. Set of data centers spanning multiple countries",
+    "a3": "C. A global picture of a user's cloud computing environment",
+    "a4": "D. A collection of databases that can be accessed from a specific geographic area only",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 450,
     "q": "",
     "a1": "",
     "a2": "",
