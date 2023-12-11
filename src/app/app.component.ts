@@ -47,7 +47,7 @@ export class AppComponent {
       this.myDataService.getJsonData2().subscribe((data: Question[]) => {
         this.jsonData = this.jsonData.concat(data);
         const shuffledQuestions = this.shuffleArray(this.jsonData.slice());
-        this.jsonData = shuffledQuestions.slice(0, 40);
+        this.jsonData = shuffledQuestions.slice(0, 100);
         let idx = this.getRandomArbitrary(0, this.jsonData.length - 1);
         this.selectQ = this.jsonData[idx];
         if (this.selectQ) {
