@@ -4501,6 +4501,106 @@
   },
   {
     "id": 450,
+    "q": "Which AWS service provides recommendations to help users optimize costs and follow AWS best practices?",
+    "a1": "A. AWS Trusted Advisor",
+    "a2": "B. AWS Service Catalog",
+    "a3": "C. AWS Ground Station",
+    "a4": "D. Amazon GuardDuty",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 451,
+    "q": "Which AWS service provides a cloud-based contact center that scales to support a business of any size?",
+    "a1": "A. Amazon Personalize",
+    "a2": "B. Amazon Cognito",
+    "a3": "C. Amazon Connect",
+    "a4": "D. Amazon Lightsail",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 452,
+    "q": "A financial company needs to centrally manage its AWS accounts and use consolidated billing. Which AWS service or feature should the company use?",
+    "a1": "A. AWS Cost Explorer",
+    "a2": "B. AWS Organizations",
+    "a3": "C. AWS Billing and Cost Management",
+    "a4": "D. AWS Budgets",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 453,
+    "q": "A company is preparing for an audit and wants documentation that AWS complies with the Payment Card Industry Data Security Standard (PCI DSS). Where can the company find this documentation?",
+    "a1": "A. AWS Artifact",
+    "a2": "B. AWS Organizations",
+    "a3": "C. AWS Trusted Advisor",
+    "a4": "D. AWS Support Center",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 454,
+    "q": "A company stores data in an Amazon S3 bucket. Which task is the responsibility of AWS?",
+    "a1": "A. Configure an S3 Lifecycle policy.",
+    "a2": "B. Activate S3 Versioning.",
+    "a3": "C. Configure S3 bucket policies.",
+    "a4": "D. Protect the infrastructure that supports S3 storage.",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 455,
+    "q": "Which AWS service allows a user to provision a managed MySQL DB instance?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon Redshift",
+    "a3": "C. Amazon RDS",
+    "a4": "D. AWS Database Migration Service (AWS DMS)",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 456,
+    "q": "Which AWS service should a cloud practitioner use to receive real-time guidance for provisioning resources, based on AWS best practices related to security, cost optimization, and service limits?",
+    "a1": "A. AWS Trusted Advisor",
+    "a2": "B. AWS Config",
+    "a3": "C. AWS Security Hub",
+    "a4": "D. AWS Systems Manager",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 457,
+    "q": "Which statements represent the cost-effectiveness of the AWS Cloud? (Choose two.)",
+    "a1": "A. Users can trade fixed expenses for variable expenses.",
+    "a2": "B. Users can deploy all over the world in minutes.",
+    "a3": "C. AWS offers increased speed and agility.",
+    "a4": "D. AWS is responsible for patching the infrastructure.",
+    "a5": "E. Users benefit from economies of scale.",
+    "as": "AE"
+  },
+  {
+    "id": 458,
+    "q": "Which AWS service stores graph data in the form of vertices and edges?",
+    "a1": "A. Amazon DynamoDB",
+    "a2": "B. Amazon RDS",
+    "a3": "C. Amazon Quantum Ledger Database (Amazon QLDB)",
+    "a4": "D. Amazon Neptune",
+    "a5": "",
+    "as": "D"
+  },
+  {
+    "id": 459,
+    "q": "When designing AWS workloads to be operational even when there are component failures, what is an AWS best practice?",
+    "a1": "A. Perform quarterly disaster recovery tests.",
+    "a2": "B. Place the main component on the us-east-1 Region.",
+    "a3": "C. Design for automatic failover to healthy resources.",
+    "a4": "D. Design workloads to fit on a single Amazon EC2 instance.",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 460,
     "q": "",
     "a1": "",
     "a2": "",
