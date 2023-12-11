@@ -4101,103 +4101,103 @@
   },
   {
     "id": 410,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following is one of the pillars of the AWS Well-Architected Framework?",
+    "a1": "A. Efficiency and redundancy",
+    "a2": "B. High availability",
+    "a3": "C. Operational excellence",
+    "a4": "D. Business optimization",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 411,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company has multiple departments. The company must charge each department for its exact AWS Cloud usage, including data transfer costs. How can the company determine these costs by department?",
+    "a1": "A. Use one AWS account for each department.",
+    "a2": "B. Use cost allocation tags on services that are used the most often.",
+    "a3": "C. Use AWS Trusted Advisor.",
+    "a4": "D. Use Savings Plans.",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 412,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "An ecommerce company has Amazon EC2 instances running as web servers. There is a predictable pattern of peak traffic load that occurs two times each day, always at the same time. The EC2 instances are idle for the remainder of the day. What is the MOST cost-effective way to manage these resources while maintaining fault tolerance?",
+    "a1": "A. Use an Auto Scaling group to scale resources in and out based on demand.",
+    "a2": "B. Purchase Reserved Instances to ensure peak capacity at all times.",
+    "a3": "C. Write a cron job to stop the EC2 instances when the traffic demand is low.",
+    "a4": "D. Write a script to vertically scale the EC2 instances during peak traffic demand.",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 413,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company wants to integrate its online shopping website with social media login credentials. Which AWS service can the company use to make this integration?",
+    "a1": "A. AWS Directory Service",
+    "a2": "B. AWS Identity and Access Management (IAM)",
+    "a3": "C. Amazon Cognito",
+    "a4": "D. AWS IAM Identity Center (AWS Single Sign-On)",
     "a5": "",
-    "as": ""
+    "as": "C"
   },
   {
     "id": 414,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company needs to create graphs that show historical and current costs for the company's AWS account. Which AWS service or tool provides this functionality?",
+    "a1": "A. AWS Config",
+    "a2": "B. AWS Cost and Usage Report",
+    "a3": "C. AWS Budgets",
+    "a4": "D. AWS Cost Explorer",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 415,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "A company acquired another corporation. The company now has two AWS accounts. Which AWS service or tool can the company use to consolidate the billing for these two accounts?",
+    "a1": "A. AWS Systems Manager",
+    "a2": "B. AWS Organizations",
+    "a3": "C. AWS License Manager",
+    "a4": "D. Cost Explorer",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 416,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS Support plans provide a complete set of AWS Trusted Advisor checks?",
+    "a1": "A. AWS Business Support and AWS Basic Support",
+    "a2": "B. AWS Enterprise Support and AWS Business Support",
+    "a3": "C. AWS Enterprise Support and AWS Developer Support",
+    "a4": "D. AWS Business Support and AWS Developer Support",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 417,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which of the following is a method for building a highly available application on AWS?",
+    "a1": "A. Place an Independent copy of the application in two or more Availability Zones.",
+    "a2": "B. Place codependent components of the application in two or more Availability Zones",
+    "a3": "C. Run one version of the application in one Availability Zone and run an earlier version of the application in a second Availability Zone.",
+    "a4": "D. Deploy two copies of the application in a single Availability Zone.",
     "a5": "",
-    "as": ""
+    "as": "A"
   },
   {
     "id": 418,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which statement is an AWS Cloud best practice that focuses on the elasticity and agility of cloud computing?",
+    "a1": "A. Provision capacity based on past usage and theoretical peaks.",
+    "a2": "B. Dynamically scale to meet usage demands.",
+    "a3": "C. Build the application and infrastructure in a data center that grants physical access.",
+    "a4": "D. Break apart the application into loosely coupled components.",
     "a5": "",
-    "as": ""
+    "as": "B"
   },
   {
     "id": 419,
-    "q": "",
-    "a1": "",
-    "a2": "",
-    "a3": "",
-    "a4": "",
+    "q": "Which AWS service could an administrator use to provide desktop environments for several employees?",
+    "a1": "A. AWS Organizations",
+    "a2": "B. AWS Fargate",
+    "a3": "C. AWS WAF",
+    "a4": "D. AWS Workspaces",
     "a5": "",
-    "as": ""
+    "as": "D"
   },
   {
     "id": 420,
