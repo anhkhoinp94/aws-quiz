@@ -48,7 +48,6 @@ export class AppComponent {
         this.jsonData = this.jsonData.concat(data);
         const shuffledQuestions = this.shuffleArray(this.jsonData.slice());
         this.jsonData = shuffledQuestions.slice(0, 100);
-        console.log('jsonData', this.jsonData);
         let idx = this.getRandomArbitrary(0, this.jsonData.length - 1);
         this.selectQ = this.jsonData[idx];
         if (this.selectQ) {
@@ -97,7 +96,6 @@ export class AppComponent {
         this.jsonData.splice(idx, 1);
         this.numLeft = this.jsonData.length;
       }
-      console.log(this.jsonData);
     } else {
       this.show = true;
     }
