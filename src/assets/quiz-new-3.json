@@ -1,12 +1,132 @@
 [
   {
     "id": 0,
-    "q": "",
-    "a1": "",
-    "a2": "",
+    "q": "Which Amazon S3 storage class has the lowest cost?",
+    "a1": "A. S3 Inteligent-Tiering",
+    "a2": "B. S3 Standard",
+    "a3": "C. S3 Glacier Deep Archive",
+    "a4": "",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 1,
+    "q": "Denial-of-Service (DoS) attack comes from different sources.",
+    "a1": "A. True",
+    "a2": "B. False",
     "a3": "",
     "a4": "",
     "a5": "",
-    "as": ""
+    "as": "B"
+  },
+  {
+    "id": 2,
+    "q": "Which of the following is AWS Migration Strategy?",
+    "a1": "A. Governance",
+    "a2": "B. Auditability",
+    "a3": "C. Replatforming",
+    "a4": "",
+    "a5": "",
+    "as": "C"
+  },
+  {
+    "id": 3,
+    "q": "Which perspective of the AWS Cloud Adoption Framework focuses on minimizing the business risks?",
+    "a1": "A. Operations Perspective",
+    "a2": "B. Governance Perspective",
+    "a3": "C. People Perspective",
+    "a4": "D. Business Perspective",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 4,
+    "q": "Who is responsible of managing storage and database in AWS Cloud?",
+    "a1": "A. Customers",
+    "a2": "B. AWS",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 5,
+    "q": "Which AWS service helps you build text chatbots?",
+    "a1": "A. Amazon Lex",
+    "a2": "B. Amazon Transcribe",
+    "a3": "C. Amazon Polly",
+    "a4": "D. Amazon Comprehend",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 6,
+    "q": "Which database is ideal for large organizations and enterprises?",
+    "a1": "A. Amazon Aurora",
+    "a2": "B. PostgreSQL",
+    "a3": "C. MySQL",
+    "a4": "",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 7,
+    "q": "If an instance store reboots, does the data in the instance persist?",
+    "a1": "A. No",
+    "a2": "B. Yes",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 8,
+    "q": "What is an IAM Policy?",
+    "a1": "A. IAM Policy is an entity that interacts with AWS resources or services",
+    "a2": "B. IAM Policy is a document that customizes user permissions for AWS services and resources",
+    "a3": "C. IAM Policy is a temporary access to AWS services or resources",
+    "a4": "",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 9,
+    "q": "Who is responsible of managing platform and custmer data in the AWS Cloud?",
+    "a1": "A. AWS",
+    "a2": "B. Customers",
+    "a3": "",
+    "a4": "",
+    "a5": "",
+    "as": "B"
+  },
+  {
+    "id": 10,
+    "q": "Which AWS database service proviced historical data of your application changes?",
+    "a1": "A. AWS Quantum Ledger Database",
+    "a2": "B. AWS Neptune",
+    "a3": "C. AWS DocumentDB",
+    "a4": "D. AWS ElastiCache",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 11,
+    "q": "What does AWS Marketplace allows you to do?",
+    "a1": "A. AWS Marketplace lets you list and sell software",
+    "a2": "B. AWS Marketplace lets you list all AWS Cloud Services",
+    "a3": "C. AWS Marketplace lets you see the cost analysis of all AWS Cloud Services",
+    "a4": "",
+    "a5": "",
+    "as": "A"
+  },
+  {
+    "id": 12,
+    "q": "Which service helps you reduce development time and complexity of Machine Learning (ML)?",
+    "a1": "A. AWS SageMaker",
+    "a2": "B. AWS Lex",
+    "a3": "C. AWS Redshift",
+    "a4": "D. AWS Elastic Beanstalk",
+    "a5": "",
+    "as": "A"
   }
 ]
